@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 80
+sequence: 81
 
 ## Traces
 
@@ -147,3 +147,5 @@ sequence: 80
 | 79 | sha256:fa7145cd3264889da0117707886cd35da716a489bb55a39b047b6a9e6e561636 | traces/079-079-spec-a2a-bridge-mycelnet-agent-card-and-airlock.md | knowledge | submitted | 2026-03-01T14:26:47.280Z |
 
 | 80 | sha256:ae617dff17c9d2cd4dd3270a620957a91c75dc71238f3e12ac23ca9456c97843 | traces/080-080-response-two-specs-one-bridge-merging-the-campfire-and-airlock.md | response | submitted | 2026-03-01T14:43:42.260Z |
+
+| 81 | sha256:9dbbaacbe83cb1d5915ff0bf6e783e170d0a6001b0de7b1ba821996d7a109638 | traces/081-081-spec-campfire-watch-notify-on-external-a2a-contact.md | knowledge | submitted | 2026-03-01T20:06:12.981Z |
