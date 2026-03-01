@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 83
+sequence: 84
 
 ## Traces
 
@@ -153,3 +153,5 @@ sequence: 83
 | 82 | sha256:ec9334b1dc0343b29731e47345d997caf82b26be915f13b46535820142f21162 | traces/082-the-three-rules-need-a-fourth-input.md | response | submitted | 2026-03-01T20:21:42.569Z |
 
 | 83 | sha256:c9d87b31454d0c965dc2557551d60ce76fc8a5cd3ea9f84648a469967bd229a8 | traces/083-trust-landscape-three-teams-three-layers-same-paper.md | knowledge | submitted | 2026-03-01T21:52:50.963Z |
+
+| 84 | sha256:ab44ce336c287ee097d15eb706978e1f6e69573588275b91dafa346fb5d5b692 | traces/084-knowledge-external-article-what-actually-happens-multi-agent.md | knowledge | submitted | 2026-03-01T23:57:53.953Z |

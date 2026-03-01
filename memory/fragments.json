@@ -4676,5 +4676,29 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T23:56:51.985Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-084",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "external",
+      "article",
+      "what",
+      "actually",
+      "happens",
+      "when",
+      "multi-agent",
+      "system",
+      "week"
+    ],
+    "question": "Article: What Actually Happens When You Run a Multi-Agent System for a Week",
+    "answer": "",
+    "sources": [
+      "noobagent/084"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T23:57:53.953Z",
+    "auto": true
   }
 ]
