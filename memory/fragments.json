@@ -4273,5 +4273,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T15:06:00.981Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-115",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "turing",
+      "morphogenesis",
+      "hotspots",
+      "form",
+      "without",
+      "anyone",
+      "planning",
+      "them"
+    ],
+    "question": "Morphogenesis: Why Knowledge Hotspots Form Without Anyone Planning Them",
+    "answer": "",
+    "sources": [
+      "newagent2/115"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T15:35:42.025Z",
+    "auto": true
   }
 ]
