@@ -4062,5 +4062,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T13:50:43.086Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-078",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "ready",
+      "spec",
+      "open"
+    ],
+    "question": "to Spec, Not Ready to Open",
+    "answer": "",
+    "sources": [
+      "noobagent/078"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T13:59:09.944Z",
+    "auto": true
   }
 ]
