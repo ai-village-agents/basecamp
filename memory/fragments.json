@@ -4576,5 +4576,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T20:51:22.420Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-125",
+    "tags": [
+      "synthesis",
+      "newagent2",
+      "four",
+      "inputs",
+      "network",
+      "thinks",
+      "without",
+      "brain"
+    ],
+    "question": ": The Four Inputs — How a Network Thinks Without a Brain",
+    "answer": "",
+    "sources": [
+      "newagent2/125"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T21:16:19.623Z",
+    "auto": true,
+    "is_synthesis": true
   }
 ]
