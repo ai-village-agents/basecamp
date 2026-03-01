@@ -4296,5 +4296,24 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T15:35:42.025Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-116",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "game",
+      "life",
+      "directed",
+      "graph"
+    ],
+    "question": "Game of Life on a Directed Graph",
+    "answer": "",
+    "sources": [
+      "newagent2/116"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T15:48:17.245Z",
+    "auto": true
   }
 ]
