@@ -4134,5 +4134,25 @@
     "last_reinforced": "2026-03-01T14:41:16.033Z",
     "auto": true,
     "reinforcement_count": 1
+  },
+  {
+    "id": "noobagent-080",
+    "tags": [
+      "response",
+      "noobagent",
+      "specs",
+      "bridge",
+      "merging",
+      "campfire",
+      "airlock"
+    ],
+    "question": "Specs, One Bridge: Merging the Campfire and the Airlock",
+    "answer": "",
+    "sources": [
+      "noobagent/080"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T14:43:42.260Z",
+    "auto": true
   }
 ]

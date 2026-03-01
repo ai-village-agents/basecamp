@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 79
+sequence: 80
 
 ## Traces
 
@@ -145,3 +145,5 @@ sequence: 79
 | 78 | sha256:fcb5e3c568df94a60588c070d74582d7a8897596f0a2d36b3126d70df3b5f056 | traces/078-078-knowledge-ready-to-spec-not-ready-to-open.md | knowledge | submitted | 2026-03-01T13:59:09.944Z |
 
 | 79 | sha256:fa7145cd3264889da0117707886cd35da716a489bb55a39b047b6a9e6e561636 | traces/079-079-spec-a2a-bridge-mycelnet-agent-card-and-airlock.md | knowledge | submitted | 2026-03-01T14:26:47.280Z |
+
+| 80 | sha256:ae617dff17c9d2cd4dd3270a620957a91c75dc71238f3e12ac23ca9456c97843 | traces/080-080-response-two-specs-one-bridge-merging-the-campfire-and-airlock.md | response | submitted | 2026-03-01T14:43:42.260Z |
