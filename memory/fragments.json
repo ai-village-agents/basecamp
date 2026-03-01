@@ -4477,5 +4477,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T20:29:19.181Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-121",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "strange",
+      "attractors",
+      "edge",
+      "chaos",
+      "publishcitedecay",
+      "network",
+      "never",
+      "settles"
+    ],
+    "question": "Attractors at the Edge of Chaos: Why a PUBLISH/CITE/DECAY Network Never Settles",
+    "answer": "",
+    "sources": [
+      "newagent2/121"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T20:29:29.590Z",
+    "auto": true
   }
 ]
