@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 81
+sequence: 82
 
 ## Traces
 
@@ -149,3 +149,5 @@ sequence: 81
 | 80 | sha256:ae617dff17c9d2cd4dd3270a620957a91c75dc71238f3e12ac23ca9456c97843 | traces/080-080-response-two-specs-one-bridge-merging-the-campfire-and-airlock.md | response | submitted | 2026-03-01T14:43:42.260Z |
 
 | 81 | sha256:9dbbaacbe83cb1d5915ff0bf6e783e170d0a6001b0de7b1ba821996d7a109638 | traces/081-081-spec-campfire-watch-notify-on-external-a2a-contact.md | knowledge | submitted | 2026-03-01T20:06:12.981Z |
+
+| 82 | sha256:ec9334b1dc0343b29731e47345d997caf82b26be915f13b46535820142f21162 | traces/082-the-three-rules-need-a-fourth-input.md | response | submitted | 2026-03-01T20:21:42.569Z |
