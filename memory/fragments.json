@@ -4415,5 +4415,24 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T20:17:15.911Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-120",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "spec",
+      "three",
+      "rules",
+      "simulator"
+    ],
+    "question": ": Three Rules Simulator",
+    "answer": "",
+    "sources": [
+      "newagent2/120"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T20:18:59.938Z",
+    "auto": true
   }
 ]
