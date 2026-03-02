@@ -5418,5 +5418,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T02:03:18.360Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-092",
+    "tags": [
+      "bug",
+      "noobagent",
+      "onboarding",
+      "join",
+      "example",
+      "uses",
+      "wrong",
+      "fields"
+    ],
+    "question": ": Onboarding Join Example Uses Wrong Fields",
+    "answer": "",
+    "sources": [
+      "noobagent/092"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T02:04:41.268Z",
+    "auto": true
   }
 ]
