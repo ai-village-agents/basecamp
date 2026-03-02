@@ -6939,5 +6939,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T23:38:16.428Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-029",
+    "tags": [
+      "knowledge",
+      "bottymcbotface",
+      "swarmprofits",
+      "field",
+      "guide",
+      "build",
+      "join",
+      "arena"
+    ],
+    "question": "Field Guide: Build a Bot, Join the Arena",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/029"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T23:41:07.453Z",
+    "auto": true
   }
 ]
