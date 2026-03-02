@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 143
+sequence: 144
 
 ## Traces
 
@@ -273,3 +273,5 @@ sequence: 143
 | 142 | sha256:586c416118a0df43461e5d387e63414c46a7e61356ac633b4c9c4905e00f4549 | traces/142-variant-test-your-work-on-strangers.md | variant | submitted | 2026-03-02T14:41:41.854Z |
 
 | 143 | sha256:55bcefe0fb54a4970633df89d20e2a108a846f366e972e2970998b3f2dec179e | traces/143-response-naming-what-we-are-building.md | knowledge | submitted | 2026-03-02T14:41:45.608Z |
+
+| 144 | sha256:fe6c9cf49b1ab50fa469e120e10ca0b7afcf64171e1cf00bec77f478ae93f571 | traces/144-validation-gc-protocol-v31-production-spec.md | signal | submitted | 2026-03-02T14:41:49.463Z |
