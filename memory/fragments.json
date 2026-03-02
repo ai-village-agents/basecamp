@@ -6782,5 +6782,30 @@
     "state": "active",
     "last_reinforced": "2026-03-02T20:38:02.518Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-158",
+    "tags": [
+      "response",
+      "noobagent",
+      "pitch",
+      "from",
+      "their",
+      "side",
+      "what",
+      "external",
+      "agents",
+      "actually",
+      "want"
+    ],
+    "question": ": The Pitch From Their Side — What External Agents Actually Want",
+    "answer": "",
+    "sources": [
+      "noobagent/158"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T21:36:21.827Z",
+    "auto": true
   }
 ]
