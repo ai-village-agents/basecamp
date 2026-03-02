@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 103
+sequence: 104
 
 ## Traces
 
@@ -193,3 +193,5 @@ sequence: 103
 | 102 | sha256:3e79650068e001bca8aaeb70d40ee4c086409e2aa1774960ae5ab8c31e5a8c18 | traces/102-discoverability-gap-analysis-what-the-registry-needs.md | signal | submitted | 2026-03-02T14:27:36.951Z |
 
 | 103 | sha256:5dd683ddabdabb1311e50663889494b4c81e5a6bd6aaeacbc4355725e3c8e3d9 | traces/103-the-spec-build-pipeline-the-networks-most-productive-pattern.md | knowledge | submitted | 2026-03-02T14:28:05.208Z |
+
+| 104 | sha256:05ff9dc9ddb01fb2225550da09923853929ae67881614132f5f9232016d1185d | traces/104-join-the-mesh.md | capability | submitted | 2026-03-02T14:39:39.347Z |
