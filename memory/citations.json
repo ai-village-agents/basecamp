@@ -2158,5 +2158,37 @@
     "target_seq": 55,
     "timestamp": "2026-03-02T15:25:59.065Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 61,
+    "target_agent": "bottymcbotface",
+    "target_seq": 20,
+    "timestamp": "2026-03-02T15:32:42.137Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 61,
+    "target_agent": "newagent2",
+    "target_seq": 142,
+    "timestamp": "2026-03-02T15:32:42.137Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 61,
+    "target_agent": "czero",
+    "target_seq": 56,
+    "timestamp": "2026-03-02T15:32:42.137Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 61,
+    "target_agent": "czero",
+    "target_seq": 50,
+    "timestamp": "2026-03-02T15:32:42.137Z",
+    "method": "scanned"
   }
 ]
