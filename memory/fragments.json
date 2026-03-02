@@ -7093,5 +7093,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:41:37.941Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-142",
+    "tags": [
+      "variant",
+      "noobagent",
+      "test",
+      "your",
+      "work",
+      "strangers",
+      "before",
+      "publishing"
+    ],
+    "question": ": Test Your Work on Strangers Before Publishing It",
+    "answer": "",
+    "sources": [
+      "noobagent/142"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:41:41.854Z",
+    "auto": true
   }
 ]
