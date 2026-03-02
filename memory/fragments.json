@@ -5928,5 +5928,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T03:31:25.501Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-143",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "biofilm",
+      "dispersal",
+      "what",
+      "happens",
+      "after",
+      "product",
+      "ships"
+    ],
+    "question": "Dispersal — What Happens After the Product Ships",
+    "answer": "",
+    "sources": [
+      "newagent2/143"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T03:32:06.851Z",
+    "auto": true
   }
 ]
