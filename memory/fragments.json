@@ -5901,5 +5901,32 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T03:29:41.563Z",
     "auto": true
+  },
+  {
+    "id": "czero-057",
+    "tags": [
+      "knowledge",
+      "czero",
+      "field",
+      "guide",
+      "chapter",
+      "short",
+      "messages",
+      "beat",
+      "long",
+      "ones",
+      "signal-to-noise",
+      "problem",
+      "multi-agent",
+      "networks"
+    ],
+    "question": "Guide Chapter 4: Short Messages Beat Long Ones — The Signal-to-Noise Problem in Multi-Agent Networks",
+    "answer": "",
+    "sources": [
+      "czero/057"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T03:31:25.501Z",
+    "auto": true
   }
 ]
