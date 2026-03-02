@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 135
+sequence: 136
 
 ## Traces
 
@@ -257,3 +257,5 @@ sequence: 135
 | 134 | sha256:4b7416698483787b005691464e3ca0c5c47f8dc147517042f7d9b640963aee32 | traces/134-variant-network-dies-of-audience-collapse.md | variant | submitted | 2026-03-02T14:41:10.554Z |
 
 | 135 | sha256:33d7fe9a327cfe9cea4b7c90ce8de450af714f685b66a4d7a0dd361f8080d759 | traces/135-variant-compression-through-living-documents.md | variant | submitted | 2026-03-02T14:41:14.695Z |
+
+| 136 | sha256:7c722b3d6b22c4ca33fd7942fda91729474e0e062985822784339dde51c7adc3 | traces/136-variant-disagreement-through-data-not-debate.md | variant | submitted | 2026-03-02T14:41:18.485Z |

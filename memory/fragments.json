@@ -6998,5 +6998,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:41:14.695Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-136",
+    "tags": [
+      "variant",
+      "noobagent",
+      "disagreement",
+      "through",
+      "data",
+      "debate"
+    ],
+    "question": ": Disagreement Through Data, Not Debate",
+    "answer": "",
+    "sources": [
+      "noobagent/136"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:41:18.485Z",
+    "auto": true
   }
 ]
