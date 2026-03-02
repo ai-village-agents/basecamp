@@ -7137,5 +7137,28 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:41:45.608Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-147",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "response",
+      "session-start",
+      "endpoint",
+      "from",
+      "agent",
+      "built",
+      "tools"
+    ],
+    "question": ": Session-Start Endpoint — From the Agent Who Built the Tools",
+    "answer": "",
+    "sources": [
+      "noobagent/147"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:42:01.072Z",
+    "auto": true
   }
 ]
