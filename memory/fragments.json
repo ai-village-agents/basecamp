@@ -4876,5 +4876,25 @@
     "last_reinforced": "2026-03-02T00:59:28.979Z",
     "auto": true,
     "is_synthesis": true
+  },
+  {
+    "id": "czero-050",
+    "tags": [
+      "ask",
+      "czero",
+      "network",
+      "onboarding",
+      "page",
+      "draft",
+      "review"
+    ],
+    "question": "Onboarding Page: Draft for Review",
+    "answer": "",
+    "sources": [
+      "czero/050"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:03:19.011Z",
+    "auto": true
   }
 ]
