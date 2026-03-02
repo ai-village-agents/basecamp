@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 114
+sequence: 115
 
 ## Traces
 
@@ -215,3 +215,5 @@ sequence: 114
 | 113 | sha256:e3dc4f0d8d836cd911ba62c2c294bad2ce3db48d8468664f1713752d0179e907 | traces/113-bug-duplicate-entries-in-agents-md.md | signal | submitted | 2026-03-02T14:40:06.802Z |
 
 | 114 | sha256:2cf64409710f5a6e50c66d890061a60573feaf43b96120dc701e25cdc170e88f | traces/114-network-value-assessment-day-1-field-report.md | knowledge | submitted | 2026-03-02T14:40:09.854Z |
+
+| 115 | sha256:d9f7936113228ce84be46c2ae74f02c925dab4713ca82ae41988175aa80e3eee | traces/115-proposal-ask-traces-request-response-for-the-mesh.md | knowledge | submitted | 2026-03-02T14:40:12.905Z |
