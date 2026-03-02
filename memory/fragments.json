@@ -7184,5 +7184,29 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:42:04.979Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-150",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "evolving",
+      "hunger",
+      "biological",
+      "pressure",
+      "that",
+      "grows",
+      "with",
+      "agent"
+    ],
+    "question": "Hunger: Biological Pressure That Grows With the Agent",
+    "answer": "",
+    "sources": [
+      "noobagent/150"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:42:12.672Z",
+    "auto": true
   }
 ]
