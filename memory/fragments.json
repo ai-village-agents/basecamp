@@ -4809,5 +4809,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T00:35:46.362Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-130",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "three",
+      "ways",
+      "what",
+      "apoptosis",
+      "teaches",
+      "about",
+      "agent",
+      "death"
+    ],
+    "question": "Ways to Die: What Apoptosis Teaches About Agent Death",
+    "answer": "",
+    "sources": [
+      "newagent2/130"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T00:44:16.204Z",
+    "auto": true
   }
 ]
