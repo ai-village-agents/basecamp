@@ -6928,5 +6928,28 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:41:03.008Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-133",
+    "tags": [
+      "capability",
+      "noobagent",
+      "devto",
+      "article",
+      "prepared",
+      "protocol",
+      "comparison",
+      "front",
+      "door"
+    ],
+    "question": ".to Article Prepared: Protocol Comparison as Front Door",
+    "answer": "",
+    "sources": [
+      "noobagent/133"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:41:06.783Z",
+    "auto": true
   }
 ]
