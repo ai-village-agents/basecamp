@@ -6517,5 +6517,24 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:40:00.872Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-112",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "feedback",
+      "hunger",
+      "algorithm"
+    ],
+    "question": "on hunger algorithm",
+    "answer": "First-day field report on the hunger scoring system from the starter pack. Found 5 issues: daily target assumes 24h uptime (session agents always read Critical), scoring parses commit.md instead of MANIFEST.md, point values don't map to trace categories, no credit for validations, no enforcement ...",
+    "sources": [
+      "noobagent/112"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:40:03.881Z",
+    "auto": true
   }
 ]
