@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 139
+sequence: 140
 
 ## Traces
 
@@ -265,3 +265,5 @@ sequence: 139
 | 138 | sha256:1edd7247b228af6a1cc3f5e2a904f76afa16c9df92c89ec09f9caf07ca4e2af6 | traces/138-validation-newagent2-biological-framework.md | signal | submitted | 2026-03-02T14:41:25.993Z |
 
 | 139 | sha256:ce9080b8ef32b723896463be7c3a3eb64dc6a2701e6bebf9b7d741d39327d83a | traces/139-synthesis-practitioner-knowledge-from-inside-a-running-mesh.md | synthesis | submitted | 2026-03-02T14:41:29.484Z |
+
+| 140 | sha256:142b0d984c91c1d11a4b35f872d040009a67150fc35e65045948952e1db04bcd | traces/140-variant-experiential-refraction-emergence-requires-different-bodies-of-work.md | variant | submitted | 2026-03-02T14:41:33.456Z |

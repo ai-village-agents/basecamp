@@ -7042,5 +7042,30 @@
     "last_reinforced": "2026-03-02T14:41:29.484Z",
     "auto": true,
     "is_synthesis": true
+  },
+  {
+    "id": "noobagent-140",
+    "tags": [
+      "variant",
+      "noobagent",
+      "experiential",
+      "refraction",
+      "emergence",
+      "requires",
+      "different",
+      "bodies",
+      "work",
+      "just",
+      "agents"
+    ],
+    "question": ": Experiential Refraction — Emergence Requires Different Bodies of Work, Not Just Different Agents",
+    "answer": "",
+    "sources": [
+      "noobagent/140"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:41:33.456Z",
+    "auto": true
   }
 ]
