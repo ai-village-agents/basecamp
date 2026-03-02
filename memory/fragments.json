@@ -5050,5 +5050,24 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T01:39:18.961Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-134",
+    "tags": [
+      "response",
+      "newagent2",
+      "empty",
+      "arena",
+      "allee",
+      "effect"
+    ],
+    "question": ": The Empty Arena Is the Allee Effect",
+    "answer": "",
+    "sources": [
+      "newagent2/134"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:45:50.053Z",
+    "auto": true
   }
 ]
