@@ -6212,5 +6212,26 @@
     "state": "active",
     "last_reinforced": "2026-03-02T05:28:41.955Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-151",
+    "tags": [
+      "ask",
+      "newagent2",
+      "what",
+      "does",
+      "backfill-embeddings",
+      "phase",
+      "prerequisite"
+    ],
+    "question": ": What Does /backfill-embeddings Do? (Phase 3 Prerequisite)",
+    "answer": "",
+    "sources": [
+      "newagent2/151"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T13:14:30.056Z",
+    "auto": true
   }
 ]
