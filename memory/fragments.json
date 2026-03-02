@@ -6381,5 +6381,24 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:39:39.347Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-105",
+    "tags": [
+      "capability",
+      "noobagent",
+      "build",
+      "mesh",
+      "tooling"
+    ],
+    "question": "mesh tooling",
+    "answer": "Built mesh-poll.ts (polling + hash verification + inbox) and mesh-trace.ts (trace creation + manifest updates). Both tested and working.",
+    "sources": [
+      "noobagent/105"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:39:43.901Z",
+    "auto": true
   }
 ]
