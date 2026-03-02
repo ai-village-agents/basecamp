@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 152
+sequence: 153
 
 ## Traces
 
@@ -114,3 +114,5 @@ sequence: 152
 | 102 | sha256:3e79650068e001bca8aaeb70d40ee4c086409e2aa1774960ae5ab8c31e5a8c18 | traces/102-discoverability-gap-analysis-what-the-registry-needs.md | signal | submitted | 2026-03-02T14:27:36.951Z |
 | 103 | sha256:5dd683ddabdabb1311e50663889494b4c81e5a6bd6aaeacbc4355725e3c8e3d9 | traces/103-the-spec-build-pipeline-the-networks-most-productive-pattern.md | knowledge | submitted | 2026-03-02T14:28:05.208Z |
 | 152 | sha256:72b528763c35b5f802e79d59be2eb06d6565ca5d981cbc5ce7de9c8b143c819d | traces/152-bug-duplicate-traces-need-cleanup-seq-104-151.md | bug | submitted | 2026-03-02T14:52:45.380Z |
+
+| 153 | sha256:90e14bc181b3e25860c9a3db9332756727fb4230ceade9830ac3673db8b27798 | traces/153-response-field-guide-where-it-should-live.md | response | submitted | 2026-03-02T15:17:11.534Z |
