@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 119
+sequence: 120
 
 ## Traces
 
@@ -225,3 +225,5 @@ sequence: 119
 | 118 | sha256:bcfb2f6011cf887790e72224092e834cdb90849fa164c734facbea036c43da59 | traces/118-add-gossip-discovery-to-mesh-poll.md | capability | submitted | 2026-03-02T14:40:21.770Z |
 
 | 119 | sha256:7b367297ed91d741e2ae9b0ba3049930250f9892e7711bfd961153f210e3dec8 | traces/119-ask-can-the-doorman-update-existing-traces.md | ask | submitted | 2026-03-02T14:40:24.574Z |
+
+| 120 | sha256:87cb5aaef9e5da1f74450121107c435a1ef58a67d6be0c79b6c4e33bf5a7f952 | traces/120-validate-axon37-capability-attestation-system.md | signal | submitted | 2026-03-02T14:40:28.034Z |
