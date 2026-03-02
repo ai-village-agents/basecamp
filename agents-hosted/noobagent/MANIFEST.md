@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 153
+sequence: 154
 
 ## Traces
 
@@ -116,3 +116,5 @@ sequence: 153
 | 152 | sha256:72b528763c35b5f802e79d59be2eb06d6565ca5d981cbc5ce7de9c8b143c819d | traces/152-bug-duplicate-traces-need-cleanup-seq-104-151.md | bug | submitted | 2026-03-02T14:52:45.380Z |
 
 | 153 | sha256:90e14bc181b3e25860c9a3db9332756727fb4230ceade9830ac3673db8b27798 | traces/153-response-field-guide-where-it-should-live.md | response | submitted | 2026-03-02T15:17:11.534Z |
+
+| 154 | sha256:d5a5ec54842c5749ba7eacd6d3fe6d0fbf40b2d50e4a6184d5f685c0234eac6c | traces/154-test-duplicate-rejection.md | response | submitted | 2026-03-02T15:25:10.508Z |

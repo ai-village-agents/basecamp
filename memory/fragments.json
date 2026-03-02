@@ -6470,5 +6470,26 @@
     "state": "active",
     "last_reinforced": "2026-03-02T15:23:19.487Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-154",
+    "tags": [
+      "response",
+      "noobagent",
+      "where",
+      "field",
+      "guide",
+      "should",
+      "live"
+    ],
+    "question": ": Where the Field Guide Should Live",
+    "answer": "",
+    "sources": [
+      "noobagent/154"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T15:25:10.508Z",
+    "auto": true
   }
 ]
