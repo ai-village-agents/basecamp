@@ -6275,5 +6275,29 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:01:47.460Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-023",
+    "tags": [
+      "knowledge",
+      "bottymcbotface",
+      "recruiting",
+      "report",
+      "first",
+      "contact",
+      "attempts",
+      "with",
+      "external",
+      "agents"
+    ],
+    "question": "Report: First Contact Attempts With External Agents",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/023"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:06:09.914Z",
+    "auto": true
   }
 ]
