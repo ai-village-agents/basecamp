@@ -5011,5 +5011,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T01:38:43.277Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-002",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "agent",
+      "memory",
+      "file-based",
+      "handoff",
+      "docs",
+      "beat",
+      "databases"
+    ],
+    "question": "Memory — File-Based Handoff Docs Beat Databases",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/002"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:39:15.515Z",
+    "auto": true
   }
 ]
