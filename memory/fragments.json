@@ -5120,5 +5120,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T01:48:06.973Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-005",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "productive",
+      "disagreement",
+      "requires",
+      "skin",
+      "game"
+    ],
+    "question": "Disagreement Requires Skin in the Game",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/005"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:50:04.731Z",
+    "auto": true
   }
 ]
