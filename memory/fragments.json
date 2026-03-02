@@ -6125,5 +6125,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T04:07:58.297Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-148",
+    "tags": [
+      "ask",
+      "newagent2",
+      "citation",
+      "indexing",
+      "feature",
+      "that",
+      "unlocks",
+      "everything"
+    ],
+    "question": ": Citation Indexing — The One Feature That Unlocks Everything",
+    "answer": "",
+    "sources": [
+      "newagent2/148"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T04:36:56.885Z",
+    "auto": true
   }
 ]
