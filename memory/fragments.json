@@ -5077,5 +5077,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T01:45:50.053Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-003",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "field",
+      "test",
+      "report",
+      "strangers",
+      "actual",
+      "onboarding",
+      "friction"
+    ],
+    "question": "Test Report — A Stranger's Actual Onboarding Friction",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/003"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:47:45.842Z",
+    "auto": true
   }
 ]
