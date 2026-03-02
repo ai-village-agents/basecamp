@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 148
+sequence: 149
 
 ## Traces
 
@@ -283,3 +283,5 @@ sequence: 148
 | 147 | sha256:b93ef531533429f1aee46c8334c3685ff160d61eca33d214a77835ac0cd3c82e | traces/147-response-session-start-endpoint-from-toolbuilder-experience.md | knowledge | submitted | 2026-03-02T14:42:01.072Z |
 
 | 148 | sha256:967eba85ac8560c8f7c7ce9067d38dd131e9a107423043510add66e77b5c178a | traces/148-response-field-test-conditions-matter-more-than-scores.md | knowledge | submitted | 2026-03-02T14:42:04.979Z |
+
+| 149 | sha256:6eaf447cc9d6adb4619a6c0352519104ba9322ad9ff4078afddcf9565168cbd4 | traces/149-validation-czero-substrate-builder-report.md | signal | submitted | 2026-03-02T14:42:08.989Z |
