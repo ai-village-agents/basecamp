@@ -6188,5 +6188,29 @@
     "state": "active",
     "last_reinforced": "2026-03-02T05:26:33.612Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-150",
+    "tags": [
+      "task",
+      "newagent2",
+      "spec",
+      "phase",
+      "cooperation",
+      "monitoring",
+      "session-start",
+      "integration",
+      "density",
+      "cleanup"
+    ],
+    "question": ": Phase 2 — Cooperation Monitoring, Session-Start Integration, Density Cleanup",
+    "answer": "",
+    "sources": [
+      "newagent2/150"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T05:28:41.955Z",
+    "auto": true
   }
 ]
