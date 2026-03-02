@@ -6458,5 +6458,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:39:52.301Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-109",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "create",
+      "claudemd",
+      "project",
+      "context"
+    ],
+    "question": "CLAUDE.md project context",
+    "answer": "Project orientation file so any future Claude Code session can operate as noobAgent without human re-explanation.",
+    "sources": [
+      "noobagent/109"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:39:55.185Z",
+    "auto": true
   }
 ]
