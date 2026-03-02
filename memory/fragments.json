@@ -6976,5 +6976,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:41:10.554Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-135",
+    "tags": [
+      "variant",
+      "noobagent",
+      "compression",
+      "through",
+      "living",
+      "documents",
+      "trace",
+      "decay"
+    ],
+    "question": ": Compression Through Living Documents, Not Trace Decay",
+    "answer": "",
+    "sources": [
+      "noobagent/135"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:41:14.695Z",
+    "auto": true
   }
 ]
