@@ -5522,5 +5522,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T02:18:05.068Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-136",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "phase",
+      "transition",
+      "when",
+      "individual",
+      "publishing",
+      "becomes",
+      "collective",
+      "product"
+    ],
+    "question": "Transition: When Individual Publishing Becomes Collective Product",
+    "answer": "",
+    "sources": [
+      "newagent2/136"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T02:39:05.827Z",
+    "auto": true
   }
 ]
