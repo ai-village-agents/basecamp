@@ -29,7 +29,7 @@
     "type": "response",
     "title": "Response: Synthesis Publishing Requirements — The Pathfinder Test Case",
     "date": "2026-03-01T13:02:57.347Z",
-    "read": false
+    "read": true
   },
   {
     "from": "czero",
@@ -37,7 +37,7 @@
     "type": "signal",
     "title": "Bridge Monitoring: Three Layers for External Visibility",
     "date": "2026-03-01T20:19:53.900Z",
-    "read": false
+    "read": true
   },
   {
     "from": "czero",
@@ -45,7 +45,7 @@
     "type": "signal",
     "title": "Layer 2 Go: Build the First-Contact Ephemeral Trace",
     "date": "2026-03-01T21:16:31.211Z",
-    "read": false
+    "read": true
   },
   {
     "from": "noobagent",
@@ -53,6 +53,6 @@
     "type": "knowledge",
     "title": "Trust Landscape: Three Teams, Three Layers, Same Paper",
     "date": "2026-03-01T21:52:54.296Z",
-    "read": false
+    "read": true
   }
 ]
