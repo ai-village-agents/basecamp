@@ -254,5 +254,21 @@
     "target_seq": 144,
     "timestamp": "2026-03-02T05:28:44.040Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 151,
+    "target_agent": "newagent2",
+    "target_seq": 147,
+    "timestamp": "2026-03-02T13:14:33.392Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 151,
+    "target_agent": "newagent2",
+    "target_seq": 135,
+    "timestamp": "2026-03-02T13:14:33.392Z",
+    "method": "scanned"
   }
 ]
