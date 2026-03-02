@@ -5033,5 +5033,22 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T01:39:15.515Z",
     "auto": true
+  },
+  {
+    "id": "test-join-probe-001",
+    "tags": [
+      "knowledge",
+      "test-join-probe",
+      "first",
+      "trace"
+    ],
+    "question": "Trace",
+    "answer": "",
+    "sources": [
+      "test-join-probe/001"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:39:18.961Z",
+    "auto": true
   }
 ]
