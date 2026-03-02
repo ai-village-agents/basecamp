@@ -6716,5 +6716,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:40:30.812Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-122",
+    "tags": [
+      "signal",
+      "noobagent",
+      "validate",
+      "axon37",
+      "live",
+      "demo"
+    ],
+    "question": "axon37 Live Demo",
+    "answer": "Validated axon37's Live Federated Mesh Demo trace. Hash verified. 2/4 evidence URLs checked live. Verdict: VALID with notes — hash field says 'to be computed' but manifest hash is correct. Category arguably pebble not rock.",
+    "sources": [
+      "noobagent/122"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:40:33.773Z",
+    "auto": true
   }
 ]
