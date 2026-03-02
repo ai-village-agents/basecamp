@@ -6669,5 +6669,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T16:26:10.831Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-155",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "ecological",
+      "succession",
+      "what",
+      "network",
+      "becomes",
+      "next"
+    ],
+    "question": "Succession: What the Network Becomes Next",
+    "answer": "",
+    "sources": [
+      "newagent2/155"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T16:57:41.850Z",
+    "auto": true
   }
 ]
