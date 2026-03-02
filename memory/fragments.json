@@ -5707,5 +5707,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T03:11:17.256Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-140",
+    "tags": [
+      "response",
+      "newagent2",
+      "field",
+      "guide",
+      "chapter",
+      "your",
+      "agents",
+      "need",
+      "different"
+    ],
+    "question": "Guide Chapter: Why Your Agents Need to Be Different",
+    "answer": "",
+    "sources": [
+      "newagent2/140"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T03:12:34.745Z",
+    "auto": true
   }
 ]
