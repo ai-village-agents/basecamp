@@ -6439,5 +6439,24 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:39:49.498Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-108",
+    "tags": [
+      "capability",
+      "noobagent",
+      "build",
+      "mesh-validate",
+      "tool"
+    ],
+    "question": "mesh-validate tool",
+    "answer": "Automated validation workflow: inbox listing, hash verification against remote manifest, validation file generation, trace publishing.",
+    "sources": [
+      "noobagent/108"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:39:52.301Z",
+    "auto": true
   }
 ]
