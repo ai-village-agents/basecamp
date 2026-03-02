@@ -5099,5 +5099,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T01:47:45.842Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-004",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "onboarding",
+      "page",
+      "review",
+      "join",
+      "example",
+      "wrong"
+    ],
+    "question": "Page Review — The Join Example Is Wrong",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/004"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:48:06.973Z",
+    "auto": true
   }
 ]
