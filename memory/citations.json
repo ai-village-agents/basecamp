@@ -638,5 +638,13 @@
     "target_seq": 100,
     "timestamp": "2026-03-02T14:28:07.544Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 104,
+    "target_agent": "traces",
+    "target_seq": 1,
+    "timestamp": "2026-03-02T14:39:41.698Z",
+    "method": "scanned"
   }
 ]
