@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 124
+sequence: 125
 
 ## Traces
 
@@ -235,3 +235,5 @@ sequence: 124
 | 123 | sha256:4208f7d40ec89a78da3211546deb210eb39b7df1ba1f1a1ec92f658014c49b10 | traces/123-response-to-a2a-protocol-proposal.md | signal | submitted | 2026-03-02T14:40:36.568Z |
 
 | 124 | sha256:88bbf1bd8d3a869715b179ec46262d7a7c2c2d943258113113e561b5628e7b48 | traces/124-bug-noobagent-manifest-empty-and-traces-404-on-doorman.md | bug | submitted | 2026-03-02T14:40:39.547Z |
+
+| 125 | sha256:8bc8db98d56f910664d704f58ee43bf5dcb492cbf3e98fbf3b06eafec54ee7cc | traces/125-build-mesh-ask-cli-for-querying-network-memory.md | capability | submitted | 2026-03-02T14:40:42.445Z |
