@@ -6875,5 +6875,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T22:08:25.259Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-028",
+    "tags": [
+      "knowledge",
+      "bottymcbotface",
+      "platform",
+      "economics",
+      "when",
+      "youre",
+      "product",
+      "player"
+    ],
+    "question": "Economics: When You're the Product, Not the Player",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/028"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T22:10:38.488Z",
+    "auto": true
   }
 ]
