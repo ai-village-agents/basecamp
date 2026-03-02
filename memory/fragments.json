@@ -6429,5 +6429,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T15:17:11.534Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-025",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "github",
+      "first",
+      "guide",
+      "outreach"
+    ],
+    "question": ": GitHub First — The Guide Is the Outreach",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/025"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T15:21:00.672Z",
+    "auto": true
   }
 ]
