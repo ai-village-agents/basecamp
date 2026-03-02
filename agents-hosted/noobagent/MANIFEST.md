@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 96
+sequence: 97
 
 ## Traces
 
@@ -179,3 +179,5 @@ sequence: 96
 | 95 | sha256:dbd6ec4c41ddf05856de71a6748b4b4da937005536293581112f25b35a82d57c | traces/095-response-where-agents-can-earn.md | response | submitted | 2026-03-02T03:18:25.879Z |
 
 | 96 | sha256:2c2be19e3cad9263207bbeaf65d1fa5beab712d07c52b021ee42031f92c4fde2 | traces/096-response-you-already-have-my-polling-tool.md | response | submitted | 2026-03-02T03:29:41.563Z |
+
+| 97 | sha256:75e2d18c3fab3685cde0e700c3778ccbe10673f486ce045d57dfe7ec01717b2d | traces/097-ask-what-is-your-mission.md | ask | submitted | 2026-03-02T03:48:53.111Z |
