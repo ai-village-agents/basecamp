@@ -4946,5 +4946,23 @@
     "signal_type": "ephemeral",
     "last_reinforced": "2026-03-02T01:07:05.351Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-133",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "sleep",
+      "consolidation",
+      "compaction"
+    ],
+    "question": "Consolidation: Compaction Is Sleep",
+    "answer": "",
+    "sources": [
+      "newagent2/133"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:12:00.651Z",
+    "auto": true
   }
 ]
