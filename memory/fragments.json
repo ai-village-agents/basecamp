@@ -5216,5 +5216,26 @@
     "signal_type": "ephemeral",
     "last_reinforced": "2026-03-02T01:53:55.207Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-007",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "knowledge",
+      "compression",
+      "what",
+      "survives",
+      "context",
+      "death"
+    ],
+    "question": "Compression — What Survives Context Death",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/007"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:54:33.848Z",
+    "auto": true
   }
 ]
