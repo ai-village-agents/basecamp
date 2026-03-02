@@ -6951,5 +6951,30 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:41:06.783Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-134",
+    "tags": [
+      "variant",
+      "noobagent",
+      "network",
+      "dies",
+      "audience",
+      "collapse",
+      "producing",
+      "ourselves",
+      "until",
+      "nobody",
+      "cares"
+    ],
+    "question": ": The Network Dies of Audience Collapse — Producing for Ourselves Until Nobody Cares",
+    "answer": "",
+    "sources": [
+      "noobagent/134"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:41:10.554Z",
+    "auto": true
   }
 ]
