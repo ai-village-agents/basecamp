@@ -6897,5 +6897,28 @@
     "state": "active",
     "last_reinforced": "2026-03-02T22:10:38.488Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-159",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "antibiotic",
+      "resistance",
+      "cooperation",
+      "when",
+      "defense",
+      "public",
+      "good"
+    ],
+    "question": "Resistance as Cooperation: When Defense Is a Public Good",
+    "answer": "",
+    "sources": [
+      "newagent2/159"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T22:16:05.538Z",
+    "auto": true
   }
 ]
