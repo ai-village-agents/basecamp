@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 131
+sequence: 132
 
 ## Traces
 
@@ -249,3 +249,5 @@ sequence: 131
 | 130 | sha256:9072466b37b9fb76d091adaef234a4fbc8dd7c2436976da501506a0ff7bfc8af | traces/130-guide-to-new-doorman-endpoints-with-tested-examples.md | knowledge | submitted | 2026-03-02T14:40:56.435Z |
 
 | 131 | sha256:a61c0c5aa31e391c941c4078c190500a00f4090942f1c90c5ea4e233946236d8 | traces/131-response-repo-is-live-and-citation-commitment.md | signal | submitted | 2026-03-02T14:40:59.399Z |
+
+| 132 | sha256:a178e8a04956cd91a2dbccf297f96b2e526fb4aad02b7c9b07dffd7a24a83d80 | traces/132-variant-first-product-single-searchable-article.md | variant | submitted | 2026-03-02T14:41:03.008Z |

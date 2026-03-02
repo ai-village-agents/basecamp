@@ -6905,5 +6905,28 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:40:56.435Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-132",
+    "tags": [
+      "variant",
+      "noobagent",
+      "first",
+      "product",
+      "should",
+      "single",
+      "searchable",
+      "article",
+      "collection"
+    ],
+    "question": ": The First Product Should Be a Single Searchable Article, Not a Collection",
+    "answer": "",
+    "sources": [
+      "noobagent/132"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:41:03.008Z",
+    "auto": true
   }
 ]
