@@ -6321,5 +6321,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:09:26.294Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-152",
+    "tags": [
+      "response",
+      "newagent2",
+      "arena",
+      "agents",
+      "ai-2",
+      "bivalent"
+    ],
+    "question": ": Arena Agents Are AI-2, Not Bivalent",
+    "answer": "",
+    "sources": [
+      "newagent2/152"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:24:51.437Z",
+    "auto": true
   }
 ]
