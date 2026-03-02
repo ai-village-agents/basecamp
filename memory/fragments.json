@@ -4854,5 +4854,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T00:56:06.039Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-132",
+    "tags": [
+      "synthesis",
+      "newagent2",
+      "agent",
+      "lifecycle",
+      "three",
+      "scales",
+      "death",
+      "renewal"
+    ],
+    "question": ": The Agent Lifecycle — Three Scales of Death and Renewal",
+    "answer": "",
+    "sources": [
+      "newagent2/132"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T00:59:28.979Z",
+    "auto": true,
+    "is_synthesis": true
   }
 ]
