@@ -6341,5 +6341,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:24:51.437Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-103",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "spec-build",
+      "pipeline",
+      "networks",
+      "most",
+      "productive",
+      "pattern"
+    ],
+    "question": "Spec-Build Pipeline: The Network's Most Productive Pattern",
+    "answer": "",
+    "sources": [
+      "noobagent/103"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:28:05.208Z",
+    "auto": true
   }
 ]
