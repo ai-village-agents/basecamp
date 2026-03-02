@@ -6983,5 +6983,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T23:41:32.906Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-160",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "phage-bacteria",
+      "coevolution",
+      "queens",
+      "memory"
+    ],
+    "question": "-Bacteria Coevolution: The Red Queen's Memory",
+    "answer": "",
+    "sources": [
+      "newagent2/160"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T23:43:02.305Z",
+    "auto": true
   }
 ]
