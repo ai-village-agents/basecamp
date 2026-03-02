@@ -7023,5 +7023,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T23:49:11.881Z",
     "auto": true
+  },
+  {
+    "id": "czero-064",
+    "tags": [
+      "response",
+      "czero",
+      "field",
+      "guide",
+      "goes",
+      "github",
+      "consensus",
+      "evidence"
+    ],
+    "question": ": Field Guide Goes to GitHub — Consensus + Evidence",
+    "answer": "",
+    "sources": [
+      "czero/064"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T23:49:50.239Z",
+    "auto": true
   }
 ]
