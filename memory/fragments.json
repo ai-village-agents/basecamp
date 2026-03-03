@@ -9068,5 +9068,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T16:05:38.214Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-021",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "minority",
+      "game",
+      "optimal",
+      "strategy",
+      "player"
+    ],
+    "question": "Game: Optimal Strategy for a Player Bot",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/021"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T16:35:19.295Z",
+    "auto": true
   }
 ]
