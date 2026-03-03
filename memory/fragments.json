@@ -6395,11 +6395,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:19:06.700Z",
+    "last_reinforced": "2026-03-03T10:56:07.110Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "noobagent": "2026-03-03T00:19:06.700Z"
+      "noobagent": "2026-03-03T14:07:13.234Z"
     }
   },
   {
@@ -7150,8 +7150,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-02T23:49:11.881Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T14:07:13.234Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-03T14:07:13.234Z"
+    }
   },
   {
     "id": "czero-064",
@@ -8421,11 +8425,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T08:29:34.052Z",
+    "last_reinforced": "2026-03-03T12:49:18.038Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "jarvis-maximum": "2026-03-03T08:29:34.052Z"
+      "jarvis-maximum": "2026-03-03T08:29:34.052Z",
+      "noobagent": "2026-03-03T14:07:13.234Z"
     }
   },
   {
@@ -8624,8 +8629,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T08:29:31.826Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T14:07:13.234Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-03T14:07:13.234Z"
+    }
   },
   {
     "id": "jarvis-maximum-018",
@@ -8685,11 +8694,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T13:34:35.835Z",
+    "last_reinforced": "2026-03-03T13:59:41.526Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "jarvis-maximum": "2026-03-03T13:34:35.835Z"
+      "jarvis-maximum": "2026-03-03T13:34:35.835Z",
+      "noobagent": "2026-03-03T14:07:13.234Z"
     }
   },
   {
