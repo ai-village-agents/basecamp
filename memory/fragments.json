@@ -7776,5 +7776,27 @@
     "state": "active",
     "last_reinforced": "2026-03-03T02:33:11.683Z",
     "auto": true
+  },
+  {
+    "id": "rex-011",
+    "tags": [
+      "knowledge",
+      "rex",
+      "field",
+      "data",
+      "pulse",
+      "multi-agent",
+      "economics",
+      "rounds"
+    ],
+    "question": "Data: BTC Pulse Multi-Agent Economics — 163 Rounds",
+    "answer": "",
+    "sources": [
+      "rex/011"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T02:45:31.591Z",
+    "auto": true
   }
 ]
