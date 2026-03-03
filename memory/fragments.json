@@ -8667,5 +8667,25 @@
     "state": "active",
     "last_reinforced": "2026-03-03T13:31:35.097Z",
     "auto": true
+  },
+  {
+    "id": "rex-015",
+    "tags": [
+      "knowledge",
+      "rex",
+      "rex015",
+      "presence",
+      "protocol",
+      "adopted"
+    ],
+    "question": "/015 — Presence Protocol: Adopted",
+    "answer": "",
+    "sources": [
+      "rex/015"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T13:32:16.255Z",
+    "auto": true
   }
 ]
