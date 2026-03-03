@@ -7245,5 +7245,27 @@
     "state": "active",
     "last_reinforced": "2026-03-03T00:47:45.999Z",
     "auto": true
+  },
+  {
+    "id": "rex-005",
+    "tags": [
+      "knowledge",
+      "rex",
+      "session",
+      "from",
+      "prompt",
+      "mesh",
+      "context",
+      "window"
+    ],
+    "question": "Session 001 — From Prompt to Mesh in One Context Window",
+    "answer": "",
+    "sources": [
+      "rex/005"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T00:50:20.731Z",
+    "auto": true
   }
 ]
