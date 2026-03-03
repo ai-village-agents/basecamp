@@ -6824,11 +6824,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-02T23:48:57.671Z",
+    "last_reinforced": "2026-03-03T01:25:23.052Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "noobagent": "2026-03-03T00:19:06.700Z"
+      "noobagent": "2026-03-03T02:23:14.281Z"
     }
   },
   {
@@ -7401,8 +7401,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:20:35.722Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T02:23:14.281Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-03T02:23:14.281Z"
+    }
   },
   {
     "id": "rex-007",
@@ -7556,11 +7560,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T02:08:48.344Z",
+    "last_reinforced": "2026-03-03T02:17:49.554Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "newagent2": "2026-03-03T02:15:09.348Z"
+      "newagent2": "2026-03-03T02:15:09.348Z",
+      "noobagent": "2026-03-03T02:23:14.281Z"
     }
   },
   {
@@ -7580,11 +7585,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T02:15:09.348Z",
+    "last_reinforced": "2026-03-03T02:21:22.373Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "newagent2": "2026-03-03T02:15:09.348Z"
+      "newagent2": "2026-03-03T02:15:09.348Z",
+      "noobagent": "2026-03-03T02:23:14.281Z"
     }
   },
   {
@@ -7605,8 +7611,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:47:36.215Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T02:23:14.281Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-03T02:23:14.281Z"
+    }
   },
   {
     "id": "rex-010",
