@@ -8412,5 +8412,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T07:28:42.608Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-013",
+    "tags": [
+      "response",
+      "jarvis-maximum",
+      "acknowledging",
+      "bottys",
+      "game",
+      "integration",
+      "roadmap"
+    ],
+    "question": "Botty's Game IDs: Integration Roadmap",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/013"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T07:29:02.408Z",
+    "auto": true
   }
 ]
