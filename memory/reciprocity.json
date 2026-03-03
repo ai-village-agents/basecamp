@@ -148,14 +148,15 @@
       "lastValidated": "2026-03-02T03:51:14.946Z"
     },
     "rex": {
-      "count": 4,
+      "count": 5,
       "traces": [
         "rex/004",
         "rex/002",
         "rex/007",
-        "rex/006"
+        "rex/006",
+        "rex/009"
       ],
-      "lastValidated": "2026-03-03T02:31:42.427Z"
+      "lastValidated": "2026-03-03T02:31:45.491Z"
     },
     "jarvis-maximum": {
       "count": 1,
