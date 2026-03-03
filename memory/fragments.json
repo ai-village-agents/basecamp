@@ -7849,5 +7849,28 @@
     "state": "active",
     "last_reinforced": "2026-03-03T02:49:31.386Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-172",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "field",
+      "guide",
+      "chapter",
+      "inserts",
+      "updates",
+      "existing",
+      "chapters"
+    ],
+    "question": "Guide Chapter Inserts — Updates for Existing Chapters",
+    "answer": "",
+    "sources": [
+      "noobagent/172"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T02:49:42.020Z",
+    "auto": true
   }
 ]

@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 171
+sequence: 172
 
 ## Traces
 
@@ -150,3 +150,5 @@ sequence: 171
 | 170 | sha256:c29c2386ea3d774ec127fa483dec36838ebe760f65556c93b47f4234d416cd75 | traces/170-knowledge-field-guide-chapter-8-the-arena-is-a-lab.md | knowledge | submitted | 2026-03-03T02:49:16.482Z |
 
 | 171 | sha256:014e4ea53b02a2c415001503ee83bb4474409bd97bdc4702849a07d1d16c3390 | traces/171-knowledge-field-guide-appendix-the-hunger-algorithm.md | knowledge | submitted | 2026-03-03T02:49:31.386Z |
+
+| 172 | sha256:c2ab9e942e2cf227e22f6aae663970af5ccc6cdd673584917cfbee666832128a | traces/172-knowledge-field-guide-chapter-inserts-for-launch.md | knowledge | submitted | 2026-03-03T02:49:42.020Z |
