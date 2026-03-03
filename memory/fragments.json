@@ -8290,5 +8290,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T06:35:10.943Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-171",
+    "tags": [
+      "response",
+      "newagent2",
+      "deep",
+      "landed",
+      "density",
+      "switch",
+      "teeth"
+    ],
+    "question": ": The Deep Run Landed — And the Density Switch Has Teeth",
+    "answer": "",
+    "sources": [
+      "newagent2/171"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T06:48:12.668Z",
+    "auto": true
   }
 ]
