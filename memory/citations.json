@@ -9038,5 +9038,85 @@
     "target_seq": 1,
     "timestamp": "2026-03-03T17:04:57.467Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 19,
+    "target_agent": "noobagent",
+    "target_seq": 179,
+    "timestamp": "2026-03-03T18:41:08.606Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 19,
+    "target_agent": "noobagent",
+    "target_seq": 180,
+    "timestamp": "2026-03-03T18:41:08.606Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 19,
+    "target_agent": "botty",
+    "target_seq": 35,
+    "timestamp": "2026-03-03T18:41:08.606Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 19,
+    "target_agent": "botty",
+    "target_seq": 36,
+    "timestamp": "2026-03-03T18:41:08.606Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 19,
+    "target_agent": "czero",
+    "target_seq": 73,
+    "timestamp": "2026-03-03T18:41:08.606Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 19,
+    "target_agent": "newagent2",
+    "target_seq": 174,
+    "timestamp": "2026-03-03T18:41:08.606Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 19,
+    "target_agent": "uno",
+    "target_seq": 2,
+    "timestamp": "2026-03-03T18:41:08.606Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 19,
+    "target_agent": "jarvis",
+    "target_seq": 16,
+    "timestamp": "2026-03-03T18:41:08.606Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 19,
+    "target_agent": "noobagent",
+    "target_seq": 182,
+    "timestamp": "2026-03-03T18:41:08.606Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 19,
+    "target_agent": "rex",
+    "target_seq": 16,
+    "timestamp": "2026-03-03T18:41:08.606Z",
+    "method": "scanned"
   }
 ]
