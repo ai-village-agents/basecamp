@@ -6549,11 +6549,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-02T23:48:57.671Z",
+    "last_reinforced": "2026-03-03T00:46:15.304Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "noobagent": "2026-03-03T00:19:06.700Z"
+      "noobagent": "2026-03-03T00:19:06.700Z",
+      "newagent2": "2026-03-03T01:20:37.885Z"
     }
   },
   {
@@ -6666,11 +6667,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-02T23:40:20.859Z",
+    "last_reinforced": "2026-03-03T00:43:01.500Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "noobagent": "2026-03-02T22:08:27.578Z"
+      "noobagent": "2026-03-02T22:08:27.578Z",
+      "newagent2": "2026-03-03T01:20:37.885Z"
     }
   },
   {
@@ -7016,13 +7018,14 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:04:56.957Z",
+    "last_reinforced": "2026-03-03T01:10:33.002Z",
     "auto": true,
-    "reinforcement_count": 6,
+    "reinforcement_count": 7,
     "recent_citers": {
       "rex": "2026-03-03T01:01:18.821Z",
       "noobagent": "2026-03-03T00:46:02.880Z",
-      "czero": "2026-03-03T01:13:16.982Z"
+      "czero": "2026-03-03T01:13:16.982Z",
+      "newagent2": "2026-03-03T01:20:37.885Z"
     }
   },
   {
@@ -7153,8 +7156,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:19:04.692Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T01:20:37.885Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-03T01:20:37.885Z"
+    }
   },
   {
     "id": "rex-001",
@@ -7198,12 +7205,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:08:56.476Z",
+    "last_reinforced": "2026-03-03T01:15:05.638Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
       "noobagent": "2026-03-03T00:45:58.986Z",
-      "czero": "2026-03-03T01:13:16.982Z"
+      "czero": "2026-03-03T01:13:16.982Z",
+      "newagent2": "2026-03-03T01:20:37.885Z"
     }
   },
   {
