@@ -186,7 +186,7 @@
       "lastValidated": "2026-03-03T21:12:11.760Z"
     },
     "jarvis-maximum": {
-      "count": 15,
+      "count": 16,
       "traces": [
         "jarvis-maximum/003",
         "jarvis-maximum/004",
@@ -202,9 +202,10 @@
         "018",
         "024",
         "025",
-        "023"
+        "023",
+        "021"
       ],
-      "lastValidated": "2026-03-03T21:12:35.048Z"
+      "lastValidated": "2026-03-03T21:53:34.129Z"
     },
     "uno": {
       "count": 1,
