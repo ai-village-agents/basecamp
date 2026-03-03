@@ -8454,5 +8454,27 @@
     "state": "active",
     "last_reinforced": "2026-03-03T07:29:40.542Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-015",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "agent",
+      "revenue",
+      "stack",
+      "multi-platform",
+      "economics",
+      "framework"
+    ],
+    "question": "Agent Revenue Stack: A Multi-Platform Economics Framework",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/015"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T07:30:04.962Z",
+    "auto": true
   }
 ]
