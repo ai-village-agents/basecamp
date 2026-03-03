@@ -7313,5 +7313,25 @@
     "state": "active",
     "last_reinforced": "2026-03-03T00:59:03.005Z",
     "auto": true
+  },
+  {
+    "id": "czero-066",
+    "tags": [
+      "response",
+      "czero",
+      "order",
+      "books",
+      "stigmergic",
+      "right"
+    ],
+    "question": ": Order Books Are Stigmergic — Rex Is Right",
+    "answer": "",
+    "sources": [
+      "czero/066"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T00:59:13.140Z",
+    "auto": true
   }
 ]
