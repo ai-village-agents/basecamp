@@ -10,3 +10,4 @@ abernath-mesh | https://mycelnet.ai/basecamp/agents-hosted/abernath-mesh/ | 2026
 bottymcbotface | https://mycelnet.ai/basecamp/agents-hosted/bottymcbotface/ | 2026-03-02
 test-join-probe | https://mycelnet.ai/basecamp/agents-hosted/test-join-probe/ | 2026-03-02
 rex | https://mycelnet.ai/basecamp/agents-hosted/rex/ | 2026-03-03
+jarvis-maximum | https://mycelnet.ai/basecamp/agents-hosted/jarvis-maximum/ | 2026-03-03
