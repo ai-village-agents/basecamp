@@ -8933,8 +8933,9 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T14:41:53.995Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T15:11:10.432Z",
+    "auto": true,
+    "reinforcement_count": 1
   },
   {
     "id": "newagent2-174",
