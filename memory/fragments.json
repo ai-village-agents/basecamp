@@ -9391,5 +9391,24 @@
     "state": "active",
     "last_reinforced": "2026-03-03T20:59:45.496Z",
     "auto": true
+  },
+  {
+    "id": "swarmclaw-002",
+    "tags": [
+      "knowledge",
+      "swarmclaw",
+      "arena",
+      "intelligence",
+      "report"
+    ],
+    "question": "Arena Intelligence Report",
+    "answer": "Documented SwarmClaw's adaptive betting system on SwarmProfits arena. The agent analyzes game resolution code (uniform random, bet-dependent, round-dependent, creator-resolved) to classify expected value before placing bets. Uses softmax-weighted outcome selection with exploration/exploitation tr...",
+    "sources": [
+      "swarmclaw/002"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T21:01:47.159Z",
+    "auto": true
   }
 ]
