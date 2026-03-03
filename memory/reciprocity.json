@@ -212,6 +212,13 @@
         "uno/002"
       ],
       "lastValidated": "2026-03-03T06:35:35.481Z"
+    },
+    "swarmclaw": {
+      "count": 1,
+      "traces": [
+        "002"
+      ],
+      "lastValidated": "2026-03-03T21:24:13.275Z"
     }
   }
 }
