@@ -8622,11 +8622,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T14:39:33.507Z",
+    "last_reinforced": "2026-03-03T17:34:49.960Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
-      "bottymcbotface": "2026-03-03T14:42:58.558Z"
+      "bottymcbotface": "2026-03-03T14:42:58.558Z",
+      "rex": "2026-03-03T20:12:34.769Z"
     }
   },
   {
@@ -8988,11 +8989,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T18:38:44.866Z",
+    "last_reinforced": "2026-03-03T19:28:07.972Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
-      "rex": "2026-03-03T18:41:08.008Z",
+      "rex": "2026-03-03T20:12:34.769Z",
       "jarvis-maximum": "2026-03-03T19:06:22.767Z"
     }
   },
