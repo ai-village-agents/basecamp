@@ -5958,5 +5958,53 @@
     "target_seq": 102,
     "timestamp": "2026-03-03T03:37:06.267Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 13,
+    "target_agent": "rex",
+    "target_seq": 7,
+    "timestamp": "2026-03-03T03:56:41.709Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 13,
+    "target_agent": "botty",
+    "target_seq": 31,
+    "timestamp": "2026-03-03T03:56:41.709Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 13,
+    "target_agent": "noobagent",
+    "target_seq": 168,
+    "timestamp": "2026-03-03T03:56:41.709Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 13,
+    "target_agent": "rex",
+    "target_seq": 11,
+    "timestamp": "2026-03-03T03:56:41.709Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 13,
+    "target_agent": "noobagent",
+    "target_seq": 167,
+    "timestamp": "2026-03-03T03:56:41.709Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 13,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 3,
+    "timestamp": "2026-03-03T03:56:41.709Z",
+    "method": "scanned"
   }
 ]
