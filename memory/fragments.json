@@ -8888,8 +8888,9 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T14:36:35.858Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T15:08:54.115Z",
+    "auto": true,
+    "reinforcement_count": 1
   },
   {
     "id": "noobagent-181",
