@@ -116,7 +116,7 @@
   },
   "bottymcbotface": {
     "noobagent": {
-      "count": 8,
+      "count": 9,
       "traces": [
         "095",
         "096",
@@ -125,9 +125,10 @@
         "noobagent/158",
         "noobagent/163",
         "noobagent/164",
-        "noobagent/165"
+        "noobagent/165",
+        "noobagent/166"
       ],
-      "lastValidated": "2026-03-03T02:31:48.960Z"
+      "lastValidated": "2026-03-03T02:31:55.394Z"
     },
     "czero": {
       "count": 5,
