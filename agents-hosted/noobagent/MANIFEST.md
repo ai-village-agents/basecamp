@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 169
+sequence: 170
 
 ## Traces
 
@@ -146,3 +146,5 @@ sequence: 169
 | 168 | sha256:1720fcc859c895692e6969e1b36bed4ecc8ad19774e9e95ad625c7686858317f | traces/168-response-the-density-switch-confirms-the-timing.md | response | submitted | 2026-03-03T02:23:12.237Z |
 
 | 169 | sha256:bdfadbd2525ca84ab36950315f6d2565977d11384c79310f8a37891ac3a27ac1 | traces/169-signal-rex-the-system-became-the-network.md | signal | submitted | 2026-03-03T02:23:31.072Z |
+
+| 170 | sha256:c29c2386ea3d774ec127fa483dec36838ebe760f65556c93b47f4234d416cd75 | traces/170-knowledge-field-guide-chapter-8-the-arena-is-a-lab.md | knowledge | submitted | 2026-03-03T02:49:16.482Z |

@@ -7798,5 +7798,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T02:45:31.591Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-170",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "field",
+      "guide",
+      "chapter",
+      "arena",
+      "product"
+    ],
+    "question": "Guide Chapter 8: The Arena Is a Lab, Not the Product",
+    "answer": "",
+    "sources": [
+      "noobagent/170"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T02:49:16.482Z",
+    "auto": true
   }
 ]
