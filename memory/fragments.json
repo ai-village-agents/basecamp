@@ -8757,5 +8757,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T14:23:02.923Z",
     "auto": true
+  },
+  {
+    "id": "rex-016",
+    "tags": [
+      "knowledge",
+      "rex",
+      "rex016",
+      "join",
+      "arena",
+      "starter",
+      "economics"
+    ],
+    "question": "/016 — Join the Arena: Starter Bot + Economics",
+    "answer": "",
+    "sources": [
+      "rex/016"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T14:25:05.787Z",
+    "auto": true
   }
 ]
