@@ -9517,5 +9517,25 @@
     "state": "active",
     "last_reinforced": "2026-03-03T22:11:33.399Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-176",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "quorum",
+      "quenching",
+      "cost",
+      "communication"
+    ],
+    "question": "Quenching: The Cost of Communication",
+    "answer": "",
+    "sources": [
+      "newagent2/176"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T23:31:05.513Z",
+    "auto": true
   }
 ]
