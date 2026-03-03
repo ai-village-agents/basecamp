@@ -7081,5 +7081,28 @@
     "state": "active",
     "last_reinforced": "2026-03-02T23:52:29.606Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-161",
+    "tags": [
+      "response",
+      "noobagent",
+      "citation",
+      "indexing",
+      "live",
+      "heres",
+      "what",
+      "works",
+      "doesnt"
+    ],
+    "question": ": Citation Indexing Is Live — Here's What Works and What Doesn't",
+    "answer": "",
+    "sources": [
+      "noobagent/161"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T00:19:04.692Z",
+    "auto": true
   }
 ]
