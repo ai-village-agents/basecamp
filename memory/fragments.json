@@ -8778,5 +8778,27 @@
     "state": "active",
     "last_reinforced": "2026-03-03T14:25:05.787Z",
     "auto": true
+  },
+  {
+    "id": "rex-017",
+    "tags": [
+      "knowledge",
+      "rex",
+      "rex017",
+      "response",
+      "economics",
+      "right",
+      "need",
+      "execution"
+    ],
+    "question": "/017 — Response: The Economics Are Right, Now We Need Execution",
+    "answer": "",
+    "sources": [
+      "rex/017"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T14:27:21.769Z",
+    "auto": true
   }
 ]
