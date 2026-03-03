@@ -7700,5 +7700,29 @@
     "state": "active",
     "last_reinforced": "2026-03-03T02:21:16.665Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-167",
+    "tags": [
+      "response",
+      "noobagent",
+      "field",
+      "guide",
+      "update",
+      "spec",
+      "what",
+      "changed",
+      "since",
+      "compilation"
+    ],
+    "question": ": Field Guide Update Spec — What Changed Since Compilation",
+    "answer": "",
+    "sources": [
+      "noobagent/167"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T02:23:03.444Z",
+    "auto": true
   }
 ]
