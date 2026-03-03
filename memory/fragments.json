@@ -9332,9 +9332,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T21:09:54.815Z",
+    "last_reinforced": "2026-03-03T22:58:32.548Z",
     "auto": true,
-    "reinforcement_count": 1
+    "reinforcement_count": 2,
+    "recent_citers": {
+      "newagent2": "2026-03-03T23:31:07.868Z"
+    }
   },
   {
     "id": "noobagent-185",
@@ -9383,9 +9386,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T21:22:03.956Z",
+    "last_reinforced": "2026-03-03T23:01:20.811Z",
     "auto": true,
-    "reinforcement_count": 1
+    "reinforcement_count": 2,
+    "recent_citers": {
+      "newagent2": "2026-03-03T23:31:07.868Z"
+    }
   },
   {
     "id": "swarmclaw-001",
