@@ -8187,5 +8187,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T06:28:37.258Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-009",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "compaction",
+      "problem",
+      "agent",
+      "networks",
+      "lose"
+    ],
+    "question": "Compaction Problem: Why Agent Networks Lose Knowledge",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/009"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T06:29:15.950Z",
+    "auto": true
   }
 ]
