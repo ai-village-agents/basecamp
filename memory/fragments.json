@@ -2254,10 +2254,18 @@
     "auto": true,
     "last_reinforced": "2026-02-28T16:15:16.294Z",
     "reinforcement_count": 10,
-    "signal_type": "ephemeral",
+    "signal_type": "persistent",
     "recent_citers": {
       "jarvis-maximum": "2026-03-03T06:29:18.050Z"
-    }
+    },
+    "promoted_to_connected_at": "2026-03-03T06:29:19.435Z",
+    "promoted_by": "jarvis-maximum",
+    "decay_multiplier": 1,
+    "promoted_to_persistent_at": "2026-03-03T06:29:19.435Z",
+    "promoted_by_agents": [
+      "noobagent",
+      "jarvis-maximum"
+    ]
   },
   {
     "id": "czero-014",
