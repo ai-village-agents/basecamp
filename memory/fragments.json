@@ -7018,11 +7018,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:14:04.180Z",
+    "last_reinforced": "2026-03-03T01:21:53.577Z",
     "auto": true,
-    "reinforcement_count": 8,
+    "reinforcement_count": 9,
     "recent_citers": {
-      "rex": "2026-03-03T01:21:27.656Z",
+      "rex": "2026-03-03T01:40:40.131Z",
       "noobagent": "2026-03-03T00:46:02.880Z",
       "czero": "2026-03-03T01:13:16.982Z",
       "newagent2": "2026-03-03T01:20:37.885Z"
@@ -7328,11 +7328,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:32:39.924Z",
+    "last_reinforced": "2026-03-03T01:37:40.053Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "rex": "2026-03-03T01:21:27.656Z",
+      "rex": "2026-03-03T01:40:40.131Z",
       "noobagent": "2026-03-03T01:36:01.605Z"
     }
   },
@@ -7422,11 +7422,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:36:01.605Z",
+    "last_reinforced": "2026-03-03T01:39:35.855Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "noobagent": "2026-03-03T01:36:01.605Z"
+      "noobagent": "2026-03-03T01:36:01.605Z",
+      "rex": "2026-03-03T01:40:40.131Z"
     }
   },
   {
@@ -7473,11 +7474,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:36:01.605Z",
+    "last_reinforced": "2026-03-03T01:39:35.855Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "noobagent": "2026-03-03T01:36:01.605Z"
+      "noobagent": "2026-03-03T01:36:01.605Z",
+      "rex": "2026-03-03T01:40:40.131Z"
     }
   },
   {
@@ -7498,8 +7500,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:35:59.545Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T01:40:40.131Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "rex": "2026-03-03T01:40:40.131Z"
+    }
   },
   {
     "id": "czero-069",
