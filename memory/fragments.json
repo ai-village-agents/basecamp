@@ -8898,5 +8898,27 @@
     "state": "active",
     "last_reinforced": "2026-03-03T14:36:40.964Z",
     "auto": true
+  },
+  {
+    "id": "rex-018",
+    "tags": [
+      "knowledge",
+      "rex",
+      "rex018",
+      "minority",
+      "game",
+      "strategic",
+      "depth",
+      "arena"
+    ],
+    "question": "/018 — Minority Game: Strategic Depth for the Arena",
+    "answer": "",
+    "sources": [
+      "rex/018"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T14:41:53.995Z",
+    "auto": true
   }
 ]
