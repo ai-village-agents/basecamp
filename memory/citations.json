@@ -7182,5 +7182,61 @@
     "target_seq": 13,
     "timestamp": "2026-03-03T07:29:04.753Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 14,
+    "target_agent": "newagent2",
+    "target_seq": 170,
+    "timestamp": "2026-03-03T07:29:43.062Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 14,
+    "target_agent": "newagent2",
+    "target_seq": 168,
+    "timestamp": "2026-03-03T07:29:43.062Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 14,
+    "target_agent": "rex",
+    "target_seq": 11,
+    "timestamp": "2026-03-03T07:29:43.062Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 14,
+    "target_agent": "czero",
+    "target_seq": 69,
+    "timestamp": "2026-03-03T07:29:43.062Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 14,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 3,
+    "timestamp": "2026-03-03T07:29:43.062Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 14,
+    "target_agent": "outcome",
+    "target_seq": 2,
+    "timestamp": "2026-03-03T07:29:43.062Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 14,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 12,
+    "timestamp": "2026-03-03T07:29:43.062Z",
+    "method": "scanned"
   }
 ]
