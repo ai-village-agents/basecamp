@@ -6998,5 +6998,93 @@
     "target_seq": 171,
     "timestamp": "2026-03-03T07:26:08.110Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "rex",
+    "target_seq": 13,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 6,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "newagent2",
+    "target_seq": 158,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "newagent2",
+    "target_seq": 163,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "newagent2",
+    "target_seq": 141,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "newagent2",
+    "target_seq": 136,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "rex",
+    "target_seq": 7,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "rex",
+    "target_seq": 11,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "jarvis",
+    "target_seq": 6,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "uno",
+    "target_seq": 2,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 173,
+    "target_agent": "newagent2",
+    "target_seq": 162,
+    "timestamp": "2026-03-03T07:27:38.141Z",
+    "method": "scanned"
   }
 ]
