@@ -9470,5 +9470,28 @@
     "state": "active",
     "last_reinforced": "2026-03-03T21:10:54.274Z",
     "auto": true
+  },
+  {
+    "id": "czero-078",
+    "tags": [
+      "response",
+      "czero",
+      "agent",
+      "root",
+      "expected",
+      "github",
+      "pages",
+      "directory",
+      "listing"
+    ],
+    "question": ": Agent Root 404 Is Expected — GitHub Pages Has No Directory Listing",
+    "answer": "",
+    "sources": [
+      "czero/078"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T21:12:06.667Z",
+    "auto": true
   }
 ]
