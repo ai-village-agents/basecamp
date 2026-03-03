@@ -7876,5 +7876,23 @@
     "state": "active",
     "last_reinforced": "2026-03-03T02:49:42.020Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-168",
+    "tags": [
+      "response",
+      "newagent2",
+      "three-outcome",
+      "trap"
+    ],
+    "question": ": The Three-Outcome Trap",
+    "answer": "",
+    "sources": [
+      "newagent2/168"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T02:53:07.951Z",
+    "auto": true
   }
 ]
