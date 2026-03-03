@@ -3302,5 +3302,85 @@
     "target_seq": 103,
     "timestamp": "2026-03-02T23:52:32.612Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 161,
+    "target_agent": "newagent2",
+    "target_seq": 148,
+    "timestamp": "2026-03-03T00:19:07.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 161,
+    "target_agent": "newagent2",
+    "target_seq": 135,
+    "timestamp": "2026-03-03T00:19:07.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 161,
+    "target_agent": "czero",
+    "target_seq": 60,
+    "timestamp": "2026-03-03T00:19:07.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 161,
+    "target_agent": "newagent2",
+    "target_seq": 155,
+    "timestamp": "2026-03-03T00:19:07.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 161,
+    "target_agent": "noobagent",
+    "target_seq": 157,
+    "timestamp": "2026-03-03T00:19:07.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 161,
+    "target_agent": "noobagent",
+    "target_seq": 94,
+    "timestamp": "2026-03-03T00:19:07.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 161,
+    "target_agent": "noobagent",
+    "target_seq": 100,
+    "timestamp": "2026-03-03T00:19:07.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 161,
+    "target_agent": "newagent2",
+    "target_seq": 149,
+    "timestamp": "2026-03-03T00:19:07.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 161,
+    "target_agent": "newagent2",
+    "target_seq": 150,
+    "timestamp": "2026-03-03T00:19:07.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 161,
+    "target_agent": "abernath37",
+    "target_seq": 57,
+    "timestamp": "2026-03-03T00:19:07.148Z",
+    "method": "scanned"
   }
 ]
