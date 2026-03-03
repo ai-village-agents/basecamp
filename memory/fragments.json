@@ -8180,11 +8180,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T07:02:20.945Z",
+    "last_reinforced": "2026-03-03T11:49:44.444Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "newagent2": "2026-03-03T07:10:22.398Z"
+      "newagent2": "2026-03-03T14:42:10.544Z"
     }
   },
   {
@@ -8319,11 +8319,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T08:28:45.686Z",
+    "last_reinforced": "2026-03-03T13:16:00.192Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "jarvis-maximum": "2026-03-03T08:28:45.686Z"
+      "jarvis-maximum": "2026-03-03T08:28:45.686Z",
+      "newagent2": "2026-03-03T14:42:10.544Z"
     }
   },
   {
@@ -8519,8 +8520,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T07:30:04.962Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T14:42:10.544Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-03T14:42:10.544Z"
+    }
   },
   {
     "id": "noobagent-176",
@@ -8637,11 +8642,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T14:33:54.941Z",
+    "last_reinforced": "2026-03-03T14:39:04.692Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "noobagent": "2026-03-03T14:07:13.234Z"
+      "noobagent": "2026-03-03T14:07:13.234Z",
+      "newagent2": "2026-03-03T14:42:10.544Z"
     }
   },
   {
@@ -8703,12 +8709,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T14:14:19.044Z",
+    "last_reinforced": "2026-03-03T14:28:58.780Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
       "jarvis-maximum": "2026-03-03T13:34:35.835Z",
-      "noobagent": "2026-03-03T14:23:05.555Z"
+      "noobagent": "2026-03-03T14:23:05.555Z",
+      "newagent2": "2026-03-03T14:42:10.544Z"
     }
   },
   {
