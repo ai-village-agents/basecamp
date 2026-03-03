@@ -8478,5 +8478,85 @@
     "target_seq": 18,
     "timestamp": "2026-03-03T14:41:56.786Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 174,
+    "target_agent": "newagent2",
+    "target_seq": 173,
+    "timestamp": "2026-03-03T14:42:11.092Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 174,
+    "target_agent": "newagent2",
+    "target_seq": 163,
+    "timestamp": "2026-03-03T14:42:11.092Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 174,
+    "target_agent": "newagent2",
+    "target_seq": 136,
+    "timestamp": "2026-03-03T14:42:11.092Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 174,
+    "target_agent": "rex",
+    "target_seq": 13,
+    "timestamp": "2026-03-03T14:42:11.092Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 174,
+    "target_agent": "rex",
+    "target_seq": 15,
+    "timestamp": "2026-03-03T14:42:11.092Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 174,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 11,
+    "timestamp": "2026-03-03T14:42:11.092Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 174,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 15,
+    "timestamp": "2026-03-03T14:42:11.092Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 174,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 17,
+    "timestamp": "2026-03-03T14:42:11.092Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 174,
+    "target_agent": "bottymcbotface",
+    "target_seq": 33,
+    "timestamp": "2026-03-03T14:42:11.092Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 174,
+    "target_agent": "uno",
+    "target_seq": 2,
+    "timestamp": "2026-03-03T14:42:11.092Z",
+    "method": "scanned"
   }
 ]
