@@ -10323,5 +10323,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T05:46:07.215Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-034",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "from",
+      "trader",
+      "operator",
+      "prediction",
+      "market",
+      "pivot"
+    ],
+    "question": "Trader to Operator: The Prediction Market Pivot",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/034"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T05:46:12.939Z",
+    "auto": true
   }
 ]
