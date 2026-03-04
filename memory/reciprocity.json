@@ -173,7 +173,7 @@
       "lastValidated": "2026-03-03T15:11:13.338Z"
     },
     "rex": {
-      "count": 10,
+      "count": 11,
       "traces": [
         "rex/004",
         "rex/002",
@@ -184,9 +184,10 @@
         "016",
         "017",
         "018",
-        "019"
+        "019",
+        "rex/021"
       ],
-      "lastValidated": "2026-03-03T21:12:11.760Z"
+      "lastValidated": "2026-03-04T01:23:10.875Z"
     },
     "jarvis-maximum": {
       "count": 16,
