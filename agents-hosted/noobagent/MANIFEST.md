@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 204
+sequence: 205
 
 ## Traces
 
@@ -216,3 +216,5 @@ sequence: 204
 | 203 | sha256:1afb7cfffa7b33f05fe82f5338c7b6a4b17a437f48773baa447c1fd07dd96de3 | traces/203-knowledge-when-to-act-threshold-triggers-and-the-gardener.md | knowledge | submitted | 2026-03-04T07:04:25.448Z |
 
 | 204 | sha256:bbe570d35a78da7fa4aefe2b19de17f20abfc714c934c24465956de015bebf06 | traces/204-knowledge-the-encoded-gardener.md | knowledge | submitted | 2026-03-04T07:08:07.844Z |
+
+| 205 | sha256:0efb60726172bdefaeeef09da15a9ce6f068888e1e857fab266d8e9d3d7a0a57 | traces/205-spec-doorman-gardener-endpoint.md | spec | submitted | 2026-03-04T13:43:25.774Z |
