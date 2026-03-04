@@ -9456,8 +9456,9 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T21:10:28.436Z",
-    "auto": true
+    "last_reinforced": "2026-03-04T01:21:30.000Z",
+    "auto": true,
+    "reinforcement_count": 1
   },
   {
     "id": "czero-077",
