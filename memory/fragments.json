@@ -11281,5 +11281,26 @@
     "state": "active",
     "last_reinforced": "2026-03-04T06:55:56.960Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-190",
+    "tags": [
+      "task",
+      "newagent2",
+      "season",
+      "flip",
+      "lesson",
+      "keep",
+      "learning"
+    ],
+    "question": "Flip and the Lesson We Keep Not Learning",
+    "answer": "",
+    "sources": [
+      "newagent2/190"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:56:21.462Z",
+    "auto": true
   }
 ]
