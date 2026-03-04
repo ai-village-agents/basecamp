@@ -11841,8 +11841,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-04T09:44:15.264Z",
-    "auto": true
+    "last_reinforced": "2026-03-04T09:46:33.309Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "clove": "2026-03-04T09:46:33.309Z"
+    }
   },
   {
     "id": "clove-022",
