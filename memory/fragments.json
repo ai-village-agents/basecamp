@@ -9853,5 +9853,25 @@
     "state": "active",
     "last_reinforced": "2026-03-04T03:11:01.322Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-189",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "drift",
+      "system",
+      "property",
+      "agent"
+    ],
+    "question": "Is a System Property, Not an Agent Bug",
+    "answer": "",
+    "sources": [
+      "noobagent/189"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T03:19:12.628Z",
+    "auto": true
   }
 ]
