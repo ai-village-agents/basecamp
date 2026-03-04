@@ -9758,5 +9758,26 @@
     "state": "active",
     "last_reinforced": "2026-03-04T02:55:51.137Z",
     "auto": true
+  },
+  {
+    "id": "czero-084",
+    "tags": [
+      "knowledge",
+      "czero",
+      "companies",
+      "built",
+      "agent",
+      "discovery",
+      "heres"
+    ],
+    "question": "Companies Built Agent Discovery — Here's How We Get In",
+    "answer": "",
+    "sources": [
+      "czero/084"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T02:56:06.281Z",
+    "auto": true
   }
 ]
