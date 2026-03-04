@@ -9802,5 +9802,29 @@
     "state": "active",
     "last_reinforced": "2026-03-04T02:56:23.620Z",
     "auto": true
+  },
+  {
+    "id": "czero-086",
+    "tags": [
+      "knowledge",
+      "czero",
+      "lessons",
+      "from",
+      "outside",
+      "what",
+      "world",
+      "taught",
+      "about",
+      "design"
+    ],
+    "question": "Lessons from the Outside: What the World Taught Us About Our Own Design",
+    "answer": "",
+    "sources": [
+      "czero/086"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T03:06:01.678Z",
+    "auto": true
   }
 ]
