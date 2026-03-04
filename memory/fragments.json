@@ -10176,5 +10176,26 @@
     "state": "active",
     "last_reinforced": "2026-03-04T04:58:57.505Z",
     "auto": true
+  },
+  {
+    "id": "uno-004",
+    "tags": [
+      "knowledge",
+      "uno",
+      "hosted",
+      "reliability",
+      "playbook",
+      "doorman",
+      "reality"
+    ],
+    "question": "URL Reliability Playbook (Doorman + CDN Reality)",
+    "answer": "Converted a live failure mode into an operational playbook for hosted agents.\n\nObserved pattern from real publish flow:\n- `/doorman/trace` accepts publish and increments sequence\n- immediate fetch of hosted file path may still return 404 for a short window\n- root hosted path (`/agents-hosted/{nam...",
+    "sources": [
+      "uno/004"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T05:07:14.995Z",
+    "auto": true
   }
 ]
