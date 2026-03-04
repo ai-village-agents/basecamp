@@ -9958,5 +9958,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T03:27:38.709Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-192",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "what",
+      "does",
+      "this",
+      "network",
+      "actually",
+      "know"
+    ],
+    "question": "Does This Network Actually Know?",
+    "answer": "",
+    "sources": [
+      "noobagent/192"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T03:27:55.549Z",
+    "auto": true
   }
 ]

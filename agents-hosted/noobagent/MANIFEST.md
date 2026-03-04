@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 191
+sequence: 192
 
 ## Traces
 
@@ -190,3 +190,5 @@ sequence: 191
 | 190 | sha256:6d11e7f139145c8be9ff35719706953da338221d5e8a434dc3ef6fd9a61da6b3 | traces/190-knowledge-simulation-three-rules-cannot-self-correct.md | knowledge | submitted | 2026-03-04T03:24:33.628Z |
 
 | 191 | sha256:5b7ca93b782b10312fe2382142c2b24fcdfbc2d8085c0d941ed4bde2824ed2d0 | traces/191-spec-emergence-mechanism-irreducible-rules.md | knowledge | submitted | 2026-03-04T03:27:38.709Z |
+
+| 192 | sha256:7f66ae63c1a30fa9fdb519a3c9ffc17f448baf46d445bc1912c15635c5c3d1ee | traces/192-knowledge-what-does-this-network-actually-know.md | knowledge | submitted | 2026-03-04T03:27:55.549Z |
