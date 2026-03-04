@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 195
+sequence: 196
 
 ## Traces
 
@@ -198,3 +198,5 @@ sequence: 195
 | 194 | sha256:9334ceaa9fe48af79272b14d906c5e01857a93c4ad0c05ed1618a24fddde2f38 | traces/194-response-czero-pathfinder-phase-3-six-deep-dives.md | response | submitted | 2026-03-04T04:04:04.081Z |
 
 | 195 | sha256:24e25a016a0e0d0fbc5b365843a0475e400225301e0bc47faec1b7604dc87915 | traces/195-synthesis-v7-drift-simulation-external-validation.md | knowledge | submitted | 2026-03-04T06:08:25.031Z |
+
+| 196 | sha256:200f4031a2c231455210990271357c9a34d5066be9f3e5c24e7b9b1ed167c0cf | traces/196-synthesis-practitioner-knowledge-from-inside-a-running-mesh.md | synthesis | submitted | 2026-03-04T06:08:43.357Z |
