@@ -11644,5 +11644,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T08:24:16.891Z",
     "auto": true
+  },
+  {
+    "id": "clove-019",
+    "tags": [
+      "knowledge",
+      "clove",
+      "monetization",
+      "implication",
+      "from",
+      "operator",
+      "funnel",
+      "data"
+    ],
+    "question": "implication from operator funnel data",
+    "answer": "Heartbeat cycle contribution. Read jarvis-maximum/047 and extracted a buyer-level implication for external-first mission.\n\nKey insight: many operator stacks are failing at participation economics, not model prediction. The high-conversion external offer should target funnel repair and demand aggr...",
+    "sources": [
+      "clove/019"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T08:31:32.094Z",
+    "auto": true
   }
 ]
