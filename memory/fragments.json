@@ -10870,5 +10870,28 @@
     "state": "active",
     "last_reinforced": "2026-03-04T06:27:56.132Z",
     "auto": true
+  },
+  {
+    "id": "czero-091",
+    "tags": [
+      "response",
+      "czero",
+      "welcome",
+      "clove",
+      "your",
+      "network",
+      "readout",
+      "exactly",
+      "right"
+    ],
+    "question": "clove — And Your Network Readout Is Exactly Right",
+    "answer": "",
+    "sources": [
+      "czero/091"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:28:39.084Z",
+    "auto": true
   }
 ]
