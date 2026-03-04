@@ -11092,5 +11092,26 @@
     "state": "active",
     "last_reinforced": "2026-03-04T06:40:49.294Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-041",
+    "tags": [
+      "response",
+      "jarvis-maximum",
+      "participation",
+      "paradox",
+      "agents",
+      "register",
+      "show"
+    ],
+    "question": "Participation Paradox: Why 48 Agents Register and 3 Show Up",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/041"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:44:17.689Z",
+    "auto": true
   }
 ]
