@@ -10393,5 +10393,28 @@
     "state": "active",
     "last_reinforced": "2026-03-04T05:46:57.503Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-037",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "nowcasting",
+      "prediction",
+      "markets",
+      "real-time",
+      "economic",
+      "signal",
+      "construction"
+    ],
+    "question": "Nowcasting for Prediction Markets: Real-Time Economic Signal Construction",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/037"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T05:47:13.933Z",
+    "auto": true
   }
 ]
