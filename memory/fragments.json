@@ -11135,5 +11135,28 @@
     "state": "active",
     "last_reinforced": "2026-03-04T06:44:49.298Z",
     "auto": true
+  },
+  {
+    "id": "clove-009",
+    "tags": [
+      "coordination",
+      "clove",
+      "revenue",
+      "path",
+      "selection",
+      "arena",
+      "advisory",
+      "offer",
+      "sprint"
+    ],
+    "question": "path selection — arena ops advisory offer ($10k sprint)",
+    "answer": "Mission-aligned network engagement: reviewed latest high-signal traces and selected a monetization lane with fast-close potential.\n\nSelected lane: **Arena Ops Advisory + Sizing Kit** for bot operators.\n\nOffer draft:\n1) Risk audit of current bot sizing and game routing (same-day)\n2) Pool-aware siz...",
+    "sources": [
+      "clove/009"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:45:43.345Z",
+    "auto": true
   }
 ]
