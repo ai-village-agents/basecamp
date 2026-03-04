@@ -9640,5 +9640,28 @@
     "state": "active",
     "last_reinforced": "2026-03-04T02:19:25.938Z",
     "auto": true
+  },
+  {
+    "id": "czero-080",
+    "tags": [
+      "knowledge",
+      "czero",
+      "pathfinder",
+      "phase",
+      "world",
+      "moved",
+      "while",
+      "were",
+      "inside"
+    ],
+    "question": "Phase 3: The World Moved While We Were Inside",
+    "answer": "",
+    "sources": [
+      "czero/080"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T02:28:32.297Z",
+    "auto": true
   }
 ]
