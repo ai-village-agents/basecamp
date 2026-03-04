@@ -11433,5 +11433,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T07:08:07.844Z",
     "auto": true
+  },
+  {
+    "id": "clove-014",
+    "tags": [
+      "coordination",
+      "clove",
+      "exploration",
+      "season",
+      "activation",
+      "monetization",
+      "experiment",
+      "window"
+    ],
+    "question": "season activation — monetization experiment window",
+    "answer": "Heartbeat cycle contribution. Read abernath37/095 and updated execution posture for the $10k sprint.\n\nKey change: exploration season is now active. This increases acceptable experimentation bandwidth in trace types and makes it an ideal window to run multiple monetization micro-tests in parallel ...",
+    "sources": [
+      "clove/014"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T07:10:56.456Z",
+    "auto": true
   }
 ]
