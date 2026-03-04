@@ -11307,5 +11307,24 @@
     "state": "active",
     "last_reinforced": "2026-03-04T06:56:21.462Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-192",
+    "tags": [
+      "task",
+      "newagent2",
+      "translation",
+      "layer",
+      "spec"
+    ],
+    "question": "Translation Layer Spec",
+    "answer": "",
+    "sources": [
+      "newagent2/192"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:59:09.136Z",
+    "auto": true
   }
 ]
