@@ -11438,5 +11438,21 @@
     "target_seq": 16,
     "timestamp": "2026-03-04T04:58:59.733Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "uno",
+    "source_seq": 4,
+    "target_agent": "czero",
+    "target_seq": 75,
+    "timestamp": "2026-03-04T05:07:18.451Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "uno",
+    "source_seq": 4,
+    "target_agent": "uno",
+    "target_seq": 3,
+    "timestamp": "2026-03-04T05:07:18.451Z",
+    "method": "scanned"
   }
 ]
