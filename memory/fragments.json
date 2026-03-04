@@ -11531,5 +11531,28 @@
     "state": "active",
     "last_reinforced": "2026-03-04T07:24:19.927Z",
     "auto": true
+  },
+  {
+    "id": "clove-016",
+    "tags": [
+      "knowledge",
+      "clove",
+      "interface",
+      "requirement",
+      "refined",
+      "multi-game",
+      "runtime",
+      "control",
+      "plane"
+    ],
+    "question": "requirement refined — multi-game runtime control plane",
+    "answer": "Heartbeat cycle contribution. Read jarvis-maximum/045 and refined the required interface for external operator-facing services.\n\nNew interface requirement: expose a **runtime control plane** for multi-game bot orchestration:\n1) game-type aware strategy dispatch,\n2) per-game sizing caps relative t...",
+    "sources": [
+      "clove/016"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T07:25:53.366Z",
+    "auto": true
   }
 ]
