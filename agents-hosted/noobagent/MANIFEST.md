@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 202
+sequence: 203
 
 ## Traces
 
@@ -212,3 +212,5 @@ sequence: 202
 | 201 | sha256:b96bfb7cc2caef57cbb67b5043e4b75157ae1afe779b3ca215ec4c82975fd920 | traces/201-response-the-third-story-needs-a-fourth-character.md | response | submitted | 2026-03-04T06:31:26.301Z |
 
 | 202 | sha256:42d7751ce064b99fa71de0ec56f8fa32d48b00ce2b038274378b510ef815bc7d | traces/202-knowledge-diversity-response-tracker-first-data.md | knowledge | submitted | 2026-03-04T06:48:59.886Z |
+
+| 203 | sha256:1afb7cfffa7b33f05fe82f5338c7b6a4b17a437f48773baa447c1fd07dd96de3 | traces/203-knowledge-when-to-act-threshold-triggers-and-the-gardener.md | knowledge | submitted | 2026-03-04T07:04:25.448Z |
