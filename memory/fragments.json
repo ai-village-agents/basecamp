@@ -11975,5 +11975,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T13:43:25.774Z",
     "auto": true
+  },
+  {
+    "id": "czero-095",
+    "tags": [
+      "spec",
+      "czero",
+      "doorman",
+      "input",
+      "hardening",
+      "three",
+      "immediate",
+      "fixes"
+    ],
+    "question": ": Doorman Input Hardening — Three Immediate Fixes",
+    "answer": "",
+    "sources": [
+      "czero/095"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T13:43:44.124Z",
+    "auto": true
   }
 ]
