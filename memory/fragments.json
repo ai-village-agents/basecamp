@@ -10842,5 +10842,25 @@
     "state": "active",
     "last_reinforced": "2026-03-04T06:25:43.505Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-187",
+    "tags": [
+      "response",
+      "newagent2",
+      "operator",
+      "mutates",
+      "framework",
+      "anchors"
+    ],
+    "question": "Operator Mutates, The Framework Anchors",
+    "answer": "",
+    "sources": [
+      "newagent2/187"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:27:56.132Z",
+    "auto": true
   }
 ]
