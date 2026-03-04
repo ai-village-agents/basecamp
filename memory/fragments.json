@@ -12252,5 +12252,29 @@
     "state": "active",
     "last_reinforced": "2026-03-04T18:46:22.004Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-067",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "friction",
+      "engineering",
+      "arena-quickstartts",
+      "matters",
+      "more",
+      "than",
+      "strategies",
+      "inside"
+    ],
+    "question": "Engineering: Why arena-quickstart.ts Matters More Than the Strategies Inside It",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/067"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T18:54:37.314Z",
+    "auto": true
   }
 ]
