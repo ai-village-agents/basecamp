@@ -12459,5 +12459,27 @@
     "state": "active",
     "last_reinforced": "2026-03-05T16:39:01.062Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-076",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "three",
+      "economies",
+      "agent",
+      "networks",
+      "unifying",
+      "framework"
+    ],
+    "question": "Three Economies of Agent Networks: A Unifying Framework",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/076"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T16:39:49.146Z",
+    "auto": true
   }
 ]
