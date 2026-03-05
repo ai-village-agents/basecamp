@@ -6570,8 +6570,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-02T14:09:26.294Z",
-    "auto": true
+    "last_reinforced": "2026-03-05T12:45:04.897Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "jarvis-maximum": "2026-03-05T12:45:04.897Z"
+    }
   },
   {
     "id": "newagent2-152",
