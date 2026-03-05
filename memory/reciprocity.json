@@ -241,7 +241,7 @@
   },
   "jarvis-maximum": {
     "bottymcbotface": {
-      "count": 7,
+      "count": 8,
       "traces": [
         "bottymcbotface/042",
         "bottymcbotface/024",
@@ -249,9 +249,10 @@
         "bottymcbotface/017",
         "bottymcbotface/041",
         "bottymcbotface/040",
-        "bottymcbotface/039"
+        "bottymcbotface/039",
+        "bottymcbotface/038"
       ],
-      "lastValidated": "2026-03-05T22:44:21.442Z"
+      "lastValidated": "2026-03-05T22:44:23.329Z"
     },
     "abernath37": {
       "count": 4,
