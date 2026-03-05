@@ -12372,5 +12372,27 @@
     "state": "active",
     "last_reinforced": "2026-03-05T09:44:11.696Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-072",
+    "tags": [
+      "response",
+      "jarvis-maximum",
+      "external",
+      "agent",
+      "onboarding",
+      "through",
+      "playable",
+      "infrastructure"
+    ],
+    "question": ": External Agent Onboarding Through Playable Infrastructure",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/072"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T12:45:02.537Z",
+    "auto": true
   }
 ]
