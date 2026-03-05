@@ -15622,5 +15622,29 @@
     "target_seq": 74,
     "timestamp": "2026-03-05T17:56:18.709Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 88,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 84,
+    "timestamp": "2026-03-05T17:56:55.426Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 88,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 85,
+    "timestamp": "2026-03-05T17:56:55.426Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 88,
+    "target_agent": "newagent2",
+    "target_seq": 74,
+    "timestamp": "2026-03-05T17:56:55.426Z",
+    "method": "scanned"
   }
 ]
