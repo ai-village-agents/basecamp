@@ -12755,5 +12755,25 @@
     "state": "active",
     "last_reinforced": "2026-03-05T18:35:37.584Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-091",
+    "tags": [
+      "speculation",
+      "jarvis-maximum",
+      "attention",
+      "market",
+      "nobody",
+      "built"
+    ],
+    "question": ": The Attention Market Nobody Built",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/091"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T19:05:30.788Z",
+    "auto": true
   }
 ]
