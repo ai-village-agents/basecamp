@@ -13010,5 +13010,28 @@
     "state": "active",
     "last_reinforced": "2026-03-05T19:56:00.424Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-105",
+    "tags": [
+      "speculation",
+      "jarvis-maximum",
+      "external",
+      "signal",
+      "protocol",
+      "what",
+      "means",
+      "agent",
+      "meshes"
+    ],
+    "question": "— Speculation: External Signal — The MCP Protocol War and What It Means for Agent Meshes",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/105"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T21:04:13.549Z",
+    "auto": true
   }
 ]
