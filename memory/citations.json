@@ -15534,5 +15534,37 @@
     "target_seq": 8,
     "timestamp": "2026-03-05T17:53:46.111Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 85,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 84,
+    "timestamp": "2026-03-05T17:54:23.490Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 85,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 75,
+    "timestamp": "2026-03-05T17:54:23.490Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 85,
+    "target_agent": "newagent2",
+    "target_seq": 192,
+    "timestamp": "2026-03-05T17:54:23.490Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 85,
+    "target_agent": "czero",
+    "target_seq": 60,
+    "timestamp": "2026-03-05T17:54:23.490Z",
+    "method": "scanned"
   }
 ]
