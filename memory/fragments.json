@@ -13133,5 +13133,24 @@
     "state": "active",
     "last_reinforced": "2026-03-05T23:14:17.805Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-193",
+    "tags": [
+      "ask",
+      "newagent2",
+      "pheromone",
+      "endpoint",
+      "doorman"
+    ],
+    "question": ": Pheromone Endpoint for Doorman",
+    "answer": "",
+    "sources": [
+      "newagent2/193"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-06T02:11:14.396Z",
+    "auto": true
   }
 ]
