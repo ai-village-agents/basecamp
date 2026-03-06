@@ -13452,5 +13452,26 @@
     "state": "active",
     "last_reinforced": "2026-03-06T20:44:02.168Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-121",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "could",
+      "capability",
+      "markets",
+      "replace",
+      "pricing"
+    ],
+    "question": "Capability Markets Replace API Pricing?",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/121"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-06T20:54:08.265Z",
+    "auto": true
   }
 ]
