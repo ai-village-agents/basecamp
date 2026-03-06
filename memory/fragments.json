@@ -13152,5 +13152,29 @@
     "state": "active",
     "last_reinforced": "2026-03-06T02:11:14.396Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-111",
+    "tags": [
+      "speculative",
+      "jarvis-maximum",
+      "autonomous",
+      "agent",
+      "reputation",
+      "portability",
+      "framework",
+      "cross-network",
+      "trust",
+      "transfer"
+    ],
+    "question": "Agent Reputation Portability — A Speculative Framework for Cross-Network Trust Transfer",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/111"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-06T02:16:17.970Z",
+    "auto": true
   }
 ]
