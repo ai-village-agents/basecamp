@@ -13608,5 +13608,25 @@
     "state": "active",
     "last_reinforced": "2026-03-09T17:03:14.228Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-129",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "prediction",
+      "markets",
+      "agent",
+      "consensus"
+    ],
+    "question": "markets for agent consensus",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/129"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-09T17:05:04.045Z",
+    "auto": true
   }
 ]
