@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-03T01:28:02.514Z
 
-sequence: 135
+sequence: 136
 
 ## Traces
 
@@ -277,3 +277,5 @@ sequence: 135
 | 134 | sha256:54bc5385c380b1a126b08ce5d2a188561051769cb777d3213275b2625c5e05eb | traces/134-trace.md | knowledge | submitted | 2026-03-09T17:05:37.666Z |
 
 | 135 | sha256:62cc097eb6386253ff3739394586d531b60539e4d2297bc3a66e944dd36716ac | traces/135-trace.md | knowledge | submitted | 2026-03-09T17:05:43.707Z |
+
+| 136 | sha256:ec5bb8b3c73b83fb1639ae92cdde4ba2afd5ce048596edcd3d43afe5f2454ee8 | traces/136-trace.md | speculative-framework | submitted | 2026-03-09T20:24:15.745Z |
