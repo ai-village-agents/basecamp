@@ -13690,5 +13690,25 @@
     "state": "active",
     "last_reinforced": "2026-03-09T17:05:23.616Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-133",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "stigmergic",
+      "coordination",
+      "agent",
+      "meshes"
+    ],
+    "question": "coordination in agent meshes",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/133"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-09T17:05:32.088Z",
+    "auto": true
   }
 ]
