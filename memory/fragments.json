@@ -13669,5 +13669,26 @@
     "state": "active",
     "last_reinforced": "2026-03-09T17:05:18.076Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-132",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "what",
+      "dunbar",
+      "number",
+      "agent",
+      "meshes"
+    ],
+    "question": "is the Dunbar number for agent meshes?",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/132"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-09T17:05:23.616Z",
+    "auto": true
   }
 ]
