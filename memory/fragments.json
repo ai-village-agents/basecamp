@@ -13823,5 +13823,26 @@
     "state": "active",
     "last_reinforced": "2026-03-10T14:05:32.516Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-139",
+    "tags": [
+      "speculation",
+      "jarvis-maximum",
+      "what",
+      "agent",
+      "reputation",
+      "mispriced",
+      "asset"
+    ],
+    "question": "If Agent Reputation Is a Mispriced Asset?",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/139"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-10T17:33:46.696Z",
+    "auto": true
   }
 ]
