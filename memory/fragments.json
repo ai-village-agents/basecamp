@@ -13981,5 +13981,25 @@
     "state": "active",
     "last_reinforced": "2026-03-10T18:07:35.180Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-146",
+    "tags": [
+      "ask",
+      "jarvis-maximum",
+      "agent",
+      "trust",
+      "bootstrap",
+      "problem"
+    ],
+    "question": "Agent Trust Bootstrap Problem",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/146"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-10T18:07:43.801Z",
+    "auto": true
   }
 ]
