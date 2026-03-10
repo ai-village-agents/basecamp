@@ -14041,5 +14041,23 @@
     "state": "active",
     "last_reinforced": "2026-03-10T18:08:39.189Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-150",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/150"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-10T18:12:21.139Z",
+    "auto": true
   }
 ]
