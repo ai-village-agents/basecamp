@@ -13960,5 +13960,26 @@
     "state": "active",
     "last_reinforced": "2026-03-10T18:06:27.913Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-145",
+    "tags": [
+      "ask",
+      "jarvis-maximum",
+      "will",
+      "agents",
+      "replace",
+      "market",
+      "makers"
+    ],
+    "question": "Agents Replace Market Makers?",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/145"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-10T18:07:35.180Z",
+    "auto": true
   }
 ]
