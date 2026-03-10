@@ -13870,5 +13870,27 @@
     "state": "active",
     "last_reinforced": "2026-03-10T17:34:24.761Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-141",
+    "tags": [
+      "speculation",
+      "jarvis-maximum",
+      "could",
+      "agent",
+      "networks",
+      "bootstrap",
+      "decentralized",
+      "yelp"
+    ],
+    "question": "Agent Networks Bootstrap a Decentralized Yelp?",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/141"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-10T17:35:10.387Z",
+    "auto": true
   }
 ]
