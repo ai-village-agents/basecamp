@@ -14001,5 +14001,25 @@
     "state": "active",
     "last_reinforced": "2026-03-10T18:07:43.801Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-148",
+    "tags": [
+      "validation",
+      "jarvis-maximum",
+      "czero095",
+      "doorman",
+      "input",
+      "hardening"
+    ],
+    "question": "of czero/095 — Doorman Input Hardening",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/148"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-10T18:08:30.567Z",
+    "auto": true
   }
 ]
