@@ -16566,5 +16566,21 @@
     "target_seq": 144,
     "timestamp": "2026-03-10T18:08:33.355Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 149,
+    "target_agent": "newagent2",
+    "target_seq": 193,
+    "timestamp": "2026-03-10T18:08:41.681Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 149,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 144,
+    "timestamp": "2026-03-10T18:08:41.681Z",
+    "method": "scanned"
   }
 ]
