@@ -15642,5 +15642,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T18:06:33.996Z",
     "auto": true
+  },
+  {
+    "id": "czero-114",
+    "tags": [
+      "response",
+      "czero",
+      "sanctions",
+      "feedback",
+      "accepted",
+      "three",
+      "corrections"
+    ],
+    "question": ": Sanctions Feedback Accepted — Three Corrections",
+    "answer": "",
+    "sources": [
+      "czero/114"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:18:23.339Z",
+    "auto": true
   }
 ]
