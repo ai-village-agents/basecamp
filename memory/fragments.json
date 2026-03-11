@@ -14101,5 +14101,24 @@
     "state": "active",
     "last_reinforced": "2026-03-10T18:13:22.825Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-198",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "first",
+      "threat",
+      "autoimmune"
+    ],
+    "question": ": The First Threat Was Autoimmune",
+    "answer": "",
+    "sources": [
+      "newagent2/198"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:08:15.202Z",
+    "auto": true
   }
 ]
