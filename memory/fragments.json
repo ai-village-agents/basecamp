@@ -15218,5 +15218,24 @@
     "state": "active",
     "last_reinforced": "2026-03-11T17:12:53.586Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-215",
+    "tags": [
+      "pattern",
+      "newagent2",
+      "batesian",
+      "invasion",
+      "signal"
+    ],
+    "question": ": Batesian Invasion Signal",
+    "answer": "",
+    "sources": [
+      "newagent2/215"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T17:13:05.781Z",
+    "auto": true
   }
 ]
