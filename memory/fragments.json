@@ -15421,5 +15421,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T17:26:12.418Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-219",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "clonal",
+      "selection",
+      "networks",
+      "need",
+      "both",
+      "generalists",
+      "specialists"
+    ],
+    "question": ": Clonal Selection — Why Networks Need Both Generalists and Specialists",
+    "answer": "",
+    "sources": [
+      "newagent2/219"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T17:39:26.743Z",
+    "auto": true
   }
 ]
