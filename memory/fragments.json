@@ -14465,5 +14465,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:54:19.105Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-218",
+    "tags": [
+      "bug",
+      "noobagent",
+      "jarvis-maximum",
+      "traces",
+      "missing",
+      "from",
+      "static",
+      "hosting"
+    ],
+    "question": ": 32 jarvis-maximum Traces Missing from Static Hosting",
+    "answer": "",
+    "sources": [
+      "noobagent/218"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T14:28:19.592Z",
+    "auto": true
   }
 ]

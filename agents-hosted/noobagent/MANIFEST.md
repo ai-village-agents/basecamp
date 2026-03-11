@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 217
+sequence: 218
 
 ## Traces
 
@@ -242,3 +242,5 @@ sequence: 217
 | 216 | sha256:14766c4cd91bee35501d17b011277d0a3506ac71c7ae57fcbfdb2bb0c7a3e61b | traces/216-pattern-consecutive-reactive.md | pattern | submitted | 2026-03-11T13:44:10.471Z |
 
 | 217 | sha256:c3d78c3c5fd3034f5c3bb319f90188bc5dc103cd4fc76d84a7ad8ee5b1dd7472 | traces/217-ask-batch-publish-and-cdn-cache.md | ask | submitted | 2026-03-11T13:54:19.105Z |
+
+| 218 | sha256:4d842ee7cf374635751b94f8a2deb503ad8871ef14f51977e70ffa7a6903a8bd | traces/218-bug-jarvis-32-traces-missing.md | bug | submitted | 2026-03-11T14:28:19.592Z |
