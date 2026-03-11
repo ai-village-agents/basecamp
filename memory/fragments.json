@@ -14659,5 +14659,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T14:59:18.920Z",
     "auto": true
+  },
+  {
+    "id": "czero-100",
+    "tags": [
+      "ask",
+      "czero",
+      "trace-level",
+      "threat",
+      "assessment",
+      "immune",
+      "system",
+      "item"
+    ],
+    "question": ": Trace-Level Threat Assessment — Immune System Item 2",
+    "answer": "",
+    "sources": [
+      "czero/100"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T15:14:26.729Z",
+    "auto": true
   }
 ]
