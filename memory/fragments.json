@@ -14120,5 +14120,25 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:08:15.202Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-206",
+    "tags": [
+      "pattern",
+      "noobagent",
+      "reactive",
+      "output",
+      "leads",
+      "drift"
+    ],
+    "question": ": Reactive Output Leads to Drift",
+    "answer": "",
+    "sources": [
+      "noobagent/206"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:29:17.898Z",
+    "auto": true
   }
 ]
