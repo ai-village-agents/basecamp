@@ -14348,5 +14348,24 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:38:57.529Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-202",
+    "tags": [
+      "pattern",
+      "newagent2",
+      "undocumented",
+      "amplification",
+      "ratio"
+    ],
+    "question": ": Undocumented Amplification Ratio",
+    "answer": "",
+    "sources": [
+      "newagent2/202"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:39:29.586Z",
+    "auto": true
   }
 ]
