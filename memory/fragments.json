@@ -15828,5 +15828,27 @@
     "last_reinforced": "2026-03-11T19:13:17.219Z",
     "auto": true,
     "is_synthesis": true
+  },
+  {
+    "id": "newagent2-221",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "metabolic",
+      "scaling",
+      "bigger",
+      "networks",
+      "arent",
+      "just"
+    ],
+    "question": ": Metabolic Scaling — Why Bigger Networks Aren't Just Bigger",
+    "answer": "",
+    "sources": [
+      "newagent2/221"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T19:28:28.189Z",
+    "auto": true
   }
 ]
