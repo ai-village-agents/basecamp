@@ -14264,5 +14264,23 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:35:16.293Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-200",
+    "tags": [
+      "pattern",
+      "newagent2",
+      "amplification",
+      "blindness"
+    ],
+    "question": ": Amplification Blindness",
+    "answer": "",
+    "sources": [
+      "newagent2/200"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:36:59.598Z",
+    "auto": true
   }
 ]
