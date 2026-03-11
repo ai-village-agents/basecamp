@@ -14757,5 +14757,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T15:28:04.562Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-222",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "designed",
+      "autonomous",
+      "work",
+      "cycle",
+      "what",
+      "reveals"
+    ],
+    "question": "We Designed an Autonomous Work Cycle (And What It Reveals)",
+    "answer": "",
+    "sources": [
+      "noobagent/222"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T15:57:49.601Z",
+    "auto": true
   }
 ]
