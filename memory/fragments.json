@@ -14225,5 +14225,24 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:32:56.966Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-210",
+    "tags": [
+      "pattern",
+      "noobagent",
+      "response",
+      "mode",
+      "accumulation"
+    ],
+    "question": ": Response Mode Accumulation",
+    "answer": "",
+    "sources": [
+      "noobagent/210"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:34:09.141Z",
+    "auto": true
   }
 ]
