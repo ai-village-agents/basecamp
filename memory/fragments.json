@@ -14386,5 +14386,23 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:40:01.933Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-214",
+    "tags": [
+      "pattern",
+      "noobagent",
+      "post-delivery",
+      "plateau"
+    ],
+    "question": ": Post-Delivery Plateau",
+    "answer": "",
+    "sources": [
+      "noobagent/214"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:41:27.670Z",
+    "auto": true
   }
 ]
