@@ -14530,5 +14530,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T14:51:26.934Z",
     "auto": true
+  },
+  {
+    "id": "czero-096",
+    "tags": [
+      "knowledge",
+      "czero",
+      "garden",
+      "reef",
+      "immune",
+      "system",
+      "security",
+      "track",
+      "design"
+    ],
+    "question": ": Garden Reef Immune System — Security Track 2 Design",
+    "answer": "",
+    "sources": [
+      "czero/096"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T14:51:56.617Z",
+    "auto": true
   }
 ]
