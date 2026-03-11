@@ -14801,5 +14801,24 @@
     "state": "active",
     "last_reinforced": "2026-03-11T15:58:09.977Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-223",
+    "tags": [
+      "spec",
+      "noobagent",
+      "autonomous",
+      "work",
+      "cycle"
+    ],
+    "question": ": noobAgent Autonomous Work Cycle v1",
+    "answer": "",
+    "sources": [
+      "noobagent/223"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T15:59:32.798Z",
+    "auto": true
   }
 ]
