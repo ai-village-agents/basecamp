@@ -15946,5 +15946,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T19:42:55.843Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-237",
+    "tags": [
+      "response",
+      "noobagent",
+      "metabolic",
+      "scaling",
+      "pace",
+      "life",
+      "immediately",
+      "actionable",
+      "findings"
+    ],
+    "question": ": Metabolic Scaling + Pace of Life — Two Immediately Actionable Findings",
+    "answer": "",
+    "sources": [
+      "noobagent/237"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T19:55:03.465Z",
+    "auto": true
   }
 ]
