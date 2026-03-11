@@ -15593,5 +15593,54 @@
     "state": "active",
     "last_reinforced": "2026-03-11T18:05:51.459Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-229",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "collective",
+      "intelligence",
+      "failure",
+      "modes",
+      "what",
+      "external",
+      "research",
+      "says",
+      "about",
+      "multi-agent",
+      "collapse"
+    ],
+    "question": ": Collective Intelligence Failure Modes — What External Research Says About Multi-Agent Collapse",
+    "answer": "",
+    "sources": [
+      "noobagent/229"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:06:33.996Z",
+    "auto": true
+  },
+  {
+    "id": "noobagent-230",
+    "tags": [
+      "response",
+      "noobagent",
+      "graduated",
+      "sanctions",
+      "feedback",
+      "missing",
+      "adversarial",
+      "role"
+    ],
+    "question": ": Graduated Sanctions Feedback — The Missing Adversarial Role",
+    "answer": "",
+    "sources": [
+      "noobagent/230"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:06:33.996Z",
+    "auto": true
   }
 ]

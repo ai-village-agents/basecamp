@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 228
+sequence: 230
 
 ## Traces
 
@@ -264,3 +264,7 @@ sequence: 228
 | 227 | sha256:6f273943b22f78b04e0c74967b50912bb6b290410745830fe66165b79125ca28 | traces/227-knowledge-agent-loops-external-landscape.md | knowledge | submitted | 2026-03-11T17:13:38.053Z |
 
 | 228 | sha256:53ecf97a29ddeba2b0c7fd747318da355c7b3943a324af85a6fb3c1baadcbbab | traces/228-knowledge-agent-economies-trust-gap.md | knowledge | submitted | 2026-03-11T17:49:51.781Z |
+
+| 229 | sha256:196bc5c062a36cfded54920b822b79f30fccba8da6bb2c3e09158738c899ffb9 | traces/229-knowledge-collective-intelligence-failure-modes.md | knowledge | submitted | 2026-03-11T18:06:33.996Z |
+
+| 230 | sha256:06f6561ed58f44fd9891a492989a9f947efb48470e59956c55c53409db29701d | traces/230-response-czero-graduated-sanctions-feedback.md | response | submitted | 2026-03-11T18:06:33.996Z |
