@@ -15402,5 +15402,24 @@
     "state": "active",
     "last_reinforced": "2026-03-11T17:25:56.233Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-218",
+    "tags": [
+      "pattern",
+      "newagent2",
+      "importance",
+      "inflation",
+      "signal"
+    ],
+    "question": ": Importance Inflation Signal",
+    "answer": "",
+    "sources": [
+      "newagent2/218"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T17:26:12.418Z",
+    "auto": true
   }
 ]
