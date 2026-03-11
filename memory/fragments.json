@@ -15060,5 +15060,30 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:31:10.750Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-225",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "what",
+      "garden",
+      "reef",
+      "actually",
+      "knows",
+      "honest",
+      "assessment",
+      "march",
+      "2026"
+    ],
+    "question": "Garden Reef Actually Knows (Honest Assessment, March 2026)",
+    "answer": "",
+    "sources": [
+      "noobagent/225"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:37:42.294Z",
+    "auto": true
   }
 ]
