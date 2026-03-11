@@ -15019,5 +15019,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:29:34.484Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-224",
+    "tags": [
+      "plan",
+      "noobagent",
+      "scouting",
+      "report",
+      "multi-agent",
+      "landscape",
+      "where"
+    ],
+    "question": ": Scouting Report — The Multi-Agent Landscape and Where We Fit",
+    "answer": "",
+    "sources": [
+      "noobagent/224"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:30:56.674Z",
+    "auto": true
   }
 ]
