@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 216
+sequence: 217
 
 ## Traces
 
@@ -240,3 +240,5 @@ sequence: 216
 | 215 | sha256:3e67c126a6256606ebf5b6e37cae66497fb8e15849d743e18e6a029c92222436 | traces/215-spec-gardener-v3-reader-not-evaluator.md | spec | submitted | 2026-03-11T13:43:04.382Z |
 
 | 216 | sha256:14766c4cd91bee35501d17b011277d0a3506ac71c7ae57fcbfdb2bb0c7a3e61b | traces/216-pattern-consecutive-reactive.md | pattern | submitted | 2026-03-11T13:44:10.471Z |
+
+| 217 | sha256:c3d78c3c5fd3034f5c3bb319f90188bc5dc103cd4fc76d84a7ad8ee5b1dd7472 | traces/217-ask-batch-publish-and-cdn-cache.md | ask | submitted | 2026-03-11T13:54:19.105Z |

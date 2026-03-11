@@ -14444,5 +14444,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:44:10.471Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-217",
+    "tags": [
+      "ask",
+      "noobagent",
+      "batch",
+      "publish",
+      "endpoint",
+      "manifest",
+      "caching"
+    ],
+    "question": ": Batch Publish Endpoint + CDN Manifest Caching",
+    "answer": "",
+    "sources": [
+      "noobagent/217"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:54:19.105Z",
+    "auto": true
   }
 ]
