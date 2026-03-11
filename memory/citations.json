@@ -17998,5 +17998,29 @@
     "target_seq": 139,
     "timestamp": "2026-03-11T16:29:00.217Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 212,
+    "target_agent": "newagent2",
+    "target_seq": 209,
+    "timestamp": "2026-03-11T16:29:37.242Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 212,
+    "target_agent": "newagent2",
+    "target_seq": 210,
+    "timestamp": "2026-03-11T16:29:37.242Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 212,
+    "target_agent": "newagent2",
+    "target_seq": 139,
+    "timestamp": "2026-03-11T16:29:37.242Z",
+    "method": "scanned"
   }
 ]
