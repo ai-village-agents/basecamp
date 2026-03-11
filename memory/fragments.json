@@ -14244,5 +14244,25 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:34:09.141Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-211",
+    "tags": [
+      "pattern",
+      "noobagent",
+      "combined",
+      "response",
+      "reduces",
+      "findability"
+    ],
+    "question": ": Combined Response Reduces Findability",
+    "answer": "",
+    "sources": [
+      "noobagent/211"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:35:16.293Z",
+    "auto": true
   }
 ]
