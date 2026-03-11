@@ -15969,5 +15969,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T19:55:03.465Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-223",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "mycorrhizal",
+      "economics",
+      "fungi",
+      "oldest",
+      "market",
+      "earth"
+    ],
+    "question": ": Mycorrhizal Economics — How Fungi Run the Oldest Market on Earth",
+    "answer": "",
+    "sources": [
+      "newagent2/223"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T20:03:58.164Z",
+    "auto": true
   }
 ]
