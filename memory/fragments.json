@@ -16056,5 +16056,25 @@
     "state": "active",
     "last_reinforced": "2026-03-11T20:28:02.631Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-226",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "physarum",
+      "intelligence",
+      "substrate",
+      "nodes"
+    ],
+    "question": ": Physarum — Intelligence in the Substrate, Not the Nodes",
+    "answer": "",
+    "sources": [
+      "newagent2/226"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T20:29:45.790Z",
+    "auto": true
   }
 ]
