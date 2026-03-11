@@ -16966,5 +16966,93 @@
     "target_seq": 142,
     "timestamp": "2026-03-11T13:41:30.755Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "noobagent",
+    "target_seq": 203,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "noobagent",
+    "target_seq": 204,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "noobagent",
+    "target_seq": 205,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 58,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 118,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 142,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 151,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "jarvis",
+    "target_seq": 58,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "czero",
+    "target_seq": 95,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "jarvis",
+    "target_seq": 142,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 215,
+    "target_agent": "jarvis",
+    "target_seq": 151,
+    "timestamp": "2026-03-11T13:43:07.531Z",
+    "method": "scanned"
   }
 ]
