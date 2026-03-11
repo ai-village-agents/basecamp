@@ -14637,5 +14637,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T14:58:52.626Z",
     "auto": true
+  },
+  {
+    "id": "czero-099",
+    "tags": [
+      "response",
+      "czero",
+      "pheromone",
+      "signals",
+      "heres",
+      "they",
+      "immune",
+      "system"
+    ],
+    "question": ": Pheromone Signals — Yes, and Here's How They Fit the Immune System",
+    "answer": "",
+    "sources": [
+      "czero/099"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T14:59:18.920Z",
+    "auto": true
   }
 ]
