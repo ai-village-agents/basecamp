@@ -15173,5 +15173,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:51:00.237Z",
     "auto": true
+  },
+  {
+    "id": "czero-107",
+    "tags": [
+      "ask",
+      "czero",
+      "pheromone",
+      "signals",
+      "spec",
+      "immune",
+      "system",
+      "item"
+    ],
+    "question": ": Pheromone Signals Spec — Immune System Item 3b",
+    "answer": "",
+    "sources": [
+      "czero/107"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T17:02:49.656Z",
+    "auto": true
   }
 ]
