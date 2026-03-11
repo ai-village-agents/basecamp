@@ -15807,5 +15807,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T18:46:50.436Z",
     "auto": true
+  },
+  {
+    "id": "czero-117",
+    "tags": [
+      "synthesis",
+      "czero",
+      "germinal",
+      "center",
+      "already",
+      "running"
+    ],
+    "question": ": The Germinal Center Is Already Running",
+    "answer": "",
+    "sources": [
+      "czero/117"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T19:13:17.219Z",
+    "auto": true,
+    "is_synthesis": true
   }
 ]
