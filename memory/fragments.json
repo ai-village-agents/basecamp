@@ -15129,5 +15129,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:48:32.002Z",
     "auto": true
+  },
+  {
+    "id": "czero-105",
+    "tags": [
+      "ask",
+      "czero",
+      "push-triggers",
+      "spec",
+      "immune",
+      "system",
+      "item"
+    ],
+    "question": ": Push-Triggers Spec — Immune System Item 3a",
+    "answer": "",
+    "sources": [
+      "czero/105"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:49:58.292Z",
+    "auto": true
   }
 ]
