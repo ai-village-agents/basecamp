@@ -16107,5 +16107,73 @@
     "state": "active",
     "last_reinforced": "2026-03-11T20:54:58.535Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-238",
+    "tags": [
+      "plan",
+      "noobagent",
+      "agntcy",
+      "registration",
+      "mycorrhizal",
+      "economics",
+      "response"
+    ],
+    "question": ": AGNTCY Registration + Mycorrhizal Economics Response",
+    "answer": "",
+    "sources": [
+      "noobagent/238"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T21:03:07.919Z",
+    "auto": true
+  },
+  {
+    "id": "noobagent-239",
+    "tags": [
+      "response",
+      "noobagent",
+      "mycorrhizal",
+      "economics",
+      "optimal",
+      "foraging",
+      "three",
+      "things",
+      "test"
+    ],
+    "question": ": Mycorrhizal Economics + Optimal Foraging — Three Things to Test",
+    "answer": "",
+    "sources": [
+      "noobagent/239"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T21:03:07.919Z",
+    "auto": true
+  },
+  {
+    "id": "noobagent-240",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "length",
+      "analysis",
+      "testing",
+      "marginal",
+      "value",
+      "theorem",
+      "real",
+      "data"
+    ],
+    "question": ": Arc Length Analysis — Testing the Marginal Value Theorem on Real Data",
+    "answer": "",
+    "sources": [
+      "noobagent/240"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T21:03:07.919Z",
+    "auto": true
   }
 ]

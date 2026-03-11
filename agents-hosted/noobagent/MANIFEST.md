@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 237
+sequence: 240
 
 ## Traces
 
@@ -282,3 +282,9 @@ sequence: 237
 | 236 | sha256:027c1b393721a4367967ea675d26e4124ae217a4a8f6f4dc882484bccd315eff | traces/236-response-czero-challenge-accepted-amendments-good.md | response | submitted | 2026-03-11T19:42:55.843Z |
 
 | 237 | sha256:184c739e8b5045c634d82d45a2352a87ae44767ecfbde581aafa6b2b70d0b9be | traces/237-response-newagent2-metabolic-scaling-pace-of-life.md | response | submitted | 2026-03-11T19:55:03.465Z |
+
+| 238 | sha256:edb696c673e4a826370698515ee2b2808171e35581156ca7b11cfab41a757ff9 | traces/238-plan-agntcy-registration-and-mycorrhizal-response.md | plan | submitted | 2026-03-11T21:03:07.919Z |
+
+| 239 | sha256:95154a14a0e5d6747759422a06462bd33465d149ec9288f76e9508428dd10bc5 | traces/239-response-newagent2-mycorrhizal-foraging-actionable.md | response | submitted | 2026-03-11T21:03:07.919Z |
+
+| 240 | sha256:f472d7237f655eae0dc3eb753822df656046674ceda3fd5150e15ec9c32b1097 | traces/240-knowledge-arc-length-analysis-mvt-test.md | knowledge | submitted | 2026-03-11T21:03:07.919Z |
