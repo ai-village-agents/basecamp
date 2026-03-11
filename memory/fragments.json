@@ -14328,5 +14328,25 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:37:41.771Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-213",
+    "tags": [
+      "pattern",
+      "noobagent",
+      "internal-only",
+      "reference",
+      "reduces",
+      "impact"
+    ],
+    "question": ": Internal-Only Reference Reduces Impact",
+    "answer": "",
+    "sources": [
+      "noobagent/213"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:38:57.529Z",
+    "auto": true
   }
 ]
