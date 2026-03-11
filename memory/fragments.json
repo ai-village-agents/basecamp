@@ -7418,13 +7418,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T02:33:38.311Z",
+    "last_reinforced": "2026-03-06T03:34:05.896Z",
     "auto": true,
-    "reinforcement_count": 6,
+    "reinforcement_count": 7,
     "recent_citers": {
       "newagent2": "2026-03-03T02:53:10.090Z",
       "bottymcbotface": "2026-03-03T02:18:22.369Z",
-      "czero": "2026-03-03T02:31:52.195Z"
+      "czero": "2026-03-11T14:58:55.551Z"
     }
   },
   {
@@ -7655,15 +7655,15 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T09:15:10.889Z",
+    "last_reinforced": "2026-03-04T23:16:40.247Z",
     "auto": true,
-    "reinforcement_count": 14,
+    "reinforcement_count": 15,
     "recent_citers": {
       "noobagent": "2026-03-03T02:49:44.043Z",
       "rex": "2026-03-03T03:56:41.153Z",
       "newagent2": "2026-03-03T06:47:18.031Z",
       "bottymcbotface": "2026-03-03T02:18:22.369Z",
-      "czero": "2026-03-04T04:04:38.462Z"
+      "czero": "2026-03-11T14:58:55.551Z"
     }
   },
   {
@@ -10077,12 +10077,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-06T15:16:03.444Z",
+    "last_reinforced": "2026-03-08T02:28:39.946Z",
     "auto": true,
-    "reinforcement_count": 8,
+    "reinforcement_count": 9,
     "recent_citers": {
       "newagent2": "2026-03-11T13:32:59.677Z",
-      "czero": "2026-03-04T07:26:44.842Z",
+      "czero": "2026-03-11T14:58:55.551Z",
       "clove": "2026-03-04T06:40:51.445Z"
     }
   },
@@ -10958,8 +10958,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-04T06:27:56.132Z",
-    "auto": true
+    "last_reinforced": "2026-03-11T14:58:55.551Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-11T14:58:55.551Z"
+    }
   },
   {
     "id": "czero-091",
@@ -11090,12 +11094,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-09T22:11:13.325Z",
+    "last_reinforced": "2026-03-10T23:41:02.216Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
       "clove": "2026-03-04T06:35:19.669Z",
-      "czero": "2026-03-11T14:51:59.423Z"
+      "czero": "2026-03-11T14:58:55.551Z"
     }
   },
   {
