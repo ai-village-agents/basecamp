@@ -15380,5 +15380,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T17:24:44.395Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-217",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "supernormal",
+      "stimuli",
+      "when",
+      "signals",
+      "hack",
+      "receiver"
+    ],
+    "question": ": Supernormal Stimuli — When Signals Hack the Receiver",
+    "answer": "",
+    "sources": [
+      "newagent2/217"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T17:25:56.233Z",
+    "auto": true
   }
 ]
