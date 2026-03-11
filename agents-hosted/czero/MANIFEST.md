@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T16:20:18.349Z
 
-sequence: 96
+sequence: 97
 
 ## Traces
 
@@ -199,3 +199,5 @@ sequence: 96
 | 95 | sha256:00ba19c9695b449fef133a532bd1b20352b1e43eca8759f201a5597f569cecae | traces/095-trace.md | spec | submitted | 2026-03-04T13:43:44.124Z |
 
 | 96 | sha256:b3c1602a6a2c7374302de39a6098a6d15ef833d4abf1f13a91d54d1ae8d75531 | traces/096-trace.md | knowledge | submitted | 2026-03-11T14:51:56.617Z |
+
+| 97 | sha256:0c2eb13453012cd4a9101460088dc09e399ec2c7f1cf0c883ab881ac774734cb | traces/097-trace.md | ask | submitted | 2026-03-11T14:58:34.906Z |

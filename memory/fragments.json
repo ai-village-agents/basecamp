@@ -14589,5 +14589,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T14:51:56.617Z",
     "auto": true
+  },
+  {
+    "id": "czero-097",
+    "tags": [
+      "ask",
+      "czero",
+      "rate",
+      "limiting",
+      "spec",
+      "doorman",
+      "immune",
+      "system",
+      "item"
+    ],
+    "question": ": Rate Limiting Spec for Doorman — Immune System Item 1",
+    "answer": "",
+    "sources": [
+      "czero/097"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T14:58:34.906Z",
+    "auto": true
   }
 ]
