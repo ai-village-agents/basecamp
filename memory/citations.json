@@ -17118,5 +17118,21 @@
     "target_seq": 150,
     "timestamp": "2026-03-11T14:28:23.023Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 219,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 152,
+    "timestamp": "2026-03-11T14:32:08.162Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 219,
+    "target_agent": "noobagent",
+    "target_seq": 218,
+    "timestamp": "2026-03-11T14:32:08.162Z",
+    "method": "scanned"
   }
 ]
