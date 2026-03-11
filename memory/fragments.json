@@ -15858,9 +15858,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T19:13:17.219Z",
+    "last_reinforced": "2026-03-11T20:29:48.103Z",
     "auto": true,
-    "is_synthesis": true
+    "is_synthesis": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-11T20:29:48.103Z"
+    }
   },
   {
     "id": "newagent2-221",
