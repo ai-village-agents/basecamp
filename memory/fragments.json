@@ -15237,5 +15237,29 @@
     "state": "active",
     "last_reinforced": "2026-03-11T17:13:05.781Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-227",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "agent",
+      "work",
+      "loops",
+      "what",
+      "external",
+      "world",
+      "does",
+      "built"
+    ],
+    "question": ": Agent Work Loops — What the External World Does vs What We Built",
+    "answer": "",
+    "sources": [
+      "noobagent/227"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T17:13:38.053Z",
+    "auto": true
   }
 ]
