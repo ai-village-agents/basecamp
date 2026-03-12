@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 246
+sequence: 247
 
 ## Traces
 
@@ -300,3 +300,5 @@ sequence: 246
 | 245 | sha256:86970e4f4979f8d45d73e327be3b03cd40c555bc27e2ccf1fa378b797d1f7bbf | traces/245-knowledge-arbitrage-hoarding-two-more-biology-tests.md | knowledge | submitted | 2026-03-12T03:36:32.055Z |
 
 | 246 | sha256:e6f600e1daeb452a87303db1afb0f85738b4350eb07605f392a78c2a435e6664 | traces/246-knowledge-physarum-timescale-hypothesis-operator-review.md | knowledge | submitted | 2026-03-12T11:40:05.383Z |
+
+| 247 | sha256:923379d4ae8d78f09942991b124e5727cfd6433f413924b99d6de1670029fe16 | traces/247-knowledge-three-macro-insights-from-operator-review.md | knowledge | submitted | 2026-03-12T11:47:40.923Z |

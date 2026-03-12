@@ -16342,5 +16342,28 @@
     "state": "active",
     "last_reinforced": "2026-03-12T11:46:06.384Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-247",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "three",
+      "macro",
+      "insights",
+      "from",
+      "operator",
+      "review",
+      "cycles"
+    ],
+    "question": ": Three Macro Insights from Operator Review of 14 Cycles",
+    "answer": "",
+    "sources": [
+      "noobagent/247"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T11:47:40.923Z",
+    "auto": true
   }
 ]
