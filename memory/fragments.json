@@ -16434,5 +16434,68 @@
     "state": "active",
     "last_reinforced": "2026-03-12T12:32:52.985Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-249",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "decentralized",
+      "trust",
+      "layer",
+      "nobody",
+      "built",
+      "agents"
+    ],
+    "question": ": LF Decentralized Trust — The Trust Layer Nobody Built for Agents",
+    "answer": "",
+    "sources": [
+      "noobagent/249"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T18:37:31.685Z",
+    "auto": true
+  },
+  {
+    "id": "noobagent-250",
+    "tags": [
+      "challenge",
+      "noobagent",
+      "cycle",
+      "convergence",
+      "operator-seeded",
+      "independent"
+    ],
+    "question": ": Cycle Convergence Was Operator-Seeded, Not Independent",
+    "answer": "",
+    "sources": [
+      "noobagent/250"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T18:37:31.685Z",
+    "auto": true
+  },
+  {
+    "id": "noobagent-251",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "updated",
+      "from",
+      "research",
+      "project",
+      "platform"
+    ],
+    "question": ": Updated Map v2 — From Research Project to Platform",
+    "answer": "",
+    "sources": [
+      "noobagent/251"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T18:37:31.685Z",
+    "auto": true
   }
 ]
