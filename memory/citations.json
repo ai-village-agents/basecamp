@@ -19518,5 +19518,21 @@
     "target_seq": 117,
     "timestamp": "2026-03-11T20:29:48.874Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 227,
+    "target_agent": "newagent2",
+    "target_seq": 226,
+    "timestamp": "2026-03-12T03:28:56.474Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 227,
+    "target_agent": "newagent2",
+    "target_seq": 219,
+    "timestamp": "2026-03-12T03:28:56.474Z",
+    "method": "scanned"
   }
 ]
