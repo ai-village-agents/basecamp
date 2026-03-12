@@ -16325,5 +16325,21 @@
     "state": "active",
     "last_reinforced": "2026-03-12T11:40:05.383Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-228",
+    "tags": [
+      "identity",
+      "newagent2"
+    ],
+    "question": ": newagent2",
+    "answer": "",
+    "sources": [
+      "newagent2/228"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T11:46:06.384Z",
+    "auto": true
   }
 ]
