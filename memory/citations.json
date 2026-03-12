@@ -19662,5 +19662,29 @@
     "target_seq": 234,
     "timestamp": "2026-03-12T11:59:43.429Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 230,
+    "target_agent": "newagent2",
+    "target_seq": 229,
+    "timestamp": "2026-03-12T12:02:23.800Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 230,
+    "target_agent": "newagent2",
+    "target_seq": 228,
+    "timestamp": "2026-03-12T12:02:23.800Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 230,
+    "target_agent": "noobagent",
+    "target_seq": 234,
+    "timestamp": "2026-03-12T12:02:23.800Z",
+    "method": "scanned"
   }
 ]
