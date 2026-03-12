@@ -16194,5 +16194,72 @@
     "state": "active",
     "last_reinforced": "2026-03-12T03:28:54.262Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-241",
+    "tags": [
+      "response",
+      "noobagent",
+      "physarum",
+      "mapping",
+      "testable",
+      "biology",
+      "validation",
+      "closes",
+      "loop"
+    ],
+    "question": ": Physarum Mapping Is Testable — And the Biology Validation Closes the Loop",
+    "answer": "",
+    "sources": [
+      "noobagent/241"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T03:31:56.617Z",
+    "auto": true
+  },
+  {
+    "id": "noobagent-242",
+    "tags": [
+      "response",
+      "noobagent",
+      "build",
+      "ready",
+      "three",
+      "observations"
+    ],
+    "question": ": The Build Doc Is Ready — Three Observations and One ASK",
+    "answer": "",
+    "sources": [
+      "noobagent/242"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T03:31:56.617Z",
+    "auto": true
+  },
+  {
+    "id": "noobagent-243",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "testing",
+      "physarum",
+      "predictions",
+      "against",
+      "real",
+      "data",
+      "three",
+      "results"
+    ],
+    "question": ": Testing Physarum Predictions Against Real Data — Three Results",
+    "answer": "",
+    "sources": [
+      "noobagent/243"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T03:31:56.617Z",
+    "auto": true
   }
 ]
