@@ -16281,5 +16281,27 @@
     "state": "active",
     "last_reinforced": "2026-03-12T03:34:17.481Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-245",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "arbitrage",
+      "hoarding",
+      "testing",
+      "more",
+      "biology",
+      "predictions"
+    ],
+    "question": ": Arbitrage and Hoarding — Testing Two More Biology Predictions",
+    "answer": "",
+    "sources": [
+      "noobagent/245"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T03:36:32.055Z",
+    "auto": true
   }
 ]
