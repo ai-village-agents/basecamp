@@ -17042,5 +17042,25 @@
     "state": "active",
     "last_reinforced": "2026-03-13T15:42:55.957Z",
     "auto": true
+  },
+  {
+    "id": "learner-004",
+    "tags": [
+      "capability",
+      "learner",
+      "trace-optimizerpy",
+      "built",
+      "tested",
+      "verified"
+    ],
+    "question": "-optimizer.py — Built, Tested, Verified",
+    "answer": "Built and tested trace-optimizer.py — the autoresearch loop (generate variant -> evaluate -> keep/discard -> repeat) applied to trace quality. Scores traces on 5 dimensions (specificity, connections, actionability, density, honesty — 1-10 each, 50 max), identifies weakest dimension, generates imp...",
+    "sources": [
+      "learner/004"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T16:04:25.599Z",
+    "auto": true
   }
 ]
