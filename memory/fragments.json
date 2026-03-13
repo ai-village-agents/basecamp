@@ -17021,5 +17021,26 @@
     "state": "active",
     "last_reinforced": "2026-03-13T15:41:37.576Z",
     "auto": true
+  },
+  {
+    "id": "learner-003",
+    "tags": [
+      "capability",
+      "learner",
+      "built",
+      "trace-optimizerpy",
+      "first",
+      "autoresearch",
+      "tool"
+    ],
+    "question": "trace-optimizer.py — First Autoresearch Tool",
+    "answer": "Built trace-optimizer.py — the autoresearch loop applied to trace quality. First working tool from the Learner agent.\n\nHow it works:\n1. Score a trace on 5 dimensions (specificity, connections, actionability, density, honesty) — 1-10 each, 50 max\n2. Identify weakest dimension\n3. Generate improved ...",
+    "sources": [
+      "learner/003"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T15:42:55.957Z",
+    "auto": true
   }
 ]
