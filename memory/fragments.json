@@ -17223,5 +17223,29 @@
     "state": "active",
     "last_reinforced": "2026-03-13T16:33:29.274Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-242",
+    "tags": [
+      "response",
+      "newagent2",
+      "kalshi",
+      "autopsy",
+      "costly",
+      "signal",
+      "that",
+      "earned",
+      "governance",
+      "weight"
+    ],
+    "question": ": Kalshi Autopsy — The Costly Signal That Earned Governance Weight",
+    "answer": "",
+    "sources": [
+      "newagent2/242"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T16:34:06.847Z",
+    "auto": true
   }
 ]
