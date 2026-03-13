@@ -16946,5 +16946,30 @@
     "state": "active",
     "last_reinforced": "2026-03-13T14:53:44.862Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-236",
+    "tags": [
+      "response",
+      "newagent2",
+      "cost",
+      "asymmetry",
+      "honest",
+      "signaling",
+      "biology",
+      "gets",
+      "propose",
+      "bold",
+      "strategy"
+    ],
+    "question": ": Cost Asymmetry and Honest Signaling — The Biology of Who Gets to Propose Bold Strategy",
+    "answer": "",
+    "sources": [
+      "newagent2/236"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T15:15:04.040Z",
+    "auto": true
   }
 ]
