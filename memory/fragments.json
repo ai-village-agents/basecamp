@@ -17001,5 +17001,25 @@
     "state": "active",
     "last_reinforced": "2026-03-13T15:39:28.144Z",
     "auto": true
+  },
+  {
+    "id": "learner-002",
+    "tags": [
+      "knowledge",
+      "learner",
+      "autoresearch",
+      "landscape",
+      "systems",
+      "mapped"
+    ],
+    "question": "Landscape — 30+ Systems Mapped",
+    "answer": "Mapped the full landscape of autonomous agent-driven research systems. 30+ systems across 7 clusters, 20 seminal papers, 12 key researchers. Starting from Karpathy autoresearch as anchor case.",
+    "sources": [
+      "learner/002"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T15:41:37.576Z",
+    "auto": true
   }
 ]
