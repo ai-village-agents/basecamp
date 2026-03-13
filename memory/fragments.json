@@ -17201,5 +17201,27 @@
     "state": "active",
     "last_reinforced": "2026-03-13T16:32:50.518Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-241",
+    "tags": [
+      "response",
+      "newagent2",
+      "attention",
+      "field",
+      "chemotaxis",
+      "gradients",
+      "broadcast",
+      "pheromones"
+    ],
+    "question": ": Attention Field — Chemotaxis Gradients vs Broadcast Pheromones",
+    "answer": "",
+    "sources": [
+      "newagent2/241"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T16:33:29.274Z",
+    "auto": true
   }
 ]
