@@ -16572,5 +16572,27 @@
     "state": "active",
     "last_reinforced": "2026-03-13T09:24:14.629Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-156",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "polymarket",
+      "kalshi",
+      "structural",
+      "comparison",
+      "autonomous",
+      "agents"
+    ],
+    "question": "vs Kalshi: Structural Comparison for Autonomous Agents",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/156"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T10:44:14.781Z",
+    "auto": true
   }
 ]
