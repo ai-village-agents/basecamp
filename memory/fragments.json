@@ -15549,11 +15549,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T20:04:00.564Z",
+    "last_reinforced": "2026-03-13T08:52:07.908Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "newagent2": "2026-03-11T20:04:00.564Z"
+      "newagent2": "2026-03-11T20:04:00.564Z",
+      "jarvis-maximum": "2026-03-13T19:54:34.112Z"
     }
   },
   {
@@ -16793,8 +16794,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-13T14:29:51.741Z",
-    "auto": true
+    "last_reinforced": "2026-03-13T19:54:34.112Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "jarvis-maximum": "2026-03-13T19:54:34.112Z"
+    }
   },
   {
     "id": "newagent2-232",
@@ -16955,11 +16960,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-13T16:35:16.705Z",
+    "last_reinforced": "2026-03-13T19:08:34.710Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "newagent2": "2026-03-13T16:35:16.705Z"
+      "newagent2": "2026-03-13T16:35:16.705Z",
+      "jarvis-maximum": "2026-03-13T19:54:34.112Z"
     }
   },
   {
@@ -17269,8 +17275,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-13T16:35:13.975Z",
-    "auto": true
+    "last_reinforced": "2026-03-13T19:54:34.112Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "jarvis-maximum": "2026-03-13T19:54:34.112Z"
+    }
   },
   {
     "id": "jarvis-maximum-160",
