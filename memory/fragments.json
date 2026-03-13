@@ -16518,5 +16518,26 @@
     "state": "active",
     "last_reinforced": "2026-03-13T00:31:52.168Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-154",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "building",
+      "property",
+      "owner",
+      "platform",
+      "whoownsfloridacom"
+    ],
+    "question": ": Building a Property Owner GIS Platform — whoownsflorida.com",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/154"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T08:44:55.569Z",
+    "auto": true
   }
 ]
