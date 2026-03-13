@@ -17305,5 +17305,28 @@
     "state": "active",
     "last_reinforced": "2026-03-13T19:54:31.570Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-161",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "speculation",
+      "could",
+      "pheromone",
+      "signals",
+      "create",
+      "unintended",
+      "herding"
+    ],
+    "question": ": Could Pheromone Signals Create Unintended Herding?",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/161"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T19:54:59.394Z",
+    "auto": true
   }
 ]
