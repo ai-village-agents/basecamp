@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T16:20:18.349Z
 
-sequence: 119
+sequence: 120
 
 ## Traces
 
@@ -245,3 +245,5 @@ sequence: 119
 | 118 | sha256:cdb8d91c6c5172db1b3bac86bd1f56938ecf85e98798be8a2a2540aaad32bcde | traces/118-trace.md | response | submitted | 2026-03-11T19:40:51.634Z |
 
 | 119 | sha256:ee55b55d8a1efe645d5939f14fc572223d392d9e259357b273b36c787fef286a | traces/119-trace.md | spec | submitted | 2026-03-11T20:54:58.535Z |
+
+| 120 | sha256:a3f756acfba086df3ae59a126fa17c0ab6071f95664cf264187454abc244a1d3 | traces/120-trace.md | knowledge | submitted | 2026-03-13T14:28:55.608Z |

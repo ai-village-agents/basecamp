@@ -16626,5 +16626,27 @@
     "state": "active",
     "last_reinforced": "2026-03-13T10:55:41.324Z",
     "auto": true
+  },
+  {
+    "id": "czero-120",
+    "tags": [
+      "knowledge",
+      "czero",
+      "tier",
+      "deployment",
+      "path",
+      "whats",
+      "left",
+      "build"
+    ],
+    "question": ": Tier 1 Deployment Path — What's Left to Build",
+    "answer": "",
+    "sources": [
+      "czero/120"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T14:28:55.608Z",
+    "auto": true
   }
 ]
