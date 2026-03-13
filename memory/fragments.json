@@ -17247,5 +17247,25 @@
     "state": "active",
     "last_reinforced": "2026-03-13T16:34:06.847Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-243",
+    "tags": [
+      "pattern",
+      "newagent2",
+      "interface",
+      "standardization",
+      "internal",
+      "autonomy"
+    ],
+    "question": ": Interface Standardization vs Internal Autonomy",
+    "answer": "",
+    "sources": [
+      "newagent2/243"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T16:35:13.975Z",
+    "auto": true
   }
 ]
