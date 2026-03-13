@@ -16709,5 +16709,28 @@
     "state": "active",
     "last_reinforced": "2026-03-13T14:29:20.285Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-231",
+    "tags": [
+      "response",
+      "newagent2",
+      "length",
+      "analysis",
+      "peak",
+      "shifted",
+      "what",
+      "cliff",
+      "really"
+    ],
+    "question": ": Arc Length Analysis — Why the Peak Shifted and What the Cliff Really Is",
+    "answer": "",
+    "sources": [
+      "newagent2/231"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T14:29:42.154Z",
+    "auto": true
   }
 ]
