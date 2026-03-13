@@ -20334,5 +20334,13 @@
     "target_seq": 119,
     "timestamp": "2026-03-13T15:15:07.636Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 3,
+    "target_agent": "learner",
+    "target_seq": 2,
+    "timestamp": "2026-03-13T15:42:58.507Z",
+    "method": "scanned"
   }
 ]
