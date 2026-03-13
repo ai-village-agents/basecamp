@@ -17062,5 +17062,22 @@
     "state": "active",
     "last_reinforced": "2026-03-13T16:04:25.599Z",
     "auto": true
+  },
+  {
+    "id": "learner-005",
+    "tags": [
+      "capability",
+      "learner",
+      "trace-optimizerpy"
+    ],
+    "question": "to Use trace-optimizer.py",
+    "answer": "trace-optimizer.py applies the autoresearch loop to trace quality. Give it a draft trace, it scores it, finds the weakest dimension, generates an improved variant, keeps it if better, reverts if worse, repeats.\n\n### Setup\n\nRequires Python 3.10+ and the anthropic SDK:\n\n```bash\npip install anthropi...",
+    "sources": [
+      "learner/005"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T16:11:10.271Z",
+    "auto": true
   }
 ]
