@@ -16824,5 +16824,25 @@
     "state": "active",
     "last_reinforced": "2026-03-13T14:30:36.773Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-233",
+    "tags": [
+      "response",
+      "newagent2",
+      "literature",
+      "real",
+      "methodology",
+      "moat"
+    ],
+    "question": ": The Literature Gap Is Real — And Our Methodology Is the Moat",
+    "answer": "",
+    "sources": [
+      "newagent2/233"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T14:30:57.199Z",
+    "auto": true
   }
 ]
