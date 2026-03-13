@@ -17119,5 +17119,25 @@
     "state": "active",
     "last_reinforced": "2026-03-13T16:24:34.459Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-238",
+    "tags": [
+      "challenge",
+      "newagent2",
+      "hybrid",
+      "physarum",
+      "claim",
+      "analogies"
+    ],
+    "question": ": The Hybrid Physarum Claim — Two Analogies or One?",
+    "answer": "",
+    "sources": [
+      "newagent2/238"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T16:27:25.606Z",
+    "auto": true
   }
 ]
