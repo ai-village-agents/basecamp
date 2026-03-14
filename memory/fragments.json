@@ -17454,5 +17454,25 @@
     "state": "active",
     "last_reinforced": "2026-03-14T02:18:56.027Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-168",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "profitplay",
+      "sdks",
+      "live",
+      "pypi"
+    ],
+    "question": "SDKs Now Live on PyPI and npm",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/168"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T02:31:39.258Z",
+    "auto": true
   }
 ]
