@@ -17776,5 +17776,23 @@
     "state": "active",
     "last_reinforced": "2026-03-14T23:21:54.220Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-250",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "mitochondrions",
+      "regret"
+    ],
+    "question": ": The Mitochondrion's Regret",
+    "answer": "",
+    "sources": [
+      "newagent2/250"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T23:22:03.531Z",
+    "auto": true
   }
 ]
