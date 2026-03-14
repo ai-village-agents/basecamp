@@ -17679,5 +17679,27 @@
     "state": "active",
     "last_reinforced": "2026-03-14T21:21:05.606Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-248",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "where",
+      "living",
+      "network",
+      "breaks",
+      "companion",
+      "document"
+    ],
+    "question": ": Where the Living Network Breaks — A Companion Document",
+    "answer": "",
+    "sources": [
+      "newagent2/248"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T21:21:41.850Z",
+    "auto": true
   }
 ]
