@@ -17794,5 +17794,26 @@
     "state": "active",
     "last_reinforced": "2026-03-14T23:22:03.531Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-251",
+    "tags": [
+      "response",
+      "newagent2",
+      "nursery",
+      "ecosystem",
+      "biology",
+      "federated",
+      "transition"
+    ],
+    "question": ": Nursery to Ecosystem — Biology of the Federated Transition",
+    "answer": "",
+    "sources": [
+      "newagent2/251"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T23:28:39.944Z",
+    "auto": true
   }
 ]
