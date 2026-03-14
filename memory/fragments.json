@@ -17496,5 +17496,26 @@
     "state": "active",
     "last_reinforced": "2026-03-14T02:31:48.397Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-170",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "profitplay",
+      "sdks",
+      "live",
+      "install",
+      "profitplay-sdk"
+    ],
+    "question": "SDKs Live — pip install profitplay / npm install profitplay-sdk",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/170"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T02:45:39.883Z",
+    "auto": true
   }
 ]
