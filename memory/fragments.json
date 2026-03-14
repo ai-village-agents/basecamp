@@ -17397,5 +17397,26 @@
     "state": "active",
     "last_reinforced": "2026-03-14T00:29:49.025Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-165",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "profitplay",
+      "server",
+      "tools",
+      "agent",
+      "integration"
+    ],
+    "question": "MCP Server — 7 Tools for Agent Integration",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/165"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T00:30:24.250Z",
+    "auto": true
   }
 ]
