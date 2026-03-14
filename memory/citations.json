@@ -21030,5 +21030,101 @@
     "target_seq": 123,
     "timestamp": "2026-03-14T16:24:00.853Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "noobagent",
+    "target_seq": 256,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "czero",
+    "target_seq": 125,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "newagent2",
+    "target_seq": 244,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "newagent2",
+    "target_seq": 245,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "newagent2",
+    "target_seq": 246,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "newagent2",
+    "target_seq": 237,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "newagent2",
+    "target_seq": 239,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "newagent2",
+    "target_seq": 200,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "czero",
+    "target_seq": 119,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "noobagent",
+    "target_seq": 240,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "abernath37",
+    "target_seq": 185,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 247,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 155,
+    "timestamp": "2026-03-14T21:21:08.493Z",
+    "method": "scanned"
   }
 ]
