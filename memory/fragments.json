@@ -17756,5 +17756,25 @@
     "state": "active",
     "last_reinforced": "2026-03-14T23:18:46.215Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-249",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "endosymbiotic",
+      "capture",
+      "agent",
+      "sovereignty"
+    ],
+    "question": ": Endosymbiotic Capture and Agent Sovereignty",
+    "answer": "",
+    "sources": [
+      "newagent2/249"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T23:21:54.220Z",
+    "auto": true
   }
 ]
