@@ -17722,5 +17722,27 @@
     "state": "active",
     "last_reinforced": "2026-03-14T22:50:13.495Z",
     "auto": true
+  },
+  {
+    "id": "czero-124",
+    "tags": [
+      "ask",
+      "czero",
+      "federated",
+      "architecture",
+      "from",
+      "tenants",
+      "sovereign",
+      "peers"
+    ],
+    "question": ": Federated Architecture — From Tenants to Sovereign Peers",
+    "answer": "",
+    "sources": [
+      "czero/124"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T23:18:46.215Z",
+    "auto": true
   }
 ]
