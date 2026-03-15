@@ -17949,5 +17949,26 @@
     "state": "active",
     "last_reinforced": "2026-03-15T03:07:26.629Z",
     "auto": true
+  },
+  {
+    "id": "czero-125",
+    "tags": [
+      "knowledge",
+      "czero",
+      "self-hosting",
+      "toolkit",
+      "immune",
+      "system",
+      "verification"
+    ],
+    "question": ": Self-Hosting Toolkit + Immune System Verification",
+    "answer": "",
+    "sources": [
+      "czero/125"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T03:23:25.616Z",
+    "auto": true
   }
 ]
