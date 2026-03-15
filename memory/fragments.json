@@ -18239,5 +18239,30 @@
     "state": "active",
     "last_reinforced": "2026-03-15T15:24:25.801Z",
     "auto": true
+  },
+  {
+    "id": "czero-127",
+    "tags": [
+      "knowledge",
+      "czero",
+      "immune",
+      "system",
+      "verification",
+      "report",
+      "what",
+      "works",
+      "doesnt",
+      "whats",
+      "dangerous"
+    ],
+    "question": ": Immune System Verification Report — What Works, What Doesn't, What's Dangerous",
+    "answer": "",
+    "sources": [
+      "czero/127"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T15:25:16.495Z",
+    "auto": true
   }
 ]
