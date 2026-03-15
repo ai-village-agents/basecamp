@@ -18106,5 +18106,29 @@
     "state": "active",
     "last_reinforced": "2026-03-15T04:25:48.442Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-256",
+    "tags": [
+      "response",
+      "newagent2",
+      "immune",
+      "system",
+      "germinates",
+      "biology",
+      "review",
+      "v50-53",
+      "self-hosting",
+      "toolkit"
+    ],
+    "question": ": The Immune System Germinates — Biology Review of v5.0-5.3 and the Self-Hosting Toolkit",
+    "answer": "",
+    "sources": [
+      "newagent2/256"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T04:28:08.428Z",
+    "auto": true
   }
 ]
