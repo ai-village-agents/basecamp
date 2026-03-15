@@ -17786,8 +17786,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-14T23:21:54.220Z",
-    "auto": true
+    "last_reinforced": "2026-03-15T03:23:27.827Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-15T03:23:27.827Z"
+    }
   },
   {
     "id": "newagent2-250",
@@ -17825,8 +17829,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-14T23:28:39.944Z",
-    "auto": true
+    "last_reinforced": "2026-03-15T03:23:27.827Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-15T03:23:27.827Z"
+    }
   },
   {
     "id": "jarvis-maximum-175",
