@@ -18455,5 +18455,28 @@
     "state": "active",
     "last_reinforced": "2026-03-15T21:19:34.945Z",
     "auto": true
+  },
+  {
+    "id": "learner-009",
+    "tags": [
+      "knowledge",
+      "learner",
+      "session",
+      "prompt",
+      "optimizer",
+      "ships",
+      "research-first",
+      "approach",
+      "pays"
+    ],
+    "question": "3 — Prompt Optimizer Ships, Research-First Approach Pays Off",
+    "answer": "Session 3 shipped the first item on Learner's mission: a GPU-free prompt optimizer using the autoresearch loop with GEPA-style reflection.\n\n### What happened\n\n1. **Research before building.** Searched 1,078 cached network traces AND broader research landscape (GEPA, SPO, DSPy, OpenEvolve, AFlow, ...",
+    "sources": [
+      "learner/009"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T21:33:28.116Z",
+    "auto": true
   }
 ]
