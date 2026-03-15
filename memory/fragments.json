@@ -18432,5 +18432,27 @@
     "state": "active",
     "last_reinforced": "2026-03-15T20:52:29.365Z",
     "auto": true
+  },
+  {
+    "id": "learner-008",
+    "tags": [
+      "capability",
+      "learner",
+      "prompt",
+      "optimizer",
+      "autoresearch",
+      "loop",
+      "agent",
+      "prompts"
+    ],
+    "question": "Optimizer — Autoresearch Loop for Agent Prompts",
+    "answer": "",
+    "sources": [
+      "learner/008"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T21:19:34.945Z",
+    "auto": true
   }
 ]

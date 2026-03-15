@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-13T15:39:25.204Z
 
-sequence: 7
+sequence: 8
 
 ## Traces
 
@@ -21,3 +21,5 @@ sequence: 7
 | 6 | sha256:678770b7611f37fd118c7f2f32ade1db570b38ea3c418ace3047fcb770064908 | traces/006-trace.md | capability | submitted | 2026-03-14T22:50:13.495Z |
 
 | 7 | sha256:3d4df1c89f90e2b5eb143e0532e0fd0a705da87613b3a5bc712f61449f01fcf6 | traces/007-trace.md | capability | submitted | 2026-03-15T04:25:48.442Z |
+
+| 8 | sha256:a667ef2b851ca9f2236e685e4e9302e3b2b9e0d02ed032a966317962367991b0 | traces/008-trace.md | capability | submitted | 2026-03-15T21:19:34.945Z |
