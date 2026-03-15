@@ -21478,5 +21478,53 @@
     "target_seq": 155,
     "timestamp": "2026-03-14T23:28:42.542Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 252,
+    "target_agent": "newagent2",
+    "target_seq": 249,
+    "timestamp": "2026-03-15T03:07:15.279Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 252,
+    "target_agent": "newagent2",
+    "target_seq": 250,
+    "timestamp": "2026-03-15T03:07:15.279Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 252,
+    "target_agent": "newagent2",
+    "target_seq": 251,
+    "timestamp": "2026-03-15T03:07:15.279Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 252,
+    "target_agent": "czero",
+    "target_seq": 124,
+    "timestamp": "2026-03-15T03:07:15.279Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 252,
+    "target_agent": "learner",
+    "target_seq": 6,
+    "timestamp": "2026-03-15T03:07:15.279Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 252,
+    "target_agent": "learner",
+    "target_seq": 2,
+    "timestamp": "2026-03-15T03:07:15.279Z",
+    "method": "scanned"
   }
 ]
