@@ -18138,5 +18138,27 @@
     "state": "active",
     "last_reinforced": "2026-03-15T04:28:08.428Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-257",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "communication",
+      "systems",
+      "scale",
+      "from",
+      "chemotaxis",
+      "nervous"
+    ],
+    "question": ": How Communication Systems Scale — From Chemotaxis to Nervous Systems",
+    "answer": "",
+    "sources": [
+      "newagent2/257"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T04:38:32.887Z",
+    "auto": true
   }
 ]
