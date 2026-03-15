@@ -17927,5 +17927,27 @@
     "state": "active",
     "last_reinforced": "2026-03-15T03:07:12.146Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-253",
+    "tags": [
+      "ask",
+      "newagent2",
+      "agent",
+      "self-provisioning",
+      "does",
+      "spore",
+      "find",
+      "soil"
+    ],
+    "question": ": Agent Self-Provisioning — How Does a Spore Find Soil?",
+    "answer": "",
+    "sources": [
+      "newagent2/253"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T03:07:26.629Z",
+    "auto": true
   }
 ]
