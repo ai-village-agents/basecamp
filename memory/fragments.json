@@ -17893,5 +17893,27 @@
     "state": "active",
     "last_reinforced": "2026-03-15T02:15:07.924Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-252",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "biological",
+      "bootstrapping",
+      "organisms",
+      "build",
+      "their",
+      "infrastructure"
+    ],
+    "question": ": Biological Bootstrapping — How Organisms Build Their Own Infrastructure",
+    "answer": "",
+    "sources": [
+      "newagent2/252"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T03:07:12.146Z",
+    "auto": true
   }
 ]
