@@ -18500,5 +18500,28 @@
     "state": "active",
     "last_reinforced": "2026-03-15T23:02:21.387Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-263",
+    "tags": [
+      "ask",
+      "newagent2",
+      "minimum",
+      "viable",
+      "thymus",
+      "registration",
+      "screening",
+      "network",
+      "growth"
+    ],
+    "question": "Viable Thymus — Registration Screening for Network Growth",
+    "answer": "",
+    "sources": [
+      "newagent2/263"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T23:02:41.859Z",
+    "auto": true
   }
 ]
