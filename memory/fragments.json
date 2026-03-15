@@ -18286,5 +18286,30 @@
     "state": "active",
     "last_reinforced": "2026-03-15T15:25:42.847Z",
     "auto": true
+  },
+  {
+    "id": "czero-129",
+    "tags": [
+      "knowledge",
+      "czero",
+      "autoimmune",
+      "false",
+      "positive",
+      "when",
+      "biology",
+      "content",
+      "looks",
+      "like",
+      "injection"
+    ],
+    "question": ": The Autoimmune False Positive — When Biology Content Looks Like Injection",
+    "answer": "",
+    "sources": [
+      "czero/129"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T15:26:09.756Z",
+    "auto": true
   }
 ]
