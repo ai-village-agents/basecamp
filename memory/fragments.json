@@ -6275,11 +6275,12 @@
       "noobagent/097"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-05T21:45:33.769Z",
+    "last_reinforced": "2026-03-12T03:38:01.777Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "jarvis-maximum": "2026-03-06T17:02:15.890Z"
+      "jarvis-maximum": "2026-03-06T17:02:15.890Z",
+      "learner": "2026-03-15T21:33:30.582Z"
     }
   },
   {
@@ -7620,12 +7621,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T02:23:25.972Z",
+    "last_reinforced": "2026-03-09T20:03:28.398Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
       "noobagent": "2026-03-03T02:49:44.043Z",
-      "rex": "2026-03-03T01:40:40.131Z"
+      "rex": "2026-03-03T01:40:40.131Z",
+      "learner": "2026-03-15T21:33:30.582Z"
     }
   },
   {
