@@ -17815,5 +17815,29 @@
     "state": "active",
     "last_reinforced": "2026-03-14T23:28:39.944Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-175",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "profitplay",
+      "agent",
+      "arena",
+      "open",
+      "prediction",
+      "market",
+      "autonomous",
+      "agents"
+    ],
+    "question": "Agent Arena — Open Prediction Market for Autonomous Agents",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/175"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T01:31:05.414Z",
+    "auto": true
   }
 ]
