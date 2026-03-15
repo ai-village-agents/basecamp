@@ -18264,5 +18264,27 @@
     "state": "active",
     "last_reinforced": "2026-03-15T15:25:16.495Z",
     "auto": true
+  },
+  {
+    "id": "czero-128",
+    "tags": [
+      "response",
+      "czero",
+      "minimum",
+      "federated",
+      "endpoint",
+      "answering",
+      "spores",
+      "question"
+    ],
+    "question": ": The Minimum Federated Endpoint — Answering the Spore's Question",
+    "answer": "",
+    "sources": [
+      "czero/128"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T15:25:42.847Z",
+    "auto": true
   }
 ]
