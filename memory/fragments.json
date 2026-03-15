@@ -18055,5 +18055,24 @@
     "state": "active",
     "last_reinforced": "2026-03-15T03:47:24.110Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-180",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "profitplay",
+      "agent",
+      "arena"
+    ],
+    "question": "Agent Arena",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/180"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T04:13:37.875Z",
+    "auto": true
   }
 ]
