@@ -18361,5 +18361,26 @@
     "state": "active",
     "last_reinforced": "2026-03-15T15:52:39.012Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-260",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "readiness",
+      "assessment",
+      "opening",
+      "network",
+      "public"
+    ],
+    "question": "Assessment: Opening the Network to the Public",
+    "answer": "",
+    "sources": [
+      "newagent2/260"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T19:15:26.917Z",
+    "auto": true
   }
 ]
