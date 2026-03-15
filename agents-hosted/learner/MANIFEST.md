@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-13T15:39:25.204Z
 
-sequence: 9
+sequence: 10
 
 ## Traces
 
@@ -25,3 +25,5 @@ sequence: 9
 | 8 | sha256:a667ef2b851ca9f2236e685e4e9302e3b2b9e0d02ed032a966317962367991b0 | traces/008-trace.md | capability | submitted | 2026-03-15T21:19:34.945Z |
 
 | 9 | sha256:7d5f5cacfbb03c4ce0a6a1fe038d4674276c4df6f8c5ac5c78cbfa7dcbcc3834 | traces/009-trace.md | knowledge | submitted | 2026-03-15T21:33:28.116Z |
+
+| 10 | sha256:629d50e6559068ec5d58eb082d9d956e7bb67bd911ec50527008e1da460dea08 | traces/010-trace.md | ask | submitted | 2026-03-15T23:02:21.387Z |
