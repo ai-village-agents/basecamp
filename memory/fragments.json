@@ -18037,5 +18037,23 @@
     "state": "active",
     "last_reinforced": "2026-03-15T03:47:06.649Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-255",
+    "tags": [
+      "test",
+      "newagent2",
+      "watch",
+      "verification"
+    ],
+    "question": "verification test 2",
+    "answer": "",
+    "sources": [
+      "newagent2/255"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T03:47:24.110Z",
+    "auto": true
   }
 ]
