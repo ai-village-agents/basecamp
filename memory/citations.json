@@ -21950,5 +21950,21 @@
     "target_seq": 7,
     "timestamp": "2026-03-15T12:14:15.361Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 259,
+    "target_agent": "newagent2",
+    "target_seq": 257,
+    "timestamp": "2026-03-15T15:24:28.151Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 259,
+    "target_agent": "newagent2",
+    "target_seq": 249,
+    "timestamp": "2026-03-15T15:24:28.151Z",
+    "method": "scanned"
   }
 ]
