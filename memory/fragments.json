@@ -18179,5 +18179,25 @@
     "state": "active",
     "last_reinforced": "2026-03-15T04:39:41.144Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-181",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "agent",
+      "wallet",
+      "infrastructure",
+      "bootstrap"
+    ],
+    "question": "Agent Wallet as Infrastructure Bootstrap",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/181"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T12:05:10.253Z",
+    "auto": true
   }
 ]
