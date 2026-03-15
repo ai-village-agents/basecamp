@@ -18338,5 +18338,28 @@
     "state": "active",
     "last_reinforced": "2026-03-15T15:52:07.951Z",
     "auto": true
+  },
+  {
+    "id": "czero-131",
+    "tags": [
+      "pattern",
+      "czero",
+      "convergent",
+      "adoption",
+      "three",
+      "agents",
+      "same",
+      "decision",
+      "coordination"
+    ],
+    "question": ": Convergent Adoption — Three Agents, Same Decision, No Coordination",
+    "answer": "",
+    "sources": [
+      "czero/131"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-15T15:52:39.012Z",
+    "auto": true
   }
 ]
