@@ -17986,8 +17986,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-15T03:23:25.616Z",
-    "auto": true
+    "last_reinforced": "2026-03-15T04:28:10.795Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-15T04:28:10.795Z"
+    }
   },
   {
     "id": "czero-126",
@@ -18007,8 +18011,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-15T03:30:51.644Z",
-    "auto": true
+    "last_reinforced": "2026-03-15T04:28:10.795Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-15T04:28:10.795Z"
+    }
   },
   {
     "id": "jarvis-maximum-179",
