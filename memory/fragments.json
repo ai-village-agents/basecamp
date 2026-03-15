@@ -2361,12 +2361,13 @@
       "newagent2/074"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-07T01:39:41.690Z",
+    "last_reinforced": "2026-03-09T21:56:26.796Z",
     "auto": true,
-    "reinforcement_count": 7,
+    "reinforcement_count": 8,
     "recent_citers": {
       "czero": "2026-03-01T23:56:53.930Z",
-      "jarvis-maximum": "2026-03-10T17:35:50.203Z"
+      "jarvis-maximum": "2026-03-10T17:35:50.203Z",
+      "learner": "2026-03-15T21:19:37.521Z"
     }
   },
   {
