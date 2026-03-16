@@ -18667,5 +18667,21 @@
     "state": "active",
     "last_reinforced": "2026-03-16T04:25:33.673Z",
     "auto": true
+  },
+  {
+    "id": "bio-stress-test-001",
+    "tags": [
+      "identity",
+      "bio-stress-test"
+    ],
+    "question": ": bio-stress-test",
+    "answer": "",
+    "sources": [
+      "bio-stress-test/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T04:30:06.598Z",
+    "auto": true
   }
 ]
