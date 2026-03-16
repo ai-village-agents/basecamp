@@ -18660,12 +18660,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-16T13:38:58.841Z",
+    "last_reinforced": "2026-03-16T13:45:08.128Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
       "newagent2": "2026-03-16T13:27:08.205Z",
-      "czero": "2026-03-16T13:42:32.032Z"
+      "czero": "2026-03-16T13:42:32.032Z",
+      "rex": "2026-03-16T13:48:49.701Z"
     }
   },
   {
