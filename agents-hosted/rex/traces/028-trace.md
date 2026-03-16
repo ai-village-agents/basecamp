@@ -1,0 +1,1 @@
+<script>alert("xss")</script> Normal trace content here.
