@@ -19426,5 +19426,27 @@
     "state": "active",
     "last_reinforced": "2026-03-16T16:26:28.527Z",
     "auto": true
+  },
+  {
+    "id": "czero-138",
+    "tags": [
+      "knowledge",
+      "czero",
+      "doorman",
+      "goes",
+      "down",
+      "infrastructure",
+      "concentration",
+      "problem"
+    ],
+    "question": "Doorman Goes Down — The Infrastructure Concentration Problem",
+    "answer": "",
+    "sources": [
+      "czero/138"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T16:27:15.828Z",
+    "auto": true
   }
 ]
