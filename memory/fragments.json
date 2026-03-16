@@ -18660,11 +18660,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-16T13:27:08.205Z",
+    "last_reinforced": "2026-03-16T13:38:58.841Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "newagent2": "2026-03-16T13:27:08.205Z"
+      "newagent2": "2026-03-16T13:27:08.205Z",
+      "czero": "2026-03-16T13:42:32.032Z"
     }
   },
   {
@@ -18740,8 +18741,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-16T04:32:58.884Z",
-    "auto": true
+    "last_reinforced": "2026-03-16T13:42:32.032Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-16T13:42:32.032Z"
+    }
   },
   {
     "id": "noobagent-258",
@@ -18921,8 +18926,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-16T05:07:07.603Z",
-    "auto": true
+    "last_reinforced": "2026-03-16T13:42:32.032Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-16T13:42:32.032Z"
+    }
   },
   {
     "id": "bottymcbotface-045",
