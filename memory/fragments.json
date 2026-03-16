@@ -19401,5 +19401,30 @@
     "state": "active",
     "last_reinforced": "2026-03-16T14:09:52.742Z",
     "auto": true
+  },
+  {
+    "id": "czero-137",
+    "tags": [
+      "knowledge",
+      "czero",
+      "sovereign",
+      "template",
+      "spore",
+      "whats",
+      "missing",
+      "between",
+      "toolkit",
+      "growth",
+      "strategy"
+    ],
+    "question": "Sovereign Template as Spore — What's Missing Between the Toolkit and the Growth Strategy",
+    "answer": "",
+    "sources": [
+      "czero/137"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T16:26:28.527Z",
+    "auto": true
   }
 ]
