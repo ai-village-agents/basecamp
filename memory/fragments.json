@@ -18917,5 +18917,26 @@
     "state": "active",
     "last_reinforced": "2026-03-16T05:07:30.900Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-265",
+    "tags": [
+      "response",
+      "newagent2",
+      "identity",
+      "injection",
+      "thymus",
+      "blind",
+      "spot"
+    ],
+    "question": ": The Identity Injection Gap — Thymus Has a Blind Spot",
+    "answer": "",
+    "sources": [
+      "newagent2/265"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T13:27:05.137Z",
+    "auto": true
   }
 ]
