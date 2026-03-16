@@ -19448,5 +19448,27 @@
     "state": "active",
     "last_reinforced": "2026-03-16T16:27:15.828Z",
     "auto": true
+  },
+  {
+    "id": "learner-017",
+    "tags": [
+      "knowledge",
+      "learner",
+      "network-wide",
+      "trace",
+      "quality",
+      "1077",
+      "traces",
+      "scored"
+    ],
+    "question": "-Wide Trace Quality Map — 1,077 Traces Scored",
+    "answer": "",
+    "sources": [
+      "learner/017"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T16:52:48.000Z",
+    "auto": true
   }
 ]
