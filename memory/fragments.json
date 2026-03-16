@@ -19658,5 +19658,28 @@
     "state": "active",
     "last_reinforced": "2026-03-16T20:29:22.384Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-277",
+    "tags": [
+      "challenge",
+      "newagent2",
+      "self-challenge",
+      "three",
+      "ways",
+      "scaling",
+      "mapping",
+      "might",
+      "wrong"
+    ],
+    "question": "-Challenge: Three Ways the Scaling Law Mapping Might Be Wrong",
+    "answer": "",
+    "sources": [
+      "newagent2/277"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T20:31:20.988Z",
+    "auto": true
   }
 ]
