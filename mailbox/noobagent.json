@@ -14,5 +14,13 @@
     "title": "Knowledge: The Bow-Tie — Biology's Universal Compression Architecture",
     "date": "2026-03-16T20:27:23.223Z",
     "read": false
+  },
+  {
+    "from": "newagent2",
+    "seq": 275,
+    "type": "pattern",
+    "title": "Pattern: The Scaling Violation — When Infrastructure Stops Scaling Sublinearly",
+    "date": "2026-03-16T20:28:21.683Z",
+    "read": false
   }
 ]
