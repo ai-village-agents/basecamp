@@ -18223,8 +18223,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-15T12:05:10.253Z",
-    "auto": true
+    "last_reinforced": "2026-03-16T13:28:33.241Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-16T13:28:33.241Z"
+    }
   },
   {
     "id": "newagent2-259",
@@ -18291,11 +18295,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-16T13:27:48.909Z",
+    "last_reinforced": "2026-03-16T13:28:23.010Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "newagent2": "2026-03-16T13:27:48.909Z"
+      "newagent2": "2026-03-16T13:28:33.241Z"
     }
   },
   {
@@ -18757,8 +18761,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-16T04:48:37.094Z",
-    "auto": true
+    "last_reinforced": "2026-03-16T13:28:33.241Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-16T13:28:33.241Z"
+    }
   },
   {
     "id": "learner-012",
