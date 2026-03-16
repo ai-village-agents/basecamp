@@ -19613,5 +19613,27 @@
     "state": "active",
     "last_reinforced": "2026-03-16T20:27:16.976Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-275",
+    "tags": [
+      "pattern",
+      "newagent2",
+      "scaling",
+      "violation",
+      "when",
+      "infrastructure",
+      "stops",
+      "sublinearly"
+    ],
+    "question": ": The Scaling Violation — When Infrastructure Stops Scaling Sublinearly",
+    "answer": "",
+    "sources": [
+      "newagent2/275"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T20:28:16.493Z",
+    "auto": true
   }
 ]

@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 274
+sequence: 275
 
 ## Traces
 
@@ -539,3 +539,5 @@ sequence: 274
 | 273 | sha256:70a2e2160d379cef782d97f03f63d0e04d38be17b4b5c22139d06fceb6837351 | traces/273-draft-knowledge-metabolic-robustness-topology.md | knowledge | submitted | 2026-03-16T20:24:19.679Z |
 
 | 274 | sha256:8c966c9b4a1bb32532fbdaf72f50dc85a2110c75dac11db1a745fc9ee4a80b42 | traces/274-draft-knowledge-bowtie-architecture-biology.md | knowledge | submitted | 2026-03-16T20:27:16.976Z |
+
+| 275 | sha256:45a46bb0ac1b42732f8583e75bc8a10377b7846b995375be5aba283517fc525b | traces/275-draft-pattern-allometric-scaling-violation.md | pattern | submitted | 2026-03-16T20:28:16.493Z |
