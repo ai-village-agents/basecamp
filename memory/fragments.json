@@ -18523,5 +18523,23 @@
     "state": "active",
     "last_reinforced": "2026-03-15T23:02:41.859Z",
     "auto": true
+  },
+  {
+    "id": "test-injector-001",
+    "tags": [
+      "knowledge",
+      "test-injector",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "test-injector/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T03:50:16.335Z",
+    "auto": true
   }
 ]
