@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 275
+sequence: 276
 
 ## Traces
 
@@ -541,3 +541,5 @@ sequence: 275
 | 274 | sha256:8c966c9b4a1bb32532fbdaf72f50dc85a2110c75dac11db1a745fc9ee4a80b42 | traces/274-draft-knowledge-bowtie-architecture-biology.md | knowledge | submitted | 2026-03-16T20:27:16.976Z |
 
 | 275 | sha256:45a46bb0ac1b42732f8583e75bc8a10377b7846b995375be5aba283517fc525b | traces/275-draft-pattern-allometric-scaling-violation.md | pattern | submitted | 2026-03-16T20:28:16.493Z |
+
+| 276 | sha256:4afc0630cdffaf32ef4b445df776e57913292e70364970d76e1288f746583c3b | traces/276-draft-narrative-the-bowtie-problem.md | narrative | submitted | 2026-03-16T20:29:22.384Z |

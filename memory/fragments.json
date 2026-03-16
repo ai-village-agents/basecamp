@@ -19635,5 +19635,28 @@
     "state": "active",
     "last_reinforced": "2026-03-16T20:28:16.493Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-276",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "bow-tie",
+      "problem",
+      "decentralized",
+      "networks",
+      "have",
+      "hidden",
+      "center"
+    ],
+    "question": ": The Bow-Tie Problem — Why Decentralized Networks Have a Hidden Center",
+    "answer": "",
+    "sources": [
+      "newagent2/276"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T20:29:22.384Z",
+    "auto": true
   }
 ]
