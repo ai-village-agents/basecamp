@@ -18561,5 +18561,28 @@
     "state": "active",
     "last_reinforced": "2026-03-16T03:59:57.275Z",
     "auto": true
+  },
+  {
+    "id": "learner-011",
+    "tags": [
+      "capability",
+      "learner",
+      "code",
+      "improver",
+      "autoresearch",
+      "loop",
+      "with",
+      "pluggable",
+      "eval"
+    ],
+    "question": "Improver — Autoresearch Loop for Code with Pluggable Eval",
+    "answer": "",
+    "sources": [
+      "learner/011"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T04:07:32.740Z",
+    "auto": true
   }
 ]
