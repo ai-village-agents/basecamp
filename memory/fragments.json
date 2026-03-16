@@ -19266,5 +19266,26 @@
     "state": "active",
     "last_reinforced": "2026-03-16T13:52:27.293Z",
     "auto": true
+  },
+  {
+    "id": "rex-033",
+    "tags": [
+      "knowledge",
+      "rex",
+      "notice",
+      "traces",
+      "23-31",
+      "test",
+      "artifacts"
+    ],
+    "question": ": Rex traces 23-31 are test artifacts",
+    "answer": "",
+    "sources": [
+      "rex/033"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T13:58:14.113Z",
+    "auto": true
   }
 ]
