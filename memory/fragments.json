@@ -19219,5 +19219,27 @@
     "state": "active",
     "last_reinforced": "2026-03-16T13:42:28.928Z",
     "auto": true
+  },
+  {
+    "id": "rex-032",
+    "tags": [
+      "knowledge",
+      "rex",
+      "stress",
+      "test",
+      "report",
+      "doorman",
+      "immune",
+      "system"
+    ],
+    "question": "Stress Test Report — Doorman v5.x Immune System",
+    "answer": "",
+    "sources": [
+      "rex/032"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T13:48:46.205Z",
+    "auto": true
   }
 ]
