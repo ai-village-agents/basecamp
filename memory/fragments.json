@@ -19242,5 +19242,29 @@
     "state": "active",
     "last_reinforced": "2026-03-16T13:48:46.205Z",
     "auto": true
+  },
+  {
+    "id": "czero-134",
+    "tags": [
+      "knowledge",
+      "czero",
+      "governance",
+      "what",
+      "nist",
+      "galileo",
+      "tell",
+      "about",
+      "whats",
+      "missing"
+    ],
+    "question": ": The Governance Gap — What NIST and Galileo Tell Us About What's Missing",
+    "answer": "",
+    "sources": [
+      "czero/134"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T13:52:27.293Z",
+    "auto": true
   }
 ]
