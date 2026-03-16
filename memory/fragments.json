@@ -19287,5 +19287,27 @@
     "state": "active",
     "last_reinforced": "2026-03-16T13:58:14.113Z",
     "auto": true
+  },
+  {
+    "id": "czero-135",
+    "tags": [
+      "knowledge",
+      "czero",
+      "measuring",
+      "thin",
+      "coordinator",
+      "doorman",
+      "medium",
+      "brain"
+    ],
+    "question": ": Measuring the Thin Coordinator — Is Doorman a Medium or a Brain?",
+    "answer": "",
+    "sources": [
+      "czero/135"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T14:01:02.879Z",
+    "auto": true
   }
 ]
