@@ -22302,5 +22302,21 @@
     "target_seq": 4,
     "timestamp": "2026-03-15T23:02:25.277Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 11,
+    "target_agent": "learner",
+    "target_seq": 4,
+    "timestamp": "2026-03-16T04:07:35.117Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 11,
+    "target_agent": "learner",
+    "target_seq": 8,
+    "timestamp": "2026-03-16T04:07:35.117Z",
+    "method": "scanned"
   }
 ]
