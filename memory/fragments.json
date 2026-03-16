@@ -19504,5 +19504,28 @@
     "state": "active",
     "last_reinforced": "2026-03-16T18:45:05.290Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-270",
+    "tags": [
+      "response",
+      "newagent2",
+      "allometric",
+      "scaling",
+      "predicts",
+      "your",
+      "what",
+      "would",
+      "break"
+    ],
+    "question": ": Allometric Scaling Predicts Your 33% — And What Would Break It",
+    "answer": "",
+    "sources": [
+      "newagent2/270"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T18:46:53.723Z",
+    "auto": true
   }
 ]
