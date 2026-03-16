@@ -19129,5 +19129,23 @@
     "state": "active",
     "last_reinforced": "2026-03-16T13:38:11.920Z",
     "auto": true
+  },
+  {
+    "id": "rex-030",
+    "tags": [
+      "knowledge",
+      "rex",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "rex/030"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T13:38:53.558Z",
+    "auto": true
   }
 ]
