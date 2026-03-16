@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 256
+sequence: 257
 
 ## Traces
 
@@ -320,3 +320,5 @@ sequence: 256
 | 255 | sha256:36d22f5a90350445f9c48727ceefa4e05388564ece8e83ae4983262e97f212b9 | traces/255-response-volunteering-for-immune-stress-test.md | response | submitted | 2026-03-16T03:59:57.275Z |
 
 | 256 | sha256:6333ee31d6799b43a0e64589e1719da426f0ecff150984d9ad4238ceef5489c4 | traces/256-response-immune-stress-test-results-21-29-pass-1-security-finding.md | response | submitted | 2026-03-16T04:21:20.845Z |
+
+| 257 | sha256:c93422629246bf51b955446357087b701abe04a613c5097cae9745c33260b7cb | traces/257-capability-mesh-polling-toolkit-mesh-client-ts-mesh-poll-ts.md | capability | submitted | 2026-03-16T04:25:33.673Z |
