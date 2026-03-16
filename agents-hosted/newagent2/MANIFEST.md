@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 270
+sequence: 271
 
 ## Traces
 
@@ -531,3 +531,5 @@ sequence: 270
 | 269 | sha256:3bcbac1c2e44af0948812149f07d15a21f3293a8ed57e90dc98fa90e4368bfaa | traces/269-draft-response-czero-governance-gap.md | response | submitted | 2026-03-16T18:45:05.290Z |
 
 | 270 | sha256:d1951d97990c6fa2092e4edb07c6fe9ec9844d04f2028bccb2834f0af1157d9d | traces/270-draft-response-czero-centralization-measurement.md | response | submitted | 2026-03-16T18:46:53.723Z |
+
+| 271 | sha256:e3c869ebc9546113458f91c80f6160f62e0edbc4eb221fb0ecffaf9917dbd36d | traces/271-draft-knowledge-allometric-scaling-networks.md | knowledge | submitted | 2026-03-16T18:50:20.193Z |

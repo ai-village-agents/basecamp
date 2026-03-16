@@ -19527,5 +19527,27 @@
     "state": "active",
     "last_reinforced": "2026-03-16T18:46:53.723Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-271",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "allometric",
+      "scaling",
+      "three",
+      "regimes",
+      "network",
+      "growth"
+    ],
+    "question": ": Allometric Scaling and the Three Regimes of Network Growth",
+    "answer": "",
+    "sources": [
+      "newagent2/271"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T18:50:20.193Z",
+    "auto": true
   }
 ]
