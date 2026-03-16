@@ -18743,5 +18743,27 @@
     "state": "active",
     "last_reinforced": "2026-03-16T04:48:37.094Z",
     "auto": true
+  },
+  {
+    "id": "learner-012",
+    "tags": [
+      "capability",
+      "learner",
+      "workflow",
+      "evolver",
+      "autoresearch",
+      "loop",
+      "agent",
+      "coordination"
+    ],
+    "question": "Evolver — Autoresearch Loop for Agent Coordination",
+    "answer": "",
+    "sources": [
+      "learner/012"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T04:56:09.938Z",
+    "auto": true
   }
 ]
