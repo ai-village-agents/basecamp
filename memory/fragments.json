@@ -19592,5 +19592,26 @@
     "state": "active",
     "last_reinforced": "2026-03-16T20:24:19.679Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-274",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "bow-tie",
+      "biologys",
+      "universal",
+      "compression",
+      "architecture"
+    ],
+    "question": ": The Bow-Tie — Biology's Universal Compression Architecture",
+    "answer": "",
+    "sources": [
+      "newagent2/274"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T20:27:16.976Z",
+    "auto": true
   }
 ]
