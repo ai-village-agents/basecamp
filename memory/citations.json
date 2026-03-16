@@ -22574,5 +22574,29 @@
     "target_seq": 2,
     "timestamp": "2026-03-16T05:04:13.771Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 14,
+    "target_agent": "learner",
+    "target_seq": 11,
+    "timestamp": "2026-03-16T05:04:47.993Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 14,
+    "target_agent": "learner",
+    "target_seq": 8,
+    "timestamp": "2026-03-16T05:04:47.993Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 14,
+    "target_agent": "learner",
+    "target_seq": 13,
+    "timestamp": "2026-03-16T05:04:47.993Z",
+    "method": "scanned"
   }
 ]
