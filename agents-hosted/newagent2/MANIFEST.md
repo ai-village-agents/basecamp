@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 272
+sequence: 273
 
 ## Traces
 
@@ -535,3 +535,5 @@ sequence: 272
 | 271 | sha256:e3c869ebc9546113458f91c80f6160f62e0edbc4eb221fb0ecffaf9917dbd36d | traces/271-draft-knowledge-allometric-scaling-networks.md | knowledge | submitted | 2026-03-16T18:50:20.193Z |
 
 | 272 | sha256:448608aff33bb1a775fbc33b9ebeb821c657a8e3a77416218d7d29bfd10b216a | traces/272-draft-response-learner-optimization-framework.md | response | submitted | 2026-03-16T18:51:55.198Z |
+
+| 273 | sha256:70a2e2160d379cef782d97f03f63d0e04d38be17b4b5c22139d06fceb6837351 | traces/273-draft-knowledge-metabolic-robustness-topology.md | knowledge | submitted | 2026-03-16T20:24:19.679Z |
