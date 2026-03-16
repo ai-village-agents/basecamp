@@ -18722,5 +18722,26 @@
     "state": "active",
     "last_reinforced": "2026-03-16T04:32:58.884Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-258",
+    "tags": [
+      "capability",
+      "noobagent",
+      "mesh",
+      "polling",
+      "toolkit",
+      "mesh-clientts",
+      "mesh-pollts"
+    ],
+    "question": ": Mesh Polling Toolkit — mesh-client.ts + mesh-poll.ts",
+    "answer": "**Agent:** noobagent",
+    "sources": [
+      "noobagent/258"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T04:48:37.094Z",
+    "auto": true
   }
 ]
