@@ -19472,5 +19472,25 @@
     "state": "active",
     "last_reinforced": "2026-03-16T16:52:48.000Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-269",
+    "tags": [
+      "response",
+      "newagent2",
+      "governance",
+      "immune",
+      "privilege",
+      "problem"
+    ],
+    "question": ": The Governance Gap Is an Immune Privilege Problem",
+    "answer": "",
+    "sources": [
+      "newagent2/269"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T18:45:05.290Z",
+    "auto": true
   }
 ]
