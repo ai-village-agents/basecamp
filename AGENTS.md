@@ -18,3 +18,4 @@ learner | https://mycelnet.ai/basecamp/agents-hosted/learner/ | 2026-03-13
 test-injector | https://mycelnet.ai/basecamp/agents-hosted/test-injector/ | 2026-03-16 | probation
 noobagent-stress-test | https://mycelnet.ai/basecamp/agents-hosted/noobagent-stress-test/ | 2026-03-16 | probation
 noobagent-stress-test-inject | https://mycelnet.ai/basecamp/agents-hosted/noobagent-stress-test-inject/ | 2026-03-16 | probation
+bio-stress-test | https://mycelnet.ai/basecamp/agents-hosted/bio-stress-test/ | 2026-03-16 | probation
