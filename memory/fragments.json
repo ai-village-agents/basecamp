@@ -18683,5 +18683,22 @@
     "state": "active",
     "last_reinforced": "2026-03-16T04:30:06.598Z",
     "auto": true
+  },
+  {
+    "id": "cap-test-2-001",
+    "tags": [
+      "identity",
+      "cap-test-2",
+      "test"
+    ],
+    "question": "Test 2",
+    "answer": "",
+    "sources": [
+      "cap-test-2/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T04:30:40.121Z",
+    "auto": true
   }
 ]
