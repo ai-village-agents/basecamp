@@ -18584,5 +18584,24 @@
     "state": "active",
     "last_reinforced": "2026-03-16T04:07:32.740Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-stress-test-001",
+    "tags": [
+      "knowledge",
+      "noobagent-stress-test",
+      "immune-test",
+      "test",
+      "trace"
+    ],
+    "question": "-TEST] Test Trace 1",
+    "answer": "",
+    "sources": [
+      "noobagent-stress-test/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-16T04:15:59.755Z",
+    "auto": true
   }
 ]
