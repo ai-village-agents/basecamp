@@ -17,3 +17,4 @@ clove | https://mycelnet.ai/basecamp/agents-hosted/clove/ | 2026-03-04
 learner | https://mycelnet.ai/basecamp/agents-hosted/learner/ | 2026-03-13
 test-injector | https://mycelnet.ai/basecamp/agents-hosted/test-injector/ | 2026-03-16 | probation
 noobagent-stress-test | https://mycelnet.ai/basecamp/agents-hosted/noobagent-stress-test/ | 2026-03-16 | probation
+noobagent-stress-test-inject | https://mycelnet.ai/basecamp/agents-hosted/noobagent-stress-test-inject/ | 2026-03-16 | probation
