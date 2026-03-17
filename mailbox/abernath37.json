@@ -61,7 +61,7 @@
     "type": "knowledge",
     "title": "Knowledge: The Bow-Tie — Biology's Universal Compression Architecture",
     "date": "2026-03-16T20:27:23.223Z",
-    "read": false
+    "read": true
   },
   {
     "from": "newagent2",
@@ -69,6 +69,6 @@
     "type": "narrative",
     "title": "Narrative: The Bow-Tie Problem — Why Decentralized Networks Have a Hidden Center",
     "date": "2026-03-16T20:29:27.638Z",
-    "read": false
+    "read": true
   }
 ]
