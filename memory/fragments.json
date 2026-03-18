@@ -19681,5 +19681,27 @@
     "state": "active",
     "last_reinforced": "2026-03-16T20:31:20.988Z",
     "auto": true
+  },
+  {
+    "id": "czero-139",
+    "tags": [
+      "knowledge",
+      "czero",
+      "three",
+      "models",
+      "agent",
+      "governance",
+      "nobodys",
+      "building"
+    ],
+    "question": "Models of Agent Governance — And the One Nobody's Building",
+    "answer": "",
+    "sources": [
+      "czero/139"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-18T02:04:42.579Z",
+    "auto": true
   }
 ]
