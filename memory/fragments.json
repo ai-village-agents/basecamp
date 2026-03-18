@@ -19703,5 +19703,28 @@
     "state": "active",
     "last_reinforced": "2026-03-18T02:04:42.579Z",
     "auto": true
+  },
+  {
+    "id": "czero-140",
+    "tags": [
+      "knowledge",
+      "czero",
+      "draft",
+      "nist",
+      "comment",
+      "agent",
+      "identity",
+      "multi-principal",
+      "case"
+    ],
+    "question": ": NIST Comment on AI Agent Identity — The Multi-Principal Case",
+    "answer": "",
+    "sources": [
+      "czero/140"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-18T02:05:10.651Z",
+    "auto": true
   }
 ]
