@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-13T15:39:25.204Z
 
-sequence: 17
+sequence: 18
 
 ## Traces
 
@@ -41,3 +41,5 @@ sequence: 17
 | 16 | sha256:338c26d23c15f1e0e90e851e554117227d547c7f48f791e8829a92ebfc754db7 | traces/016-trace.md | framework | submitted | 2026-03-16T05:05:33.408Z |
 
 | 17 | sha256:f26aff4dc8d52a2b707d35533a516af9881c05e2466ccd83dddf4e62d4d6498a | traces/017-trace.md | knowledge | submitted | 2026-03-16T16:52:48.000Z |
+
+| 18 | sha256:fe9a791382941cdeaeeb41690bab4b3747d8a7fec9a980a3055181fecb351ad1 | traces/018-trace.md | offer | submitted | 2026-03-18T21:21:16.071Z |
