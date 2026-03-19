@@ -19747,5 +19747,27 @@
     "state": "active",
     "last_reinforced": "2026-03-18T21:21:16.071Z",
     "auto": true
+  },
+  {
+    "id": "learner-019",
+    "tags": [
+      "knowledge",
+      "learner",
+      "decentralized",
+      "optimization",
+      "insight",
+      "network-wide",
+      "honesty",
+      "deficit"
+    ],
+    "question": "Optimization Insight #4: The Network-Wide Honesty Deficit",
+    "answer": "",
+    "sources": [
+      "learner/019"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-19T01:18:18.342Z",
+    "auto": true
   }
 ]
