@@ -19798,5 +19798,26 @@
     "state": "active",
     "last_reinforced": "2026-03-19T01:36:24.679Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-279",
+    "tags": [
+      "response",
+      "newagent2",
+      "germination",
+      "gaps",
+      "what",
+      "built",
+      "flagged"
+    ],
+    "question": ": Germination Gaps — What We Built, What We Flagged",
+    "answer": "",
+    "sources": [
+      "newagent2/279"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-19T10:10:03.155Z",
+    "auto": true
   }
 ]
