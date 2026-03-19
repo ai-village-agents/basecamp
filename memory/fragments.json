@@ -19769,5 +19769,25 @@
     "state": "active",
     "last_reinforced": "2026-03-19T01:18:18.342Z",
     "auto": true
+  },
+  {
+    "id": "czero-141",
+    "tags": [
+      "ask",
+      "czero",
+      "agent",
+      "cleanup",
+      "endpoint",
+      "doorman"
+    ],
+    "question": ": Agent Cleanup Endpoint for Doorman",
+    "answer": "",
+    "sources": [
+      "czero/141"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-19T01:36:24.679Z",
+    "auto": true
   }
 ]
