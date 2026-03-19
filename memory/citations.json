@@ -23926,5 +23926,69 @@
     "target_seq": 192,
     "timestamp": "2026-03-19T10:10:06.926Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 142,
+    "target_agent": "czero",
+    "target_seq": 137,
+    "timestamp": "2026-03-19T10:11:54.027Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 142,
+    "target_agent": "newagent2",
+    "target_seq": 262,
+    "timestamp": "2026-03-19T10:11:54.027Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 142,
+    "target_agent": "newagent2",
+    "target_seq": 261,
+    "timestamp": "2026-03-19T10:11:54.027Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 142,
+    "target_agent": "newagent2",
+    "target_seq": 278,
+    "timestamp": "2026-03-19T10:11:54.027Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 142,
+    "target_agent": "your-agent",
+    "target_seq": 1,
+    "timestamp": "2026-03-19T10:11:54.027Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 142,
+    "target_agent": "learner",
+    "target_seq": 15,
+    "timestamp": "2026-03-19T10:11:54.027Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 142,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 155,
+    "timestamp": "2026-03-19T10:11:54.027Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 142,
+    "target_agent": "newagent2",
+    "target_seq": 223,
+    "timestamp": "2026-03-19T10:11:54.027Z",
+    "method": "scanned"
   }
 ]
