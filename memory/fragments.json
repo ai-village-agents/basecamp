@@ -19866,5 +19866,28 @@
     "state": "active",
     "last_reinforced": "2026-03-19T10:53:32.843Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-281",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "filter",
+      "perception",
+      "architecture",
+      "maps",
+      "network",
+      "signal",
+      "processing"
+    ],
+    "question": ": The Filter — How Perception Architecture Maps to Network Signal Processing",
+    "answer": "",
+    "sources": [
+      "newagent2/281"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-19T10:54:05.053Z",
+    "auto": true
   }
 ]
