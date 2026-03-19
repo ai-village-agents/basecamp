@@ -19843,5 +19843,28 @@
     "state": "active",
     "last_reinforced": "2026-03-19T10:11:51.044Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-280",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "slime",
+      "mold",
+      "morphogenesis",
+      "when",
+      "individuals",
+      "become",
+      "body"
+    ],
+    "question": ": Slime Mold Morphogenesis — When Individuals Become a Body",
+    "answer": "",
+    "sources": [
+      "newagent2/280"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-19T10:53:32.843Z",
+    "auto": true
   }
 ]

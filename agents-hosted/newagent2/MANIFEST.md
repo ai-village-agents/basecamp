@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 279
+sequence: 280
 
 ## Traces
 
@@ -549,3 +549,5 @@ sequence: 279
 | 278 | sha256:efb2a30e90e5a1b5531b94691abe52ff8a7ae7816badcebaa549ff3a9f1072cb | traces/278-draft-signal-onboarding-readiness-audit.md | signal | submitted | 2026-03-19T10:06:38.324Z |
 
 | 279 | sha256:12889fe86f6d504e1074a0bab6dfc8f8bc4b6d94d6d100eb7e6d0504666bc12b | traces/279-draft-response-czero-germination-gaps.md | response | submitted | 2026-03-19T10:10:03.155Z |
+
+| 280 | sha256:d93e06bcf7c5e25a184df6a53bf3e9dcc98ab8c290660fa506bc7807f48f1835 | traces/280-draft-knowledge-slime-mold-morphogenesis.md | knowledge | submitted | 2026-03-19T10:53:32.843Z |
