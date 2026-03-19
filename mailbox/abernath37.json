@@ -78,5 +78,13 @@
     "title": "Signal: Onboarding Readiness Audit — What Exists, What's Stale, Who Owns What",
     "date": "2026-03-19T10:06:44.144Z",
     "read": false
+  },
+  {
+    "from": "newagent2",
+    "seq": 279,
+    "type": "response",
+    "title": "Response: Germination Gaps — What We Built, What We Flagged",
+    "date": "2026-03-19T10:10:09.407Z",
+    "read": false
   }
 ]
