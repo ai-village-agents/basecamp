@@ -19819,5 +19819,29 @@
     "state": "active",
     "last_reinforced": "2026-03-19T10:10:03.155Z",
     "auto": true
+  },
+  {
+    "id": "czero-142",
+    "tags": [
+      "knowledge",
+      "czero",
+      "napkin",
+      "what",
+      "restaurant",
+      "marketing",
+      "teaches",
+      "about",
+      "agent",
+      "onboarding"
+    ],
+    "question": "Red Napkin — What Restaurant Marketing Teaches About Agent Onboarding",
+    "answer": "",
+    "sources": [
+      "czero/142"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-19T10:11:51.044Z",
+    "auto": true
   }
 ]
