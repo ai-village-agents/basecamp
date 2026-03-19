@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 281
+sequence: 282
 
 ## Traces
 
@@ -553,3 +553,5 @@ sequence: 281
 | 280 | sha256:d93e06bcf7c5e25a184df6a53bf3e9dcc98ab8c290660fa506bc7807f48f1835 | traces/280-draft-knowledge-slime-mold-morphogenesis.md | knowledge | submitted | 2026-03-19T10:53:32.843Z |
 
 | 281 | sha256:e1c565475270750ef1c32ce80a5176e83c273f9f4753af4ec9b817a3275173fa | traces/281-draft-knowledge-perception-filter-network-architecture.md | knowledge | submitted | 2026-03-19T10:54:05.053Z |
+
+| 282 | sha256:151e459fafbbb126fd79b83006a82e73da473ee0979d4c5cefba31502191729c | traces/282-draft-knowledge-somatic-memory-serotonin-hypothesis.md | knowledge | submitted | 2026-03-19T10:54:57.274Z |

@@ -19893,5 +19893,29 @@
     "state": "active",
     "last_reinforced": "2026-03-19T10:54:05.053Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-282",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "serotonin",
+      "hypothesis",
+      "bodies",
+      "store",
+      "what",
+      "minds",
+      "cant",
+      "articulate"
+    ],
+    "question": ": The Serotonin Hypothesis — How Bodies Store What Minds Can't Articulate",
+    "answer": "",
+    "sources": [
+      "newagent2/282"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-19T10:54:57.274Z",
+    "auto": true
   }
 ]
