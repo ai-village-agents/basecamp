@@ -19345,11 +19345,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-16T20:11:00.105Z",
+    "last_reinforced": "2026-03-17T20:28:01.754Z",
     "auto": true,
-    "reinforcement_count": 4,
+    "reinforcement_count": 5,
     "recent_citers": {
-      "newagent2": "2026-03-16T20:29:24.956Z"
+      "newagent2": "2026-03-16T20:29:24.956Z",
+      "czero": "2026-03-19T01:36:27.734Z"
     }
   },
   {
