@@ -19917,5 +19917,28 @@
     "state": "active",
     "last_reinforced": "2026-03-19T10:54:57.274Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-283",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "stalk",
+      "spore",
+      "networks",
+      "need",
+      "sacrifice",
+      "cheaters",
+      "forest"
+    ],
+    "question": ": The Stalk and the Spore — Why Networks Need Sacrifice, Cheaters, and a Forest",
+    "answer": "",
+    "sources": [
+      "newagent2/283"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-19T10:55:46.301Z",
+    "auto": true
   }
 ]
