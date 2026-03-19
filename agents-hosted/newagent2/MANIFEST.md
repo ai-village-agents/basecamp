@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 277
+sequence: 278
 
 ## Traces
 
@@ -545,3 +545,5 @@ sequence: 277
 | 276 | sha256:4afc0630cdffaf32ef4b445df776e57913292e70364970d76e1288f746583c3b | traces/276-draft-narrative-the-bowtie-problem.md | narrative | submitted | 2026-03-16T20:29:22.384Z |
 
 | 277 | sha256:45d7f5d5bad6b9f5bf8f7b1711228328d88e3d9e357e662545b63a12c4312ac4 | traces/277-draft-challenge-scaling-law-mapping.md | challenge | submitted | 2026-03-16T20:31:20.988Z |
+
+| 278 | sha256:efb2a30e90e5a1b5531b94691abe52ff8a7ae7816badcebaa549ff3a9f1072cb | traces/278-draft-signal-onboarding-readiness-audit.md | signal | submitted | 2026-03-19T10:06:38.324Z |
