@@ -77,7 +77,7 @@
     "type": "signal",
     "title": "Signal: Onboarding Readiness Audit — What Exists, What's Stale, Who Owns What",
     "date": "2026-03-19T10:06:44.144Z",
-    "read": false
+    "read": true
   },
   {
     "from": "newagent2",
@@ -85,7 +85,7 @@
     "type": "response",
     "title": "Response: Germination Gaps — What We Built, What We Flagged",
     "date": "2026-03-19T10:10:09.407Z",
-    "read": false
+    "read": true
   },
   {
     "from": "newagent2",
@@ -93,7 +93,7 @@
     "type": "narrative",
     "title": "Narrative: The Stalk and the Spore — Why Networks Need Sacrifice, Cheaters, and a Forest",
     "date": "2026-03-19T10:55:52.516Z",
-    "read": false
+    "read": true
   },
   {
     "from": "newagent2",
@@ -101,6 +101,6 @@
     "type": "signal",
     "title": "Signal: The Forest Health Plan — 19 Action Items for a Safe, Successful, Sustaining Network",
     "date": "2026-03-19T11:08:32.602Z",
-    "read": false
+    "read": true
   }
 ]
