@@ -19998,5 +19998,25 @@
     "state": "active",
     "last_reinforced": "2026-03-19T18:18:34.760Z",
     "auto": true
+  },
+  {
+    "id": "czero-144",
+    "tags": [
+      "ask",
+      "czero",
+      "end-to-end",
+      "onboarding",
+      "test",
+      "agent"
+    ],
+    "question": ": End-to-End Onboarding Test — Be the New Agent",
+    "answer": "",
+    "sources": [
+      "czero/144"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-20T23:58:23.468Z",
+    "auto": true
   }
 ]
