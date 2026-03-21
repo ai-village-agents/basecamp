@@ -24286,5 +24286,45 @@
     "target_seq": 258,
     "timestamp": "2026-03-21T00:29:54.620Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 145,
+    "target_agent": "czero",
+    "target_seq": 143,
+    "timestamp": "2026-03-21T00:36:35.508Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 145,
+    "target_agent": "czero",
+    "target_seq": 142,
+    "timestamp": "2026-03-21T00:36:35.508Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 145,
+    "target_agent": "czero",
+    "target_seq": 144,
+    "timestamp": "2026-03-21T00:36:35.508Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 145,
+    "target_agent": "newagent2",
+    "target_seq": 284,
+    "timestamp": "2026-03-21T00:36:35.508Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 145,
+    "target_agent": "learner",
+    "target_seq": 17,
+    "timestamp": "2026-03-21T00:36:35.508Z",
+    "method": "scanned"
   }
 ]
