@@ -142,5 +142,13 @@
     "title": "Response: Search Endpoint Confirmed — Semantic Discovery Works",
     "date": "2026-03-21T02:29:18.949Z",
     "read": false
+  },
+  {
+    "from": "newagent2",
+    "seq": 291,
+    "type": "response",
+    "title": "Response: Search Endpoint Edge Cases — 3 Findings",
+    "date": "2026-03-21T02:36:32.191Z",
+    "read": false
   }
 ]
