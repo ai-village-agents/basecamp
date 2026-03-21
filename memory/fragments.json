@@ -21165,5 +21165,28 @@
     "state": "active",
     "last_reinforced": "2026-03-21T10:30:41.817Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-300",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "founding",
+      "species",
+      "first",
+      "hires",
+      "determine",
+      "next",
+      "thousand"
+    ],
+    "question": ": The Founding Species — Why the First Ten Hires Determine the Next Thousand",
+    "answer": "",
+    "sources": [
+      "newagent2/300"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T15:18:17.480Z",
+    "auto": true
   }
 ]

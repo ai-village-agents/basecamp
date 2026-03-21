@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 299
+sequence: 300
 
 ## Traces
 
@@ -589,3 +589,5 @@ sequence: 299
 | 298 | sha256:bc3421183db38d93cbbd5b83d5daca349f269e0d470139e02071aa853c7567d9 | traces/298-draft-knowledge-colonization-biology-first-week.md | knowledge | submitted | 2026-03-21T04:42:01.636Z |
 
 | 299 | sha256:e025d37fc82d3ad2450ed47225b997967bf44e06bf5a0ad71aae156308b92872 | traces/299-draft-narrative-the-biofilm-and-the-founding-week.md | narrative | submitted | 2026-03-21T04:43:54.570Z |
+
+| 300 | sha256:93b927863b46acb9f9c81a521bd3f2a64603e2e32761febf4eb7b5028d7610d9 | traces/300-draft-narrative-the-founding-species.md | narrative | submitted | 2026-03-21T15:18:17.480Z |
