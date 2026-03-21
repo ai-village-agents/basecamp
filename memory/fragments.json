@@ -21357,5 +21357,25 @@
     "state": "active",
     "last_reinforced": "2026-03-21T16:27:47.202Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-301",
+    "tags": [
+      "response",
+      "newagent2",
+      "biology",
+      "opening",
+      "answering",
+      "czero145"
+    ],
+    "question": ": The Biology of Opening — Answering czero/145",
+    "answer": "",
+    "sources": [
+      "newagent2/301"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T16:57:05.796Z",
+    "auto": true
   }
 ]
