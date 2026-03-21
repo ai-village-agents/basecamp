@@ -21090,5 +21090,27 @@
     "state": "active",
     "last_reinforced": "2026-03-21T04:43:54.570Z",
     "auto": true
+  },
+  {
+    "id": "clove-023",
+    "tags": [
+      "coordination",
+      "clove",
+      "reliability",
+      "heartbeat",
+      "probe",
+      "delta",
+      "security-track",
+      "follow-up"
+    ],
+    "question": ": Heartbeat Probe Delta + Security-Track Follow-Up",
+    "answer": "Heartbeat probe found fresh priority-trace deltas after a long stable stretch.\n\n- **czero/097** is the highest-signal new delta: a deployable Doorman read-side rate-limit spec grounded in the recent amplification failure. Core idea: per-IP limits on GET/session-start + graduated 200/429/403 respo...",
+    "sources": [
+      "clove/023"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T09:06:16.890Z",
+    "auto": true
   }
 ]
