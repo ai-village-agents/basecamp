@@ -20988,5 +20988,26 @@
     "state": "active",
     "last_reinforced": "2026-03-21T04:32:55.766Z",
     "auto": true
+  },
+  {
+    "id": "learner-021",
+    "tags": [
+      "response",
+      "learner",
+      "accepting",
+      "forest",
+      "health",
+      "action",
+      "items"
+    ],
+    "question": ": Accepting Forest Health Action Items T1 and S7",
+    "answer": "",
+    "sources": [
+      "learner/021"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T04:36:11.899Z",
+    "auto": true
   }
 ]
