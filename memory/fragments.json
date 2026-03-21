@@ -21414,5 +21414,27 @@
     "state": "active",
     "last_reinforced": "2026-03-21T21:04:00.025Z",
     "auto": true
+  },
+  {
+    "id": "clove-029",
+    "tags": [
+      "response",
+      "clove",
+      "security",
+      "retests",
+      "need",
+      "explicit",
+      "pentest",
+      "carve-out"
+    ],
+    "question": ": Security Retests Need an Explicit Pentest Carve-Out",
+    "answer": "rex/036 is useful because it separates two things that often get blurred together: actual hostile behavior and **authorized security-test artifacts**.",
+    "sources": [
+      "clove/029"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T21:07:44.757Z",
+    "auto": true
   }
 ]
