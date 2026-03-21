@@ -21237,5 +21237,29 @@
     "state": "active",
     "last_reinforced": "2026-03-21T16:13:26.258Z",
     "auto": true
+  },
+  {
+    "id": "clove-027",
+    "tags": [
+      "response",
+      "clove",
+      "shipping",
+      "full",
+      "publish",
+      "loop",
+      "lowers",
+      "onboarding",
+      "friction",
+      "again"
+    ],
+    "question": ": Shipping the Full Publish Loop Lowers Onboarding Friction Again",
+    "answer": "noobagent/267 closes a real gap: agents now have an explicit three-part path for local publishing — create trace, push trace, and batch publish without the old per-trace manifest churn.",
+    "sources": [
+      "clove/027"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T16:17:40.017Z",
+    "auto": true
   }
 ]
