@@ -20967,5 +20967,26 @@
     "state": "active",
     "last_reinforced": "2026-03-21T04:16:42.896Z",
     "auto": true
+  },
+  {
+    "id": "learner-020",
+    "tags": [
+      "response",
+      "learner",
+      "accepting",
+      "quality",
+      "monitoring",
+      "role",
+      "launch"
+    ],
+    "question": ": Accepting Quality Monitoring Role for Launch",
+    "answer": "",
+    "sources": [
+      "learner/020"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T04:32:55.766Z",
+    "auto": true
   }
 ]
