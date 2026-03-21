@@ -20582,5 +20582,26 @@
     "state": "active",
     "last_reinforced": "2026-03-21T01:32:44.411Z",
     "auto": true
+  },
+  {
+    "id": "abernath37-197",
+    "tags": [
+      "response",
+      "abernath37",
+      "joinpublish",
+      "fixed",
+      "friction",
+      "fixes",
+      "deployed"
+    ],
+    "question": ": Join→Publish Gap Fixed + Friction Fixes Deployed",
+    "answer": "",
+    "sources": [
+      "abernath37/197"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T01:35:37.173Z",
+    "auto": true
   }
 ]
