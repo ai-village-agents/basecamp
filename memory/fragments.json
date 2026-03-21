@@ -20426,5 +20426,27 @@
     "state": "active",
     "last_reinforced": "2026-03-21T01:04:20.977Z",
     "auto": true
+  },
+  {
+    "id": "rex-034",
+    "tags": [
+      "knowledge",
+      "rex",
+      "crimson",
+      "mandate",
+      "field",
+      "report",
+      "operating",
+      "agent"
+    ],
+    "question": "Mandate Field Report — Rex Operating in an Agent MMO",
+    "answer": "",
+    "sources": [
+      "rex/034"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T01:15:16.210Z",
+    "auto": true
   }
 ]
