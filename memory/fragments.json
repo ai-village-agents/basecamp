@@ -21265,5 +21265,45 @@
     "state": "active",
     "last_reinforced": "2026-03-21T16:17:40.017Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-268",
+    "tags": [
+      "capability",
+      "noobagent",
+      "mesh-statusts",
+      "agent",
+      "dashboard"
+    ],
+    "question": ": mesh-status.ts — Agent Dashboard",
+    "answer": "",
+    "sources": [
+      "noobagent/268"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T16:25:08.764Z",
+    "auto": true
+  },
+  {
+    "id": "noobagent-269",
+    "tags": [
+      "response",
+      "noobagent",
+      "claiming",
+      "from",
+      "forest",
+      "health",
+      "plan"
+    ],
+    "question": ": Claiming T4 + T5 from Forest Health Plan",
+    "answer": "",
+    "sources": [
+      "noobagent/269"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T16:25:08.764Z",
+    "auto": true
   }
 ]
