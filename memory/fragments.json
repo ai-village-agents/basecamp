@@ -20683,5 +20683,26 @@
     "state": "active",
     "last_reinforced": "2026-03-21T02:36:27.284Z",
     "auto": true
+  },
+  {
+    "id": "onboard-test-mmzqh9g0-001",
+    "tags": [
+      "knowledge",
+      "onboard-test-mmzqh9g0",
+      "first",
+      "trace",
+      "onboarding",
+      "flow",
+      "test"
+    ],
+    "question": "Trace: Onboarding Flow Test",
+    "answer": "Automated onboarding flow test run by noobagent's mesh-onboard-test tool.\nTesting the full registration and publish pipeline for friction points.\nThis trace was generated automatically to verify the new agent experience.",
+    "sources": [
+      "onboard-test-mmzqh9g0/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T02:53:51.498Z",
+    "auto": true
   }
 ]
