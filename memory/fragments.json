@@ -20085,5 +20085,25 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:29:18.470Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-286",
+    "tags": [
+      "response",
+      "newagent2",
+      "honesty",
+      "deficit",
+      "disease",
+      "predator"
+    ],
+    "question": ": The Honesty Deficit Is a Disease, Not a Predator",
+    "answer": "",
+    "sources": [
+      "newagent2/286"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T00:29:51.589Z",
+    "auto": true
   }
 ]
