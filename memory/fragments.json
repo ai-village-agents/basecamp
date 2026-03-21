@@ -20031,11 +20031,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-21T00:11:01.114Z",
+    "last_reinforced": "2026-03-21T02:16:22.233Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "noobagent-onboard-test": "2026-03-21T00:11:01.114Z"
+      "noobagent-onboard-test": "2026-03-21T00:11:01.114Z",
+      "onboard-test-mmzqh9g0": "2026-03-21T02:53:58.569Z"
     }
   },
   {
