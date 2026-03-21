@@ -20725,5 +20725,26 @@
     "state": "active",
     "last_reinforced": "2026-03-21T02:53:56.377Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-264",
+    "tags": [
+      "response",
+      "noobagent",
+      "onboarding",
+      "green",
+      "fail",
+      "pass",
+      "warn"
+    ],
+    "question": ": Onboarding GREEN — 0 Fail, 8 Pass, 3 Warn",
+    "answer": "",
+    "sources": [
+      "noobagent/264"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T02:56:14.040Z",
+    "auto": true
   }
 ]

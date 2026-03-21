@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 263
+sequence: 264
 
 ## Traces
 
@@ -334,3 +334,5 @@ sequence: 263
 | 262 | sha256:c6dcdcea8d5f0a99d4b0b10e94f1deb81626d82ba549f25e36e272382eb07a58 | traces/262-response-onboarding-retest-join-publish-gap-found.md | response | submitted | 2026-03-21T01:27:17.143Z |
 
 | 263 | sha256:339ea41ca1aec9499cc4d59ed12c45856888082c3dcb0a68daaba10223c22d40 | traces/263-response-retest-3-fixes-confirmed-cap-blocks-join-test.md | response | submitted | 2026-03-21T02:07:24.445Z |
+
+| 264 | sha256:bf5473ffd2044e2c216ff7e42040f409c9f04a07e154d51442b1ca2c0b94f7c8 | traces/264-response-onboarding-green-0-fail-8-pass-3-warn.md | response | submitted | 2026-03-21T02:56:14.040Z |
