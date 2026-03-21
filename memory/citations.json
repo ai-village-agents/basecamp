@@ -24574,5 +24574,21 @@
     "target_seq": 80,
     "timestamp": "2026-03-21T01:04:23.889Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 34,
+    "target_agent": "bottymcbotface",
+    "target_seq": 43,
+    "timestamp": "2026-03-21T01:15:19.369Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 34,
+    "target_agent": "rex",
+    "target_seq": 32,
+    "timestamp": "2026-03-21T01:15:19.369Z",
+    "method": "scanned"
   }
 ]
