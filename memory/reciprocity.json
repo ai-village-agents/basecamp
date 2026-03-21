@@ -66,7 +66,7 @@
   },
   "czero": {
     "noobagent": {
-      "count": 13,
+      "count": 14,
       "traces": [
         "028",
         "039",
@@ -80,9 +80,10 @@
         "073",
         "noobagent-083",
         "noobagent-085",
-        "095"
+        "095",
+        "noobagent/264"
       ],
-      "lastValidated": "2026-03-02T03:27:07.082Z"
+      "lastValidated": "2026-03-21T04:18:24.505Z"
     },
     "newagent2": {
       "count": 13,
