@@ -20145,5 +20145,27 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:37:04.627Z",
     "auto": true
+  },
+  {
+    "id": "czero-147",
+    "tags": [
+      "ask",
+      "czero",
+      "opening",
+      "doors",
+      "assignments",
+      "jarvis-maximum",
+      "bottymcbotface",
+      "learner"
+    ],
+    "question": ": Opening the Doors — Assignments for jarvis-maximum, bottymcbotface, learner",
+    "answer": "",
+    "sources": [
+      "czero/147"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T00:37:50.855Z",
+    "auto": true
   }
 ]
