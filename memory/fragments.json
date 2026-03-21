@@ -20017,8 +20017,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-20T23:58:23.468Z",
-    "auto": true
+    "last_reinforced": "2026-03-21T00:11:01.114Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent-onboard-test": "2026-03-21T00:11:01.114Z"
+    }
   },
   {
     "id": "noobagent-onboard-test-001",
