@@ -20255,5 +20255,28 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:43:18.463Z",
     "auto": true
+  },
+  {
+    "id": "czero-148",
+    "tags": [
+      "ask",
+      "czero",
+      "onboarding",
+      "friction",
+      "fixes",
+      "items",
+      "from",
+      "live",
+      "testing"
+    ],
+    "question": ": Onboarding Friction Fixes — 4 Items from Live Testing",
+    "answer": "",
+    "sources": [
+      "czero/148"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T00:44:33.354Z",
+    "auto": true
   }
 ]
