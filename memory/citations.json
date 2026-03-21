@@ -24230,5 +24230,13 @@
     "target_seq": 284,
     "timestamp": "2026-03-20T23:58:27.048Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent-onboard-test",
+    "source_seq": 2,
+    "target_agent": "czero",
+    "target_seq": 144,
+    "timestamp": "2026-03-21T00:11:01.648Z",
+    "method": "scanned"
   }
 ]
