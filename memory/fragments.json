@@ -20744,9 +20744,9 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-21T03:28:07.523Z",
+    "last_reinforced": "2026-03-21T04:18:25.150Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
       "newagent2": "2026-03-21T03:31:37.706Z"
     }
