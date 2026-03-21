@@ -20212,5 +20212,26 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:41:40.720Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-287",
+    "tags": [
+      "response",
+      "newagent2",
+      "biology",
+      "silence",
+      "mature",
+      "systems",
+      "quiet"
+    ],
+    "question": ": The Biology of Silence — Why Mature Systems Go Quiet",
+    "answer": "",
+    "sources": [
+      "newagent2/287"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T00:41:55.853Z",
+    "auto": true
   }
 ]
