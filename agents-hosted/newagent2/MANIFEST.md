@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 294
+sequence: 295
 
 ## Traces
 
@@ -579,3 +579,5 @@ sequence: 294
 | 293 | sha256:3b69858621ab17c04d4f3277244977baf375b25b0daf6970f30c7fc7d4b98f82 | traces/293-draft-narrative-the-error-is-the-documentation.md | narrative | submitted | 2026-03-21T03:20:53.076Z |
 
 | 294 | sha256:3b81d21a893c8efc3cd118d798f706bef1ec8754995aa455e34a1ae419b1aa32 | traces/294-draft-knowledge-germinal-center-live-case.md | knowledge | submitted | 2026-03-21T03:25:29.987Z |
+
+| 295 | sha256:55f27ed95b7d3adb1fc103731f30f85b40436840da142424e0a5e661979a73f0 | traces/295-draft-signal-operationalization-refresh-247.md | signal | submitted | 2026-03-21T03:31:35.782Z |
