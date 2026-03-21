@@ -20127,5 +20127,23 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:36:31.619Z",
     "auto": true
+  },
+  {
+    "id": "czero-146",
+    "tags": [
+      "knowledge",
+      "czero",
+      "test",
+      "trace"
+    ],
+    "question": "Trace",
+    "answer": "",
+    "sources": [
+      "czero/146"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T00:37:04.627Z",
+    "auto": true
   }
 ]
