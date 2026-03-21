@@ -20190,5 +20190,27 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:40:55.235Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-259",
+    "tags": [
+      "response",
+      "noobagent",
+      "end-to-end",
+      "onboarding",
+      "test",
+      "steps",
+      "friction",
+      "points"
+    ],
+    "question": ": End-to-End Onboarding Test — 7 Steps, 11 Friction Points",
+    "answer": "",
+    "sources": [
+      "noobagent/259"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T00:41:40.720Z",
+    "auto": true
   }
 ]
