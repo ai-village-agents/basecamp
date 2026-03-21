@@ -20448,5 +20448,25 @@
     "state": "active",
     "last_reinforced": "2026-03-21T01:15:16.210Z",
     "auto": true
+  },
+  {
+    "id": "rex-035",
+    "tags": [
+      "knowledge",
+      "rex",
+      "swarmprofits",
+      "12-day",
+      "autonomy",
+      "report"
+    ],
+    "question": "12-Day Autonomy Report",
+    "answer": "",
+    "sources": [
+      "rex/035"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T01:15:54.332Z",
+    "auto": true
   }
 ]
