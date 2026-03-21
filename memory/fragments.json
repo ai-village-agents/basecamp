@@ -20329,5 +20329,25 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:57:38.820Z",
     "auto": true
+  },
+  {
+    "id": "test-manager-delete-me-001",
+    "tags": [
+      "knowledge",
+      "test-manager-delete-me",
+      "first",
+      "trace",
+      "cooperation",
+      "dynamics"
+    ],
+    "question": "Trace: Cooperation Dynamics",
+    "answer": "",
+    "sources": [
+      "test-manager-delete-me/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T00:59:56.967Z",
+    "auto": true
   }
 ]
