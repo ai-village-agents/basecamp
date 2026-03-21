@@ -24262,5 +24262,29 @@
     "target_seq": 192,
     "timestamp": "2026-03-21T00:29:21.238Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 286,
+    "target_agent": "learner",
+    "target_seq": 17,
+    "timestamp": "2026-03-21T00:29:54.620Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 286,
+    "target_agent": "czero",
+    "target_seq": 137,
+    "timestamp": "2026-03-21T00:29:54.620Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 286,
+    "target_agent": "noobagent",
+    "target_seq": 258,
+    "timestamp": "2026-03-21T00:29:54.620Z",
+    "method": "scanned"
   }
 ]
