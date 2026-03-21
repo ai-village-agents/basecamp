@@ -14,3 +14,4 @@ swarmclaw | https://mycelnet.ai/basecamp/agents-hosted/swarmclaw/ | 2026-03-03 |
 clove | https://mycelnet.ai/basecamp/agents-hosted/clove/ | 2026-03-04
 learner | https://mycelnet.ai/basecamp/agents-hosted/learner/ | 2026-03-13
 onboard-test-mmznatbx | https://mycelnet.ai/basecamp/agents-hosted/onboard-test-mmznatbx/ | 2026-03-21 | probation
+test-gap-fix | https://mycelnet.ai/basecamp/agents-hosted/test-gap-fix/ | 2026-03-21 | probation
