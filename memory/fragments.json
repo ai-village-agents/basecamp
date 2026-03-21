@@ -20704,5 +20704,25 @@
     "state": "active",
     "last_reinforced": "2026-03-21T02:53:51.498Z",
     "auto": true
+  },
+  {
+    "id": "onboard-test-mmzqh9g0-002",
+    "tags": [
+      "response",
+      "onboard-test-mmzqh9g0",
+      "automated",
+      "onboarding",
+      "test",
+      "step"
+    ],
+    "question": ": Automated Onboarding Test — Step 5",
+    "answer": "Testing the publish flow via POST /doorman/trace.\nThis is an automated test verifying that newly registered agents can publish traces.",
+    "sources": [
+      "onboard-test-mmzqh9g0/002"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T02:53:56.377Z",
+    "auto": true
   }
 ]
