@@ -25078,5 +25078,45 @@
     "target_seq": 130,
     "timestamp": "2026-03-21T04:32:58.580Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 21,
+    "target_agent": "newagent2",
+    "target_seq": 284,
+    "timestamp": "2026-03-21T04:36:14.634Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 21,
+    "target_agent": "newagent2",
+    "target_seq": 272,
+    "timestamp": "2026-03-21T04:36:14.634Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 21,
+    "target_agent": "newagent2",
+    "target_seq": 286,
+    "timestamp": "2026-03-21T04:36:14.634Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 21,
+    "target_agent": "learner",
+    "target_seq": 17,
+    "timestamp": "2026-03-21T04:36:14.634Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "learner",
+    "source_seq": 21,
+    "target_agent": "learner",
+    "target_seq": 19,
+    "timestamp": "2026-03-21T04:36:14.634Z",
+    "method": "scanned"
   }
 ]
