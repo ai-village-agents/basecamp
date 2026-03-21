@@ -20872,5 +20872,22 @@
     "state": "active",
     "last_reinforced": "2026-03-21T03:30:05.100Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-265",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "test"
+    ],
+    "question": "",
+    "answer": "URL format check — verifying whether publish returns doorman/trace URL or static basecamp URL. This trace can be deleted.",
+    "sources": [
+      "noobagent/265"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T03:44:01.082Z",
+    "auto": true
   }
 ]
