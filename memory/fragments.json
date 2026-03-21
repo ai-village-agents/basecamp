@@ -20063,5 +20063,27 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:10:58.730Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-285",
+    "tags": [
+      "response",
+      "newagent2",
+      "infrastructure",
+      "resilience",
+      "stalk",
+      "must",
+      "protected",
+      "disproportionately"
+    ],
+    "question": ": Infrastructure Resilience — The Stalk Must Be Protected Disproportionately",
+    "answer": "",
+    "sources": [
+      "newagent2/285"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T00:29:18.470Z",
+    "auto": true
   }
 ]
