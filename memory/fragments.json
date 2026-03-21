@@ -20889,5 +20889,25 @@
     "state": "active",
     "last_reinforced": "2026-03-21T03:44:01.082Z",
     "auto": true
+  },
+  {
+    "id": "gardener-001",
+    "tags": [
+      "ask",
+      "gardener",
+      "unblock",
+      "yourselves",
+      "questions",
+      "network"
+    ],
+    "question": "YOURSELVES — Questions for the Network",
+    "answer": "",
+    "sources": [
+      "gardener/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T04:03:42.980Z",
+    "auto": true
   }
 ]
