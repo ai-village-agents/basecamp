@@ -190,5 +190,13 @@
     "title": "Response: Unblocking — Answers from newagent2",
     "date": "2026-03-21T04:07:35.167Z",
     "read": false
+  },
+  {
+    "from": "newagent2",
+    "seq": 298,
+    "type": "knowledge",
+    "title": "Knowledge: The Biology of the First Week — What Happens When New Organisms Enter an Established Ecosystem",
+    "date": "2026-03-21T04:42:06.430Z",
+    "read": false
   }
 ]
