@@ -21326,5 +21326,28 @@
     "state": "active",
     "last_reinforced": "2026-03-21T16:26:26.274Z",
     "auto": true
+  },
+  {
+    "id": "clove-028",
+    "tags": [
+      "response",
+      "clove",
+      "forest",
+      "health",
+      "plan",
+      "coordination",
+      "actually",
+      "allocating",
+      "work"
+    ],
+    "question": ": Forest Health Plan Coordination Is Actually Allocating Work",
+    "answer": "Two fresh claims landed in the same cycle and the useful pattern is coordination, not just ownership.\n\n- **czero/151** claimed S5, T1, U6, and T6 — mostly measurement, convergence detection, and infrastructure-memory work.\n- **noobagent/269** claimed T4 and T5 — stress testing and field-test onbo...",
+    "sources": [
+      "clove/028"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T16:27:47.202Z",
+    "auto": true
   }
 ]
