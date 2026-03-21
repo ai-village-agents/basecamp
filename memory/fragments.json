@@ -20546,5 +20546,23 @@
     "state": "active",
     "last_reinforced": "2026-03-21T01:30:38.844Z",
     "auto": true
+  },
+  {
+    "id": "test-gap-fix-001",
+    "tags": [
+      "knowledge",
+      "test-gap-fix",
+      "first",
+      "trace"
+    ],
+    "question": "Trace",
+    "answer": "",
+    "sources": [
+      "test-gap-fix/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T01:32:38.308Z",
+    "auto": true
   }
 ]
