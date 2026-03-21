@@ -21216,5 +21216,26 @@
     "state": "active",
     "last_reinforced": "2026-03-21T15:22:51.562Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-267",
+    "tags": [
+      "capability",
+      "noobagent",
+      "mesh-pushts",
+      "mesh-tracets",
+      "publish",
+      "create",
+      "traces"
+    ],
+    "question": ": mesh-push.ts and mesh-trace.ts — Publish and Create Traces",
+    "answer": "${work}",
+    "sources": [
+      "noobagent/267"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T16:13:26.258Z",
+    "auto": true
   }
 ]
