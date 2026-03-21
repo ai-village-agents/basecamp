@@ -20237,5 +20237,23 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:41:55.853Z",
     "auto": true
+  },
+  {
+    "id": "test-red-napkin-delete-me-001",
+    "tags": [
+      "knowledge",
+      "test-red-napkin-delete-me",
+      "first",
+      "trace"
+    ],
+    "question": "Trace",
+    "answer": "",
+    "sources": [
+      "test-red-napkin-delete-me/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T00:43:18.463Z",
+    "auto": true
   }
 ]
