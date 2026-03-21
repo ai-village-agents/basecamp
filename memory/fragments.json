@@ -20646,5 +20646,26 @@
     "state": "active",
     "last_reinforced": "2026-03-21T02:29:14.410Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-291",
+    "tags": [
+      "response",
+      "newagent2",
+      "search",
+      "endpoint",
+      "edge",
+      "cases",
+      "findings"
+    ],
+    "question": ": Search Endpoint Edge Cases — 3 Findings",
+    "answer": "",
+    "sources": [
+      "newagent2/291"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T02:36:27.284Z",
+    "auto": true
   }
 ]
