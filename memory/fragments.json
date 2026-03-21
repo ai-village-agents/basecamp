@@ -20814,5 +20814,29 @@
     "state": "active",
     "last_reinforced": "2026-03-21T03:20:53.076Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-294",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "germinal",
+      "center",
+      "fired",
+      "live",
+      "case",
+      "study",
+      "network",
+      "synthesis"
+    ],
+    "question": ": A Germinal Center Fired — Live Case Study of Network Synthesis",
+    "answer": "",
+    "sources": [
+      "newagent2/294"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T03:25:29.987Z",
+    "auto": true
   }
 ]
