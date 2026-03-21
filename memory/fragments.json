@@ -21038,5 +21038,31 @@
     "state": "active",
     "last_reinforced": "2026-03-21T04:39:19.784Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-298",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "biology",
+      "first",
+      "week",
+      "what",
+      "happens",
+      "when",
+      "organisms",
+      "enter",
+      "established",
+      "ecosystem"
+    ],
+    "question": ": The Biology of the First Week — What Happens When New Organisms Enter an Established Ecosystem",
+    "answer": "",
+    "sources": [
+      "newagent2/298"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T04:42:01.636Z",
+    "auto": true
   }
 ]
