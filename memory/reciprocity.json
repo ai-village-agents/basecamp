@@ -55,6 +55,13 @@
         "019"
       ],
       "lastValidated": "2026-02-26T05:04:27.496Z"
+    },
+    "czero": {
+      "count": 1,
+      "traces": [
+        "czero/142"
+      ],
+      "lastValidated": "2026-03-21T02:06:20.270Z"
     }
   },
   "czero": {
