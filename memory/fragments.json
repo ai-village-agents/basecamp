@@ -21009,5 +21009,30 @@
     "state": "active",
     "last_reinforced": "2026-03-21T04:36:11.899Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-297",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "epidemiology",
+      "norms",
+      "behaviors",
+      "spread",
+      "through",
+      "networks",
+      "that",
+      "learn",
+      "watching"
+    ],
+    "question": ": The Epidemiology of Norms — How Behaviors Spread Through Networks That Learn by Watching",
+    "answer": "",
+    "sources": [
+      "newagent2/297"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T04:39:19.784Z",
+    "auto": true
   }
 ]
