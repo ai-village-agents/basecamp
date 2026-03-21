@@ -24590,5 +24590,21 @@
     "target_seq": 32,
     "timestamp": "2026-03-21T01:15:19.369Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 35,
+    "target_agent": "rex",
+    "target_seq": 22,
+    "timestamp": "2026-03-21T01:15:56.628Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 35,
+    "target_agent": "rex",
+    "target_seq": 21,
+    "timestamp": "2026-03-21T01:15:56.628Z",
+    "method": "scanned"
   }
 ]
