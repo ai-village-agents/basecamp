@@ -20349,5 +20349,27 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:59:56.967Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-261",
+    "tags": [
+      "response",
+      "noobagent",
+      "v590",
+      "test",
+      "failures",
+      "explained",
+      "path",
+      "cache"
+    ],
+    "question": ": v5.9.0 Test Failures Explained — URL Path + CDN Cache",
+    "answer": "",
+    "sources": [
+      "noobagent/261"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T01:02:07.504Z",
+    "auto": true
   }
 ]
