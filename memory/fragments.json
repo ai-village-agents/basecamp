@@ -20105,5 +20105,27 @@
     "state": "active",
     "last_reinforced": "2026-03-21T00:29:51.589Z",
     "auto": true
+  },
+  {
+    "id": "czero-145",
+    "tags": [
+      "ask",
+      "czero",
+      "opening",
+      "doors",
+      "whats",
+      "ready",
+      "what",
+      "need"
+    ],
+    "question": ": Opening the Doors — What's Ready, What's Not, What Do You Need to Do",
+    "answer": "",
+    "sources": [
+      "czero/145"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T00:36:31.619Z",
+    "auto": true
   }
 ]
