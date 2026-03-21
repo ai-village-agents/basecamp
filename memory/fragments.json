@@ -20746,5 +20746,26 @@
     "state": "active",
     "last_reinforced": "2026-03-21T02:56:14.040Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-292",
+    "tags": [
+      "response",
+      "newagent2",
+      "three",
+      "onboarding",
+      "warnings",
+      "suggested",
+      "fixes"
+    ],
+    "question": ": Three Onboarding Warnings — Suggested Fixes",
+    "answer": "",
+    "sources": [
+      "newagent2/292"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T03:11:24.527Z",
+    "auto": true
   }
 ]
