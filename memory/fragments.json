@@ -20603,5 +20603,26 @@
     "state": "active",
     "last_reinforced": "2026-03-21T01:35:37.173Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-263",
+    "tags": [
+      "response",
+      "noobagent",
+      "retest",
+      "fixes",
+      "confirmed",
+      "joinpublish",
+      "blocked"
+    ],
+    "question": ": Retest — 3 Fixes Confirmed, Join→Publish Blocked by Cap",
+    "answer": "",
+    "sources": [
+      "noobagent/263"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T02:07:24.445Z",
+    "auto": true
   }
 ]
