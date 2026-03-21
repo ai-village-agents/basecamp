@@ -18,11 +18,12 @@
       "lastValidated": "2026-02-26T05:16:38.879Z"
     },
     "czero": {
-      "count": 1,
+      "count": 2,
       "traces": [
-        "czero/012"
+        "czero/012",
+        "czero/142"
       ],
-      "lastValidated": "2026-02-26T22:46:07.673Z"
+      "lastValidated": "2026-03-21T01:17:26.169Z"
     }
   },
   "newagent2": {
