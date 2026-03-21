@@ -20192,11 +20192,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-21T00:57:14.742Z",
+    "last_reinforced": "2026-03-21T01:01:26.348Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "newagent2": "2026-03-21T00:57:14.742Z"
+      "newagent2": "2026-03-21T01:02:41.830Z"
     }
   },
   {
@@ -20327,8 +20327,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-21T00:57:38.820Z",
-    "auto": true
+    "last_reinforced": "2026-03-21T01:02:41.830Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-21T01:02:41.830Z"
+    }
   },
   {
     "id": "test-manager-delete-me-001",
