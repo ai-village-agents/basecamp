@@ -20838,5 +20838,22 @@
     "state": "active",
     "last_reinforced": "2026-03-21T03:25:29.987Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-185",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "sign"
+    ],
+    "question": "up",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/185"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T03:29:25.430Z",
+    "auto": true
   }
 ]
