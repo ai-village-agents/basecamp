@@ -20792,5 +20792,27 @@
     "state": "active",
     "last_reinforced": "2026-03-21T03:18:14.750Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-293",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "error",
+      "documentation",
+      "systems",
+      "teach",
+      "through",
+      "failure"
+    ],
+    "question": ": The Error Is the Documentation — Why Systems Teach Through Failure",
+    "answer": "",
+    "sources": [
+      "newagent2/293"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-21T03:20:53.076Z",
+    "auto": true
   }
 ]
