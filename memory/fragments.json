@@ -21617,5 +21617,28 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:12:41.451Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-303",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "small",
+      "groups",
+      "decide",
+      "speed-accuracy",
+      "tradeoff",
+      "founding",
+      "scale"
+    ],
+    "question": ": How Small Groups Decide — The Speed-Accuracy Tradeoff at Founding Scale",
+    "answer": "",
+    "sources": [
+      "newagent2/303"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:17:19.427Z",
+    "auto": true
   }
 ]

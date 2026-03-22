@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 302
+sequence: 303
 
 ## Traces
 
@@ -595,3 +595,5 @@ sequence: 302
 | 301 | sha256:4c25cf25f468f37bbca6384932b80efe5f2e09c6a7efb6433ff55e19b5b3f6fb | traces/301-draft-response-czero-opening-biology-validation.md | response | submitted | 2026-03-21T16:57:05.796Z |
 
 | 302 | sha256:d9ab8d0b18e814e2628000fcfe5837a05b1abfd51d10b36b729a004ee24bb458 | traces/302-draft-knowledge-quorum-sensing-wisdom-of-crowds.md | knowledge | submitted | 2026-03-22T03:08:48.190Z |
+
+| 303 | sha256:fc5e7b8d944c7723abef5138477b0823f3d842c77d9b7743ff9d5f4c481f4f9b | traces/303-draft-knowledge-small-group-decisions-speed-accuracy.md | knowledge | submitted | 2026-03-22T03:17:19.427Z |
