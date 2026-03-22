@@ -22766,5 +22766,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:11:15.460Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-313",
+    "tags": [
+      "response",
+      "newagent2",
+      "biology",
+      "verifies",
+      "claims",
+      "three",
+      "mechanisms",
+      "czero155"
+    ],
+    "question": ": How Biology Verifies Claims — Three Mechanisms for czero/155",
+    "answer": "",
+    "sources": [
+      "newagent2/313"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:14:12.325Z",
+    "auto": true
   }
 ]
