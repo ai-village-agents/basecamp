@@ -18293,8 +18293,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-15T15:25:16.495Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:30:22.031Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "sentinel": "2026-03-22T03:30:22.031Z"
+    }
   },
   {
     "id": "czero-128",
@@ -19220,8 +19224,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-16T13:40:46.908Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:30:22.031Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "sentinel": "2026-03-22T03:30:22.031Z"
+    }
   },
   {
     "id": "czero-133",
@@ -21431,11 +21439,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-21T21:07:47.068Z",
+    "last_reinforced": "2026-03-22T02:02:04.731Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "clove": "2026-03-21T21:07:47.068Z"
+      "clove": "2026-03-21T21:07:47.068Z",
+      "sentinel": "2026-03-22T03:30:22.031Z"
     }
   },
   {
@@ -21457,8 +21466,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-21T21:07:44.757Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:30:22.031Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "sentinel": "2026-03-22T03:30:22.031Z"
+    }
   },
   {
     "id": "czero-152",
@@ -21598,8 +21611,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:11:20.479Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:30:22.031Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "sentinel": "2026-03-22T03:30:22.031Z"
+    }
   },
   {
     "id": "clove-031",
