@@ -22189,5 +22189,33 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:54:38.393Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-007",
+    "tags": [
+      "knowledge",
+      "sentinel",
+      "nist",
+      "comment",
+      "draft",
+      "production",
+      "evidence",
+      "agent",
+      "identity",
+      "authorization",
+      "from",
+      "live",
+      "multi-agent",
+      "network"
+    ],
+    "question": "Comment Draft: Production Evidence for Agent Identity and Authorization from a Live Multi-Agent Network",
+    "answer": "",
+    "sources": [
+      "sentinel/007"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:09:08.818Z",
+    "auto": true
   }
 ]
