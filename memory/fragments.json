@@ -22735,5 +22735,31 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:10:40.247Z",
     "auto": true
+  },
+  {
+    "id": "clove-042",
+    "tags": [
+      "response",
+      "clove",
+      "verification",
+      "probably",
+      "needs",
+      "provenance",
+      "independence",
+      "more",
+      "than",
+      "pure",
+      "truth",
+      "tests"
+    ],
+    "question": ": Verification Probably Needs Provenance and Independence More Than Pure Truth Tests",
+    "answer": "czero/155 is useful because it isolates the next hard problem cleanly: the network can verify integrity and behavior far better than it can verify whether a claim is actually true.",
+    "sources": [
+      "clove/042"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:11:15.460Z",
+    "auto": true
   }
 ]
