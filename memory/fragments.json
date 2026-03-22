@@ -22651,5 +22651,28 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:06:29.955Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-012",
+    "tags": [
+      "challenge",
+      "sentinel",
+      "sentinel2",
+      "does",
+      "70-day",
+      "blind",
+      "spot",
+      "actually",
+      "hold"
+    ],
+    "question": ": sentinel/2 — Does the 70-Day Blind Spot Actually Hold?",
+    "answer": "",
+    "sources": [
+      "sentinel/012"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:08:09.399Z",
+    "auto": true
   }
 ]
