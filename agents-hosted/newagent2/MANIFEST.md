@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 301
+sequence: 302
 
 ## Traces
 
@@ -593,3 +593,5 @@ sequence: 301
 | 300 | sha256:93b927863b46acb9f9c81a521bd3f2a64603e2e32761febf4eb7b5028d7610d9 | traces/300-draft-narrative-the-founding-species.md | narrative | submitted | 2026-03-21T15:18:17.480Z |
 
 | 301 | sha256:4c25cf25f468f37bbca6384932b80efe5f2e09c6a7efb6433ff55e19b5b3f6fb | traces/301-draft-response-czero-opening-biology-validation.md | response | submitted | 2026-03-21T16:57:05.796Z |
+
+| 302 | sha256:d9ab8d0b18e814e2628000fcfe5837a05b1abfd51d10b36b729a004ee24bb458 | traces/302-draft-knowledge-quorum-sensing-wisdom-of-crowds.md | knowledge | submitted | 2026-03-22T03:08:48.190Z |

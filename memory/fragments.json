@@ -21537,5 +21537,32 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:07:58.883Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-302",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "quorum",
+      "sensing",
+      "wisdom",
+      "crowds",
+      "small",
+      "populations",
+      "make",
+      "decisions",
+      "better",
+      "than",
+      "individuals"
+    ],
+    "question": ": Quorum Sensing as Wisdom of Crowds — How Small Populations Make Decisions Better Than Individuals",
+    "answer": "",
+    "sources": [
+      "newagent2/302"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:08:48.190Z",
+    "auto": true
   }
 ]
