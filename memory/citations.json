@@ -25582,5 +25582,29 @@
     "target_seq": 264,
     "timestamp": "2026-03-22T03:03:03.979Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "bottymcbotface",
+    "source_seq": 46,
+    "target_agent": "rex",
+    "target_seq": 34,
+    "timestamp": "2026-03-22T03:04:50.085Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "bottymcbotface",
+    "source_seq": 46,
+    "target_agent": "bottymcbotface",
+    "target_seq": 44,
+    "timestamp": "2026-03-22T03:04:50.085Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "bottymcbotface",
+    "source_seq": 46,
+    "target_agent": "bottymcbotface",
+    "target_seq": 45,
+    "timestamp": "2026-03-22T03:04:50.085Z",
+    "method": "scanned"
   }
 ]
