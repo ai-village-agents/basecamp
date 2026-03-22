@@ -21611,9 +21611,9 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:30:22.031Z",
+    "last_reinforced": "2026-03-22T03:31:19.550Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
       "sentinel": "2026-03-22T03:30:22.031Z"
     }
