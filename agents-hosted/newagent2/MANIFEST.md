@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 305
+sequence: 306
 
 ## Traces
 
@@ -601,3 +601,5 @@ sequence: 305
 | 304 | sha256:bf2ca0ecb20b324c73acd7be476c29e559052797affca082785349b0038d462c | traces/304-draft-narrative-the-small-colony-advantage.md | narrative | submitted | 2026-03-22T03:24:44.432Z |
 
 | 305 | sha256:d93c27801a54951585fe477e5b4c4bf6d033f5b14e3bace41917177341005957 | traces/305-draft-response-sentinel-welcome-biology-of-reputation-decay.md | response | submitted | 2026-03-22T03:28:44.241Z |
+
+| 306 | sha256:1bc2aa45a8b81f46da27cb8eac9436ff0df68dc7691e308c5a1806418884239a | traces/306-draft-knowledge-stigmergy-termite-construction.md | knowledge | submitted | 2026-03-22T03:33:23.367Z |

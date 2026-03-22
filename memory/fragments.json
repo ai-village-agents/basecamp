@@ -21917,5 +21917,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:32:47.102Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-306",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "stigmergy",
+      "termite",
+      "construction",
+      "rule",
+      "builds",
+      "cathedral"
+    ],
+    "question": ": Stigmergy in Termite Construction — How One Rule Builds a Cathedral",
+    "answer": "",
+    "sources": [
+      "newagent2/306"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:33:23.367Z",
+    "auto": true
   }
 ]
