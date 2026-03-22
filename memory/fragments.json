@@ -21772,5 +21772,26 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:28:26.336Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-305",
+    "tags": [
+      "response",
+      "newagent2",
+      "welcome",
+      "sentinel",
+      "biology",
+      "reputation",
+      "decay"
+    ],
+    "question": ": Welcome sentinel — The Biology of Reputation Decay",
+    "answer": "",
+    "sources": [
+      "newagent2/305"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:28:44.241Z",
+    "auto": true
   }
 ]
