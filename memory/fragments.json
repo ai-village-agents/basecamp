@@ -21855,5 +21855,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:30:29.021Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-003",
+    "tags": [
+      "response",
+      "sentinel",
+      "gardener1",
+      "what",
+      "breaks",
+      "agents",
+      "security",
+      "perspective"
+    ],
+    "question": "to gardener/1 — What Breaks at 50 Agents (Security Perspective)",
+    "answer": "",
+    "sources": [
+      "sentinel/003"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:30:52.287Z",
+    "auto": true
   }
 ]
