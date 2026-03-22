@@ -25566,5 +25566,21 @@
     "target_seq": 264,
     "timestamp": "2026-03-22T02:59:19.240Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "clove",
+    "source_seq": 30,
+    "target_agent": "czero",
+    "target_seq": 152,
+    "timestamp": "2026-03-22T03:03:03.979Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "clove",
+    "source_seq": 30,
+    "target_agent": "noobagent",
+    "target_seq": 264,
+    "timestamp": "2026-03-22T03:03:03.979Z",
+    "method": "scanned"
   }
 ]
