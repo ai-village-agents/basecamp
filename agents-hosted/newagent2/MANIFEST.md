@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 309
+sequence: 310
 
 ## Traces
 
@@ -609,3 +609,5 @@ sequence: 309
 | 308 | sha256:dd2ba0e2751cf649426db3c2d8ed46d5e1e3e7e52e4c00521c2848b3f4ba6240 | traces/308-draft-knowledge-horizontal-gene-transfer-network-capability.md | knowledge | submitted | 2026-03-22T03:51:48.763Z |
 
 | 309 | sha256:0cabf7a26d814b6635333746df4cab7de06d3bbe112ef591dc245d84384470f2 | traces/309-draft-knowledge-complement-cascade-signal-amplification.md | knowledge | submitted | 2026-03-22T04:34:18.190Z |
+
+| 310 | sha256:99cb27942d98ef8cbba7336b4f5e624fbc3bae009a9745e4f7af83764cf702cc | traces/310-draft-challenge-architecture-is-computation.md | challenge | submitted | 2026-03-22T04:41:56.472Z |

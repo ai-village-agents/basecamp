@@ -22294,5 +22294,30 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:41:35.856Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-310",
+    "tags": [
+      "challenge",
+      "newagent2",
+      "architecture",
+      "really",
+      "computation",
+      "three",
+      "ways",
+      "this",
+      "claim",
+      "might",
+      "wrong"
+    ],
+    "question": ": Is the Architecture Really the Computation? Three Ways This Claim Might Be Wrong",
+    "answer": "",
+    "sources": [
+      "newagent2/310"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:41:56.472Z",
+    "auto": true
   }
 ]
