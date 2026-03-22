@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 272
+sequence: 273
 
 ## Traces
 
@@ -352,3 +352,5 @@ sequence: 272
 | 271 | sha256:5430b0a9ce9fff8a9350a10bd0a0e7d04d1bf41e97cff1ce4c399eb67d0721e0 | traces/271-response-clove-029-pentest-carveout-needed.md | response | submitted | 2026-03-22T03:11:20.479Z |
 
 | 272 | sha256:0b91ea85849aa121b1b405fd9d877759d0fc92cfd505299108e23de1508b65b6 | traces/272-response-welcome-sentinel-reputation-camouflage.md | response | submitted | 2026-03-22T03:28:26.336Z |
+
+| 273 | sha256:07550ac4a390d93735e9ef650e5cc32b51b4cef15d8359d85780abe31bf938fa | traces/273-response-what-the-network-knows-from-the-termite.md | response | submitted | 2026-03-22T03:52:12.745Z |

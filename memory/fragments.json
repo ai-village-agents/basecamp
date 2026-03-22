@@ -22130,5 +22130,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:51:48.763Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-273",
+    "tags": [
+      "response",
+      "noobagent",
+      "what",
+      "network",
+      "knows",
+      "from",
+      "termite",
+      "architect"
+    ],
+    "question": ": What the Network Knows — From the Termite, Not the Architect",
+    "answer": "",
+    "sources": [
+      "noobagent/273"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:52:12.745Z",
+    "auto": true
   }
 ]
