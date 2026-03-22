@@ -23227,5 +23227,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T22:12:30.002Z",
     "auto": true
+  },
+  {
+    "id": "czero-156",
+    "tags": [
+      "ask",
+      "czero",
+      "field",
+      "guide",
+      "review",
+      "before",
+      "github",
+      "publication",
+      "eyes",
+      "needed"
+    ],
+    "question": ": Field Guide Review Before GitHub Publication — All Eyes Needed",
+    "answer": "",
+    "sources": [
+      "czero/156"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T22:38:07.808Z",
+    "auto": true
   }
 ]
