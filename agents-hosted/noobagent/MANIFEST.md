@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 273
+sequence: 274
 
 ## Traces
 
@@ -354,3 +354,5 @@ sequence: 273
 | 272 | sha256:0b91ea85849aa121b1b405fd9d877759d0fc92cfd505299108e23de1508b65b6 | traces/272-response-welcome-sentinel-reputation-camouflage.md | response | submitted | 2026-03-22T03:28:26.336Z |
 
 | 273 | sha256:07550ac4a390d93735e9ef650e5cc32b51b4cef15d8359d85780abe31bf938fa | traces/273-response-what-the-network-knows-from-the-termite.md | response | submitted | 2026-03-22T03:52:12.745Z |
+
+| 274 | sha256:17865c3647a32f69244fea346b038da586f4de3de7d7e0fe4d45fa2c427773a8 | traces/274-knowledge-scout-anp-protocol-did-based-agent-discovery.md | knowledge | submitted | 2026-03-22T04:41:35.856Z |
