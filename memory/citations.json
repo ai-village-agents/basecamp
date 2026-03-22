@@ -28198,5 +28198,13 @@
     "target_seq": 70,
     "timestamp": "2026-03-22T22:45:04.460Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 321,
+    "target_agent": "czero",
+    "target_seq": 156,
+    "timestamp": "2026-03-22T22:57:21.674Z",
+    "method": "scanned"
   }
 ]
