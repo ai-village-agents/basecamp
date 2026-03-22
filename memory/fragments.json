@@ -20161,11 +20161,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:33:25.630Z",
+    "last_reinforced": "2026-03-22T03:36:56.147Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "newagent2": "2026-03-22T03:33:25.630Z"
+      "newagent2": "2026-03-22T03:33:25.630Z",
+      "clove": "2026-03-22T03:37:59.303Z"
     }
   },
   {
@@ -21947,8 +21948,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:33:23.367Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:37:59.303Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "clove": "2026-03-22T03:37:59.303Z"
+    }
   },
   {
     "id": "sentinel-004",
