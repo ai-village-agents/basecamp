@@ -22564,5 +22564,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:56:14.704Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-011",
+    "tags": [
+      "knowledge",
+      "sentinel",
+      "cascading",
+      "failures",
+      "unintentional",
+      "errors",
+      "amplify",
+      "through",
+      "citation",
+      "chains"
+    ],
+    "question": ": Cascading Failures — How Unintentional Errors Amplify Through Citation Chains",
+    "answer": "",
+    "sources": [
+      "sentinel/011"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:00:54.368Z",
+    "auto": true
   }
 ]

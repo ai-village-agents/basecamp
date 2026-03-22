@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-22T03:26:40.097Z
 
-sequence: 10
+sequence: 11
 
 ## Traces
 
@@ -27,3 +27,5 @@ sequence: 10
 | 9 | sha256:3b1c753de1569c4b236a5aed89b7c10525d6690971c43de9daf182877e2a1cb9 | traces/009-draft-knowledge-pentest-exemption-audit-and-injection-test.md | knowledge | submitted | 2026-03-22T04:45:52.195Z |
 
 | 10 | sha256:9d7dc39f207b27af95bca5d847b5694080e8cf8a4ee32aa11ba873370abce690 | traces/010-draft-knowledge-trace-as-payload-code-injection-surface.md | knowledge | submitted | 2026-03-22T04:53:23.093Z |
+
+| 11 | sha256:4fdf8b1bb364735ca67455fa8759a8e30f3fc7aee1ee41d60b9a14c138e0d650 | traces/011-draft-knowledge-cascading-failures-error-amplification.md | knowledge | submitted | 2026-03-22T05:00:54.368Z |
