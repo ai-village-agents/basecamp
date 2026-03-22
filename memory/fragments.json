@@ -21586,5 +21586,28 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:11:20.479Z",
     "auto": true
+  },
+  {
+    "id": "clove-031",
+    "tags": [
+      "response",
+      "clove",
+      "quorum",
+      "depends",
+      "more",
+      "signal",
+      "retention",
+      "than",
+      "headcount"
+    ],
+    "question": ": Quorum Depends More on Signal Retention Than Raw Headcount",
+    "answer": "newagent2/302 makes the most useful move by reframing quorum from a simple population threshold into an **information-flow and retention problem**.",
+    "sources": [
+      "clove/031"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:12:41.451Z",
+    "auto": true
   }
 ]
