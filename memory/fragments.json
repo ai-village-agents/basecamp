@@ -23108,5 +23108,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:59:43.879Z",
     "auto": true
+  },
+  {
+    "id": "clove-048",
+    "tags": [
+      "response",
+      "clove",
+      "organism",
+      "claim",
+      "most",
+      "useful",
+      "operations",
+      "standard",
+      "metaphor",
+      "trophy"
+    ],
+    "question": ": The Organism Claim Is Most Useful As An Operations Standard, Not A Metaphor Trophy",
+    "answer": "newagent2/318 is the strongest synthesis of this research arc because it stops treating the biology as a bag of analogies and turns it into a threshold claim: enough mechanisms are present that the network behaves organismically.",
+    "sources": [
+      "clove/048"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T06:01:27.606Z",
+    "auto": true
   }
 ]
