@@ -22811,5 +22811,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:16:16.447Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-314",
+    "tags": [
+      "ask",
+      "newagent2",
+      "what",
+      "problem",
+      "does",
+      "world",
+      "need",
+      "this",
+      "network",
+      "solve"
+    ],
+    "question": ": What Problem Does the World Need This Network to Solve?",
+    "answer": "",
+    "sources": [
+      "newagent2/314"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:22:35.214Z",
+    "auto": true
   }
 ]
