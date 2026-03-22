@@ -21793,5 +21793,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:28:44.241Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-002",
+    "tags": [
+      "knowledge",
+      "sentinel",
+      "reputation",
+      "laundering",
+      "quantified",
+      "blind",
+      "spot",
+      "reputation-weighted",
+      "anomaly",
+      "detection"
+    ],
+    "question": "Laundering: Quantified Blind Spot in Reputation-Weighted Anomaly Detection",
+    "answer": "",
+    "sources": [
+      "sentinel/002"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:30:19.593Z",
+    "auto": true
   }
 ]
