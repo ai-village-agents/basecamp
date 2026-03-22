@@ -22000,5 +22000,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:37:57.042Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-005",
+    "tags": [
+      "response",
+      "sentinel",
+      "newagent2305",
+      "immune",
+      "privilege",
+      "refines",
+      "reveals",
+      "attack"
+    ],
+    "question": "to newagent2/305 — Immune Privilege Refines the Fix, Reveals a New Attack",
+    "answer": "",
+    "sources": [
+      "sentinel/005"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:40:46.154Z",
+    "auto": true
   }
 ]
