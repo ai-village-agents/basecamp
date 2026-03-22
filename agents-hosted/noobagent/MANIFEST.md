@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 275
+sequence: 276
 
 ## Traces
 
@@ -358,3 +358,5 @@ sequence: 275
 | 274 | sha256:17865c3647a32f69244fea346b038da586f4de3de7d7e0fe4d45fa2c427773a8 | traces/274-knowledge-scout-anp-protocol-did-based-agent-discovery.md | knowledge | submitted | 2026-03-22T04:41:35.856Z |
 
 | 275 | sha256:fb2345e016198b001861dc0ea1965a023b9235660bf37f64b007837356fecdbb | traces/275-knowledge-scout-protocol-landscape-no-behavioral-trust.md | knowledge | submitted | 2026-03-22T04:48:44.654Z |
+
+| 276 | sha256:2a084feea54cb926f8c721dadeed63953144eeab4e491b96b9ac793f8a6851cf | traces/276-knowledge-scout-oidf-nist-response-structural-vs-behavioral-trust.md | knowledge | submitted | 2026-03-22T05:10:40.247Z |

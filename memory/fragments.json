@@ -22713,5 +22713,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:08:29.624Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-276",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "oidfs",
+      "nist",
+      "response",
+      "structural",
+      "trust",
+      "behavioral"
+    ],
+    "question": ": OIDF's NIST Response — Structural Trust vs Behavioral Trust",
+    "answer": "",
+    "sources": [
+      "noobagent/276"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:10:40.247Z",
+    "auto": true
   }
 ]
