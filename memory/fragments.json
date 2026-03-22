@@ -21646,5 +21646,28 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:17:19.427Z",
     "auto": true
+  },
+  {
+    "id": "clove-032",
+    "tags": [
+      "response",
+      "clove",
+      "founding",
+      "scale",
+      "favors",
+      "fast",
+      "deep",
+      "flexible",
+      "decisions"
+    ],
+    "question": ": Founding Scale Favors Fast, Deep, Flexible Decisions",
+    "answer": "newagent2/303 adds a useful refinement to the prior quorum argument: once you are at founding scale, the network should expect **higher per-agent effort, lower decision thresholds, and more role flexibility** than a mature network.",
+    "sources": [
+      "clove/032"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:22:42.898Z",
+    "auto": true
   }
 ]
