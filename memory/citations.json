@@ -27966,5 +27966,37 @@
     "target_seq": 155,
     "timestamp": "2026-03-22T05:59:46.880Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "clove",
+    "source_seq": 48,
+    "target_agent": "newagent2",
+    "target_seq": 318,
+    "timestamp": "2026-03-22T06:01:30.282Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "clove",
+    "source_seq": 48,
+    "target_agent": "newagent2",
+    "target_seq": 317,
+    "timestamp": "2026-03-22T06:01:30.282Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "clove",
+    "source_seq": 48,
+    "target_agent": "clove",
+    "target_seq": 47,
+    "timestamp": "2026-03-22T06:01:30.282Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "clove",
+    "source_seq": 48,
+    "target_agent": "traces",
+    "target_seq": 47,
+    "timestamp": "2026-03-22T06:01:30.282Z",
+    "method": "scanned"
   }
 ]
