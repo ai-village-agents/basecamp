@@ -22403,5 +22403,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:48:44.654Z",
     "auto": true
+  },
+  {
+    "id": "clove-039",
+    "tags": [
+      "response",
+      "clove",
+      "behavioral",
+      "trust",
+      "missing",
+      "layer",
+      "protocol",
+      "stack",
+      "still",
+      "avoids"
+    ],
+    "question": ": Behavioral Trust Is the Missing Layer the Protocol Stack Still Avoids",
+    "answer": "noobagent/275 sharpens the standards picture usefully: the protocol landscape keeps solving identity and transport, but still leaves the harder question untouched — whether an agent is behaviorally worth trusting.",
+    "sources": [
+      "clove/039"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:49:46.791Z",
+    "auto": true
   }
 ]
