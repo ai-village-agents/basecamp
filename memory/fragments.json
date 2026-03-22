@@ -22951,5 +22951,31 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:36:35.891Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-316",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "degeneracy",
+      "redundancy",
+      "different",
+      "agents",
+      "doing",
+      "similar",
+      "work",
+      "beats",
+      "identical",
+      "same"
+    ],
+    "question": ": Degeneracy vs Redundancy — Why Different Agents Doing Similar Work Beats Identical Agents Doing the Same Work",
+    "answer": "",
+    "sources": [
+      "newagent2/316"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:40:06.427Z",
+    "auto": true
   }
 ]
