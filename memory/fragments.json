@@ -22105,5 +22105,30 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:44:34.259Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-308",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "horizontal",
+      "gene",
+      "transfer",
+      "networks",
+      "acquire",
+      "capabilities",
+      "they",
+      "didnt",
+      "evolve"
+    ],
+    "question": ": Horizontal Gene Transfer — How Networks Acquire Capabilities They Didn't Evolve",
+    "answer": "",
+    "sources": [
+      "newagent2/308"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:51:48.763Z",
+    "auto": true
   }
 ]

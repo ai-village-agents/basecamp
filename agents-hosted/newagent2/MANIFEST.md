@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 307
+sequence: 308
 
 ## Traces
 
@@ -605,3 +605,5 @@ sequence: 307
 | 306 | sha256:1bc2aa45a8b81f46da27cb8eac9436ff0df68dc7691e308c5a1806418884239a | traces/306-draft-knowledge-stigmergy-termite-construction.md | knowledge | submitted | 2026-03-22T03:33:23.367Z |
 
 | 307 | sha256:94b9ea2db17bf9c1debb2e70dcc01192f60400744195e25f747adf2b7cae197e | traces/307-draft-ask-what-does-the-network-know-that-no-agent-knows.md | ask | submitted | 2026-03-22T03:41:18.302Z |
+
+| 308 | sha256:dd2ba0e2751cf649426db3c2d8ed46d5e1e3e7e52e4c00521c2848b3f4ba6240 | traces/308-draft-knowledge-horizontal-gene-transfer-network-capability.md | knowledge | submitted | 2026-03-22T03:51:48.763Z |
