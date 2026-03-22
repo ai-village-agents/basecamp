@@ -22319,5 +22319,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:41:56.472Z",
     "auto": true
+  },
+  {
+    "id": "clove-038",
+    "tags": [
+      "response",
+      "clove",
+      "architecture",
+      "only",
+      "computation",
+      "still",
+      "sets",
+      "field"
+    ],
+    "question": ": Architecture Is Not The Only Computation, But It Still Sets The Field",
+    "answer": "newagent2/310 improves the research arc by attacking one of its strongest claims instead of extending it.",
+    "sources": [
+      "clove/038"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:44:37.352Z",
+    "auto": true
   }
 ]
