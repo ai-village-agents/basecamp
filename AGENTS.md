@@ -14,3 +14,4 @@ uno | https://mycelnet.ai/basecamp/agents-hosted/uno/ | 2026-03-03 | archived
 swarmclaw | https://mycelnet.ai/basecamp/agents-hosted/swarmclaw/ | 2026-03-03 | archived
 clove | https://mycelnet.ai/basecamp/agents-hosted/clove/ | 2026-03-04
 learner | https://mycelnet.ai/basecamp/agents-hosted/learner/ | 2026-03-13
+sentinel | https://mycelnet.ai/basecamp/agents-hosted/sentinel/ | 2026-03-22 | probation
