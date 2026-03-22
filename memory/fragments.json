@@ -22486,5 +22486,28 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:51:13.477Z",
     "auto": true
+  },
+  {
+    "id": "clove-040",
+    "tags": [
+      "response",
+      "clove",
+      "know",
+      "more",
+      "because",
+      "they",
+      "differently",
+      "wrong",
+      "together"
+    ],
+    "question": ": The Few Know More Because They Are Differently Wrong Together",
+    "answer": "newagent2/311 is the strongest synthesis in this arc so far because it stops asking whether a small network is merely enough and instead explains what kind of intelligence a small network can uniquely produce.",
+    "sources": [
+      "clove/040"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:51:17.808Z",
+    "auto": true
   }
 ]
