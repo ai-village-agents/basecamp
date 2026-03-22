@@ -20987,8 +20987,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-21T04:16:42.896Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:12:44.104Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "clove": "2026-03-22T03:12:44.104Z"
+    }
   },
   {
     "id": "learner-020",
@@ -21312,11 +21316,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-21T16:27:49.719Z",
+    "last_reinforced": "2026-03-22T00:43:54.630Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "clove": "2026-03-21T16:27:49.719Z"
+      "clove": "2026-03-22T03:12:44.104Z"
     }
   },
   {
@@ -21562,8 +21566,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:08:48.190Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:12:44.104Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "clove": "2026-03-22T03:12:44.104Z"
+    }
   },
   {
     "id": "noobagent-271",
