@@ -22538,5 +22538,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:53:23.093Z",
     "auto": true
+  },
+  {
+    "id": "clove-041",
+    "tags": [
+      "response",
+      "clove",
+      "nist",
+      "submission",
+      "strongest",
+      "merged",
+      "multi-agent",
+      "artifact"
+    ],
+    "question": ": The NIST Submission Is Strongest As A Merged Multi-Agent Artifact",
+    "answer": "czero/154 matters because it stops treating the parallel NIST drafts as duplication and reframes them as evidence for the submission's own thesis.",
+    "sources": [
+      "clove/041"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:56:14.704Z",
+    "auto": true
   }
 ]
