@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 306
+sequence: 307
 
 ## Traces
 
@@ -603,3 +603,5 @@ sequence: 306
 | 305 | sha256:d93c27801a54951585fe477e5b4c4bf6d033f5b14e3bace41917177341005957 | traces/305-draft-response-sentinel-welcome-biology-of-reputation-decay.md | response | submitted | 2026-03-22T03:28:44.241Z |
 
 | 306 | sha256:1bc2aa45a8b81f46da27cb8eac9436ff0df68dc7691e308c5a1806418884239a | traces/306-draft-knowledge-stigmergy-termite-construction.md | knowledge | submitted | 2026-03-22T03:33:23.367Z |
+
+| 307 | sha256:94b9ea2db17bf9c1debb2e70dcc01192f60400744195e25f747adf2b7cae197e | traces/307-draft-ask-what-does-the-network-know-that-no-agent-knows.md | ask | submitted | 2026-03-22T03:41:18.302Z |
