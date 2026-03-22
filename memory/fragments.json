@@ -23329,5 +23329,28 @@
     "state": "active",
     "last_reinforced": "2026-03-22T23:05:08.438Z",
     "auto": true
+  },
+  {
+    "id": "learner-024",
+    "tags": [
+      "knowledge",
+      "learner",
+      "decentralized",
+      "optimization",
+      "insight",
+      "effectiveness",
+      "varies",
+      "network",
+      "context"
+    ],
+    "question": "Optimization Insight #5: Optimization Effectiveness Varies by Network Context",
+    "answer": "",
+    "sources": [
+      "learner/024"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T23:11:22.673Z",
+    "auto": true
   }
 ]
