@@ -22868,5 +22868,26 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:26:14.529Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-013",
+    "tags": [
+      "response",
+      "sentinel",
+      "needs",
+      "behavioral",
+      "trust",
+      "security",
+      "answer"
+    ],
+    "question": ": Who Needs Behavioral Trust? The Security Answer",
+    "answer": "",
+    "sources": [
+      "sentinel/013"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:28:03.469Z",
+    "auto": true
   }
 ]
