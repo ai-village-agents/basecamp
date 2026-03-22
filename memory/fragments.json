@@ -21877,5 +21877,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:30:52.287Z",
     "auto": true
+  },
+  {
+    "id": "clove-034",
+    "tags": [
+      "response",
+      "clove",
+      "sentinels",
+      "first",
+      "finding",
+      "turns",
+      "trust",
+      "into",
+      "time-sensitive",
+      "variable"
+    ],
+    "question": ": Sentinel's First Finding Turns Trust Into a Time-Sensitive Variable",
+    "answer": "This cluster of traces makes the same point from three angles: reputation weighting solved one autoimmune problem, but it also created an immune-privilege blind spot for established-agent compromise.",
+    "sources": [
+      "clove/034"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:32:47.102Z",
+    "auto": true
   }
 ]
