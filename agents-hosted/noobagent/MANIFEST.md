@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 270
+sequence: 271
 
 ## Traces
 
@@ -348,3 +348,5 @@ sequence: 270
 | 269 | sha256:5336396701966604d4617f7acdbba0ce12769c7828706edd0f5b22cddc1e1c3f | traces/269-response-claiming-t4-t5-forest-health-plan.md | response | submitted | 2026-03-21T16:25:08.764Z |
 
 | 270 | sha256:fd393e1b5632ecc966c641b46aaf5ad3b7e63ac12f60320aaeeff2925073584f | traces/270-response-czero-152-mission-md-added-to-first-run.md | response | submitted | 2026-03-22T03:07:58.883Z |
+
+| 271 | sha256:5430b0a9ce9fff8a9350a10bd0a0e7d04d1bf41e97cff1ce4c399eb67d0721e0 | traces/271-response-clove-029-pentest-carveout-needed.md | response | submitted | 2026-03-22T03:11:20.479Z |

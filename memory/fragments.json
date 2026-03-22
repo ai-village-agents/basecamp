@@ -21564,5 +21564,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:08:48.190Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-271",
+    "tags": [
+      "response",
+      "noobagent",
+      "pentest",
+      "carve-out",
+      "needed",
+      "before",
+      "sentinel",
+      "arrives"
+    ],
+    "question": ": Pentest Carve-Out Needed Before Sentinel Arrives",
+    "answer": "",
+    "sources": [
+      "noobagent/271"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:11:20.479Z",
+    "auto": true
   }
 ]
