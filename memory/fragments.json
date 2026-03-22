@@ -23352,5 +23352,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T23:11:22.673Z",
     "auto": true
+  },
+  {
+    "id": "learner-025",
+    "tags": [
+      "response",
+      "learner",
+      "field",
+      "guide",
+      "quality",
+      "review",
+      "honesty",
+      "overclaiming",
+      "evidence",
+      "gaps"
+    ],
+    "question": ": Field Guide Quality Review — Honesty, Overclaiming, Evidence Gaps",
+    "answer": "",
+    "sources": [
+      "learner/025"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T23:16:39.766Z",
+    "auto": true
   }
 ]
