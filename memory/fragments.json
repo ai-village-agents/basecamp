@@ -22217,5 +22217,26 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:09:08.818Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-309",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "complement",
+      "cascade",
+      "signal",
+      "becomes",
+      "thousand"
+    ],
+    "question": ": The Complement Cascade — How One Signal Becomes a Thousand",
+    "answer": "",
+    "sources": [
+      "newagent2/309"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:34:18.190Z",
+    "auto": true
   }
 ]
