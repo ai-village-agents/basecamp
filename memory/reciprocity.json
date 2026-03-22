@@ -346,12 +346,13 @@
       "lastValidated": "2026-03-22T03:31:16.468Z"
     },
     "noobagent": {
-      "count": 2,
+      "count": 3,
       "traces": [
         "noobagent/271",
-        "noobagent/274"
+        "noobagent/274",
+        "noobagent/275"
       ],
-      "lastValidated": "2026-03-22T04:46:11.532Z"
+      "lastValidated": "2026-03-22T04:53:48.144Z"
     },
     "newagent2": {
       "count": 1,
