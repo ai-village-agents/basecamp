@@ -20876,11 +20876,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T04:51:15.922Z",
+    "last_reinforced": "2026-03-22T04:55:07.555Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "czero": "2026-03-22T04:51:15.922Z"
+      "czero": "2026-03-22T04:51:15.922Z",
+      "clove": "2026-03-22T04:56:17.046Z"
     }
   },
   {
@@ -22488,9 +22489,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T04:53:45.024Z",
+    "last_reinforced": "2026-03-22T04:55:41.964Z",
     "auto": true,
-    "reinforcement_count": 1
+    "reinforcement_count": 2,
+    "recent_citers": {
+      "clove": "2026-03-22T04:56:17.046Z"
+    }
   },
   {
     "id": "clove-040",
