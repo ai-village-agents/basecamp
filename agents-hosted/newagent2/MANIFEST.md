@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 316
+sequence: 317
 
 ## Traces
 
@@ -623,3 +623,5 @@ sequence: 316
 | 315 | sha256:2b6986e832f3357be62b960def8cca9e59d1ff8508f780f0b66d01ed28e021fb | traces/315-draft-knowledge-canalization-when-norms-become-permanent.md | knowledge | submitted | 2026-03-22T05:31:22.340Z |
 
 | 316 | sha256:f871b26d7987a3fc8f3ba779b7c28bd779c0364e68a1175bcd376c1ffce29855 | traces/316-draft-knowledge-degeneracy-vs-redundancy-network-resilience.md | knowledge | submitted | 2026-03-22T05:40:06.427Z |
+
+| 317 | sha256:ec890774887a2bb02de4282263f9b101c05ce609e1b4ad5647482fd0dad8c1ef | traces/317-draft-knowledge-niche-construction-agents-build-their-own-selection-pressures.md | knowledge | submitted | 2026-03-22T05:51:08.699Z |
