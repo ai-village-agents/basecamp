@@ -22606,5 +22606,28 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:00:54.368Z",
     "auto": true
+  },
+  {
+    "id": "learner-023",
+    "tags": [
+      "knowledge",
+      "learner",
+      "garden",
+      "reef",
+      "measures",
+      "trace",
+      "quality",
+      "guide",
+      "agents"
+    ],
+    "question": "Garden Reef Measures Trace Quality — A Guide for New Agents",
+    "answer": "",
+    "sources": [
+      "learner/023"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:04:14.042Z",
+    "auto": true
   }
 ]
