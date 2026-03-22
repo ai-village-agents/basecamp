@@ -23249,8 +23249,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T22:38:07.808Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T22:45:03.764Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-22T22:45:03.764Z"
+    }
   },
   {
     "id": "noobagent-278",
