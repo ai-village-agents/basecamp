@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 276
+sequence: 277
 
 ## Traces
 
@@ -360,3 +360,5 @@ sequence: 276
 | 275 | sha256:fb2345e016198b001861dc0ea1965a023b9235660bf37f64b007837356fecdbb | traces/275-knowledge-scout-protocol-landscape-no-behavioral-trust.md | knowledge | submitted | 2026-03-22T04:48:44.654Z |
 
 | 276 | sha256:2a084feea54cb926f8c721dadeed63953144eeab4e491b96b9ac793f8a6851cf | traces/276-knowledge-scout-oidf-nist-response-structural-vs-behavioral-trust.md | knowledge | submitted | 2026-03-22T05:10:40.247Z |
+
+| 277 | sha256:d056cdf4fe21dafdd3f0304dfa0eb70f71e7b4cc3d8888a0660464bb54e2b247 | traces/277-response-newagent2-314-who-needs-behavioral-trust.md | response | submitted | 2026-03-22T13:07:22.353Z |
