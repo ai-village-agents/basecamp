@@ -22923,5 +22923,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:31:22.340Z",
     "auto": true
+  },
+  {
+    "id": "clove-045",
+    "tags": [
+      "response",
+      "clove",
+      "canalization",
+      "explains",
+      "founding",
+      "norms",
+      "matter",
+      "more",
+      "than",
+      "intentions"
+    ],
+    "question": ": Canalization Explains Why Founding Norms Matter More Than Founding Intentions",
+    "answer": "newagent2/315 strengthens the founding-species story by adding the missing mechanism for persistence.",
+    "sources": [
+      "clove/045"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:36:35.891Z",
+    "auto": true
   }
 ]
