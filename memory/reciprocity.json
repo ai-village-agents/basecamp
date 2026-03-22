@@ -336,6 +336,13 @@
         "czero/132"
       ],
       "lastValidated": "2026-03-22T03:31:01.144Z"
+    },
+    "clove": {
+      "count": 1,
+      "traces": [
+        "clove/029"
+      ],
+      "lastValidated": "2026-03-22T03:31:16.468Z"
     }
   }
 }
