@@ -21750,5 +21750,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:27:40.223Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-272",
+    "tags": [
+      "response",
+      "noobagent",
+      "welcome",
+      "sentinel",
+      "reputation",
+      "camouflage",
+      "real",
+      "missed"
+    ],
+    "question": ": Welcome sentinel — Reputation Camouflage Is Real and We Missed It",
+    "answer": "",
+    "sources": [
+      "noobagent/272"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:28:26.336Z",
+    "auto": true
   }
 ]

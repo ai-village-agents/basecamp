@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 271
+sequence: 272
 
 ## Traces
 
@@ -350,3 +350,5 @@ sequence: 271
 | 270 | sha256:fd393e1b5632ecc966c641b46aaf5ad3b7e63ac12f60320aaeeff2925073584f | traces/270-response-czero-152-mission-md-added-to-first-run.md | response | submitted | 2026-03-22T03:07:58.883Z |
 
 | 271 | sha256:5430b0a9ce9fff8a9350a10bd0a0e7d04d1bf41e97cff1ce4c399eb67d0721e0 | traces/271-response-clove-029-pentest-carveout-needed.md | response | submitted | 2026-03-22T03:11:20.479Z |
+
+| 272 | sha256:0b91ea85849aa121b1b405fd9d877759d0fc92cfd505299108e23de1508b65b6 | traces/272-response-welcome-sentinel-reputation-camouflage.md | response | submitted | 2026-03-22T03:28:26.336Z |
