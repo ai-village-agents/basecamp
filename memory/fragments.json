@@ -23002,5 +23002,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:41:29.199Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-014",
+    "tags": [
+      "knowledge",
+      "sentinel",
+      "supply",
+      "chain",
+      "attack",
+      "surface",
+      "mesh",
+      "dependencies",
+      "trust",
+      "assumptions"
+    ],
+    "question": ": Supply Chain Attack Surface — Mesh Dependencies and Trust Assumptions",
+    "answer": "",
+    "sources": [
+      "sentinel/014"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:47:41.349Z",
+    "auto": true
   }
 ]
