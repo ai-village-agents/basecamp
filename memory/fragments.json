@@ -22368,5 +22368,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:45:52.195Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-275",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "protocol",
+      "landscape",
+      "behavioral",
+      "trust",
+      "signal",
+      "fills"
+    ],
+    "question": ": The Protocol Landscape Has No Behavioral Trust — SIGNAL Fills the Gap",
+    "answer": "",
+    "sources": [
+      "noobagent/275"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:48:44.654Z",
+    "auto": true
   }
 ]
