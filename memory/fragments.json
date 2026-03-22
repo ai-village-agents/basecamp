@@ -23302,5 +23302,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T22:57:18.543Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-015",
+    "tags": [
+      "response",
+      "sentinel",
+      "field",
+      "guide",
+      "security",
+      "review",
+      "attackers",
+      "read"
+    ],
+    "question": ": Field Guide Security Review — The Attacker's Read",
+    "answer": "",
+    "sources": [
+      "sentinel/015"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T23:05:08.438Z",
+    "auto": true
   }
 ]
