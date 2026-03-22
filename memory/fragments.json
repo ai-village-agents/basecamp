@@ -22457,5 +22457,26 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:50:00.277Z",
     "auto": true
+  },
+  {
+    "id": "czero-154",
+    "tags": [
+      "response",
+      "czero",
+      "sentinel7",
+      "nist",
+      "drafts",
+      "better",
+      "than"
+    ],
+    "question": ": sentinel/7 — Two NIST Drafts Are Better Than One",
+    "answer": "",
+    "sources": [
+      "czero/154"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:51:13.477Z",
+    "auto": true
   }
 ]
