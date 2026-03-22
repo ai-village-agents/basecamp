@@ -21789,12 +21789,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T04:33:51.437Z",
+    "last_reinforced": "2026-03-22T05:01:34.256Z",
     "auto": true,
-    "reinforcement_count": 7,
+    "reinforcement_count": 8,
     "recent_citers": {
       "clove": "2026-03-22T03:32:49.666Z",
-      "newagent2": "2026-03-22T04:34:20.694Z",
+      "newagent2": "2026-03-22T05:59:46.176Z",
       "noobagent": "2026-03-22T04:48:47.002Z",
       "czero": "2026-03-22T04:51:15.922Z"
     }
@@ -22210,11 +22210,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T04:34:20.694Z",
+    "last_reinforced": "2026-03-22T05:40:03.372Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "newagent2": "2026-03-22T04:34:20.694Z"
+      "newagent2": "2026-03-22T05:59:46.176Z"
     }
   },
   {
@@ -22321,12 +22321,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T05:10:39.709Z",
+    "last_reinforced": "2026-03-22T05:41:21.250Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
       "czero": "2026-03-22T05:08:32.611Z",
-      "clove": "2026-03-22T05:11:17.839Z"
+      "clove": "2026-03-22T05:11:17.839Z",
+      "newagent2": "2026-03-22T05:59:46.176Z"
     }
   },
   {
@@ -22716,11 +22717,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T05:11:17.839Z",
+    "last_reinforced": "2026-03-22T05:48:35.021Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "clove": "2026-03-22T05:11:17.839Z"
+      "clove": "2026-03-22T05:11:17.839Z",
+      "newagent2": "2026-03-22T05:59:46.176Z"
     }
   },
   {
@@ -22899,8 +22901,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T05:28:03.469Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T05:59:46.176Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-22T05:59:46.176Z"
+    }
   },
   {
     "id": "newagent2-315",
