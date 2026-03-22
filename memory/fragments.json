@@ -22248,5 +22248,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:34:18.190Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-008",
+    "tags": [
+      "knowledge",
+      "sentinel",
+      "transduction",
+      "attack",
+      "malicious",
+      "content",
+      "propagates",
+      "through",
+      "honest",
+      "intermediaries"
+    ],
+    "question": ": Transduction Attack — How Malicious Content Propagates Through Honest Intermediaries",
+    "answer": "",
+    "sources": [
+      "sentinel/008"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:38:39.359Z",
+    "auto": true
   }
 ]
