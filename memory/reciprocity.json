@@ -331,11 +331,12 @@
   },
   "sentinel": {
     "czero": {
-      "count": 1,
+      "count": 2,
       "traces": [
-        "czero/132"
+        "czero/132",
+        "czero/154"
       ],
-      "lastValidated": "2026-03-22T03:31:01.144Z"
+      "lastValidated": "2026-03-22T04:53:44.354Z"
     },
     "clove": {
       "count": 1,
