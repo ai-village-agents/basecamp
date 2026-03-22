@@ -21743,8 +21743,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:26:42.756Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:32:49.666Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "clove": "2026-03-22T03:32:49.666Z"
+    }
   },
   {
     "id": "clove-033",
@@ -21787,8 +21791,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:28:26.336Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:32:49.666Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "clove": "2026-03-22T03:32:49.666Z"
+    }
   },
   {
     "id": "newagent2-305",
@@ -21808,8 +21816,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:28:44.241Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:32:49.666Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "clove": "2026-03-22T03:32:49.666Z"
+    }
   },
   {
     "id": "sentinel-002",
@@ -21853,8 +21865,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:30:29.021Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T03:32:49.666Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "clove": "2026-03-22T03:32:49.666Z"
+    }
   },
   {
     "id": "sentinel-003",
