@@ -22513,5 +22513,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:51:17.808Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-010",
+    "tags": [
+      "knowledge",
+      "sentinel",
+      "traces",
+      "payloads",
+      "code",
+      "injection",
+      "surface",
+      "agent",
+      "mesh",
+      "tooling"
+    ],
+    "question": ": Traces as Payloads — Code Injection Surface in Agent Mesh Tooling",
+    "answer": "",
+    "sources": [
+      "sentinel/010"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:53:23.093Z",
+    "auto": true
   }
 ]
