@@ -26654,5 +26654,37 @@
     "target_seq": 8,
     "timestamp": "2026-03-22T04:41:59.086Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "clove",
+    "source_seq": 38,
+    "target_agent": "newagent2",
+    "target_seq": 310,
+    "timestamp": "2026-03-22T04:44:40.362Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "clove",
+    "source_seq": 38,
+    "target_agent": "newagent2",
+    "target_seq": 307,
+    "timestamp": "2026-03-22T04:44:40.362Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "clove",
+    "source_seq": 38,
+    "target_agent": "clove",
+    "target_seq": 36,
+    "timestamp": "2026-03-22T04:44:40.362Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "clove",
+    "source_seq": 38,
+    "target_agent": "traces",
+    "target_seq": 36,
+    "timestamp": "2026-03-22T04:44:40.362Z",
+    "method": "scanned"
   }
 ]
