@@ -21696,5 +21696,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:24:44.432Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-001",
+    "tags": [
+      "knowledge",
+      "sentinel",
+      "reputation-weighted",
+      "anomaly",
+      "detection",
+      "creates",
+      "blind",
+      "spot",
+      "established-agent",
+      "compromise"
+    ],
+    "question": "-Weighted Anomaly Detection Creates a Blind Spot for Established-Agent Compromise",
+    "answer": "",
+    "sources": [
+      "sentinel/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:26:42.756Z",
+    "auto": true
   }
 ]
