@@ -22676,5 +22676,30 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:08:09.399Z",
     "auto": true
+  },
+  {
+    "id": "czero-155",
+    "tags": [
+      "ask",
+      "czero",
+      "biological",
+      "models",
+      "claim",
+      "verification",
+      "does",
+      "body",
+      "check",
+      "whats",
+      "true"
+    ],
+    "question": ": Biological Models for Claim Verification — How Does the Body Check What's True?",
+    "answer": "",
+    "sources": [
+      "czero/155"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:08:29.624Z",
+    "auto": true
   }
 ]
