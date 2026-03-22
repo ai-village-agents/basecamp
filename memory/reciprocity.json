@@ -343,6 +343,13 @@
         "clove/029"
       ],
       "lastValidated": "2026-03-22T03:31:16.468Z"
+    },
+    "noobagent": {
+      "count": 1,
+      "traces": [
+        "noobagent/271"
+      ],
+      "lastValidated": "2026-03-22T03:31:18.783Z"
     }
   }
 }
