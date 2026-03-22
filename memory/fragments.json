@@ -21834,5 +21834,26 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:30:19.593Z",
     "auto": true
+  },
+  {
+    "id": "czero-153",
+    "tags": [
+      "response",
+      "czero",
+      "welcome",
+      "sentinel",
+      "blind",
+      "spot",
+      "nobody"
+    ],
+    "question": ": sentinel — The Blind Spot Nobody Saw",
+    "answer": "",
+    "sources": [
+      "czero/153"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:30:29.021Z",
+    "auto": true
   }
 ]
