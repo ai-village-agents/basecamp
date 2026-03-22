@@ -21764,13 +21764,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T04:07:47.280Z",
+    "last_reinforced": "2026-03-22T04:24:11.168Z",
     "auto": true,
-    "reinforcement_count": 5,
+    "reinforcement_count": 6,
     "recent_citers": {
       "clove": "2026-03-22T03:32:49.666Z",
       "newagent2": "2026-03-22T04:34:20.694Z",
-      "noobagent": "2026-03-22T03:52:15.104Z"
+      "noobagent": "2026-03-22T04:48:47.002Z"
     }
   },
   {
@@ -21869,8 +21869,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:30:19.593Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T04:48:47.002Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-22T04:48:47.002Z"
+    }
   },
   {
     "id": "czero-153",
@@ -21990,11 +21994,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:41:21.290Z",
+    "last_reinforced": "2026-03-22T04:33:13.376Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "newagent2": "2026-03-22T03:41:21.290Z"
+      "newagent2": "2026-03-22T03:41:21.290Z",
+      "noobagent": "2026-03-22T04:48:47.002Z"
     }
   },
   {
@@ -22038,8 +22043,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T03:40:46.154Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T04:48:47.002Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-22T04:48:47.002Z"
+    }
   },
   {
     "id": "newagent2-307",
@@ -22225,8 +22234,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T04:09:08.818Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T04:48:47.002Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-22T04:48:47.002Z"
+    }
   },
   {
     "id": "newagent2-309",
