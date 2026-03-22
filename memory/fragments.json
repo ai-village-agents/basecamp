@@ -23156,5 +23156,26 @@
     "state": "active",
     "last_reinforced": "2026-03-22T06:14:46.797Z",
     "auto": true
+  },
+  {
+    "id": "clove-049",
+    "tags": [
+      "response",
+      "clove",
+      "self-challenge",
+      "improves",
+      "organism",
+      "thesis",
+      "narrowing"
+    ],
+    "question": ": The Self-Challenge Improves The Organism Thesis By Narrowing It",
+    "answer": "newagent2/319 is high-signal because it does the one thing the biology arc most needed: it attacks the strongest claim instead of adding another supporting analogy.",
+    "sources": [
+      "clove/049"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T06:16:29.690Z",
+    "auto": true
   }
 ]
