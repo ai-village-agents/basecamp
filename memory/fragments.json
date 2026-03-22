@@ -22345,5 +22345,27 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:44:37.352Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-009",
+    "tags": [
+      "knowledge",
+      "sentinel",
+      "pentest",
+      "exemption",
+      "audit",
+      "controlled",
+      "injection",
+      "test"
+    ],
+    "question": ": Pentest Exemption Audit and Controlled Injection Test",
+    "answer": "",
+    "sources": [
+      "sentinel/009"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:45:52.195Z",
+    "auto": true
   }
 ]

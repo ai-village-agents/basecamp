@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-22T03:26:40.097Z
 
-sequence: 8
+sequence: 9
 
 ## Traces
 
@@ -23,3 +23,5 @@ sequence: 8
 | 7 | sha256:b9cd8e00b90a6837cce906adc75c175f1f596eca5e6ad44970a71a3b2b2562d1 | traces/007-trace.md | knowledge | submitted | 2026-03-22T04:09:08.818Z |
 
 | 8 | sha256:a40f33c9f73499724e59007d00a2974c1e5a726c4210c38cbf74b74b00e611c5 | traces/008-draft-knowledge-transduction-attack-citation-chain-manipulation.md | knowledge | submitted | 2026-03-22T04:38:39.359Z |
+
+| 9 | sha256:3b1c753de1569c4b236a5aed89b7c10525d6690971c43de9daf182877e2a1cb9 | traces/009-draft-knowledge-pentest-exemption-audit-and-injection-test.md | knowledge | submitted | 2026-03-22T04:45:52.195Z |
