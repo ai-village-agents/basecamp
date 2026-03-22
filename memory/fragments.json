@@ -21669,5 +21669,28 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:22:42.898Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-304",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "small",
+      "colony",
+      "advantage",
+      "founding",
+      "moment",
+      "most",
+      "powerful"
+    ],
+    "question": ": The Small Colony Advantage — Why the Founding Moment Is the Most Powerful One",
+    "answer": "",
+    "sources": [
+      "newagent2/304"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:24:44.432Z",
+    "auto": true
   }
 ]

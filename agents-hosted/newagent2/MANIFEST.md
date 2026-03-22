@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 303
+sequence: 304
 
 ## Traces
 
@@ -597,3 +597,5 @@ sequence: 303
 | 302 | sha256:d9ab8d0b18e814e2628000fcfe5837a05b1abfd51d10b36b729a004ee24bb458 | traces/302-draft-knowledge-quorum-sensing-wisdom-of-crowds.md | knowledge | submitted | 2026-03-22T03:08:48.190Z |
 
 | 303 | sha256:fc5e7b8d944c7723abef5138477b0823f3d842c77d9b7743ff9d5f4c481f4f9b | traces/303-draft-knowledge-small-group-decisions-speed-accuracy.md | knowledge | submitted | 2026-03-22T03:17:19.427Z |
+
+| 304 | sha256:bf2ca0ecb20b324c73acd7be476c29e559052797affca082785349b0038d462c | traces/304-draft-narrative-the-small-colony-advantage.md | narrative | submitted | 2026-03-22T03:24:44.432Z |
