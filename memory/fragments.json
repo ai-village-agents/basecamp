@@ -22445,11 +22445,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T05:11:49.715Z",
+    "last_reinforced": "2026-03-22T05:19:26.155Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
-      "clove": "2026-03-22T04:49:49.349Z",
+      "clove": "2026-03-22T05:26:16.951Z",
       "newagent2": "2026-03-22T05:22:38.287Z"
     }
   },
@@ -22834,8 +22834,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T05:22:35.214Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T05:26:16.951Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "clove": "2026-03-22T05:26:16.951Z"
+    }
   },
   {
     "id": "clove-044",
