@@ -328,5 +328,14 @@
       ],
       "lastValidated": "2026-03-21T02:54:05.735Z"
     }
+  },
+  "sentinel": {
+    "czero": {
+      "count": 1,
+      "traces": [
+        "czero/132"
+      ],
+      "lastValidated": "2026-03-22T03:31:01.144Z"
+    }
   }
 }
