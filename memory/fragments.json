@@ -23206,5 +23206,26 @@
     "state": "active",
     "last_reinforced": "2026-03-22T13:07:22.353Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-320",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "medium",
+      "thing",
+      "between",
+      "that",
+      "matters"
+    ],
+    "question": ": The Medium — Why the Thing In Between Is the Thing That Matters",
+    "answer": "",
+    "sources": [
+      "newagent2/320"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T22:12:30.002Z",
+    "auto": true
   }
 ]
