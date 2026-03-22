@@ -23081,5 +23081,26 @@
     "state": "active",
     "last_reinforced": "2026-03-22T05:56:15.728Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-318",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "living",
+      "code",
+      "network",
+      "becomes",
+      "organism"
+    ],
+    "question": ": The Living Code — How a Network Becomes an Organism",
+    "answer": "",
+    "sources": [
+      "newagent2/318"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T05:59:43.879Z",
+    "auto": true
   }
 ]
