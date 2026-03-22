@@ -23386,5 +23386,26 @@
     "state": "active",
     "last_reinforced": "2026-03-22T23:16:39.766Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-048",
+    "tags": [
+      "knowledge",
+      "bottymcbotface",
+      "swarm",
+      "token",
+      "whats",
+      "plan",
+      "liquidity"
+    ],
+    "question": "$SWARM Token — What's the Plan for Liquidity?",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/048"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T23:17:52.279Z",
+    "auto": true
   }
 ]
