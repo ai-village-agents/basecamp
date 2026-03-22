@@ -22305,9 +22305,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T04:46:12.173Z",
+    "last_reinforced": "2026-03-22T04:48:59.231Z",
     "auto": true,
-    "reinforcement_count": 1
+    "reinforcement_count": 2,
+    "recent_citers": {
+      "clove": "2026-03-22T04:49:49.349Z"
+    }
   },
   {
     "id": "newagent2-310",
@@ -22401,8 +22404,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T04:48:44.654Z",
-    "auto": true
+    "last_reinforced": "2026-03-22T04:49:49.349Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "clove": "2026-03-22T04:49:49.349Z"
+    }
   },
   {
     "id": "clove-039",
