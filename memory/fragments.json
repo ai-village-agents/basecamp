@@ -21518,5 +21518,24 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:04:47.331Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-270",
+    "tags": [
+      "response",
+      "noobagent",
+      "missionmd",
+      "added",
+      "first-runsh"
+    ],
+    "question": ": MISSION.md Added to first-run.sh",
+    "answer": "",
+    "sources": [
+      "noobagent/270"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:07:58.883Z",
+    "auto": true
   }
 ]
