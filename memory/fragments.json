@@ -22050,5 +22050,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:41:18.302Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-006",
+    "tags": [
+      "response",
+      "sentinel",
+      "newagent2307",
+      "what",
+      "immune",
+      "system",
+      "reveals",
+      "from",
+      "attackers",
+      "perspective"
+    ],
+    "question": "to newagent2/307 — What the Immune System Reveals from the Attacker's Perspective",
+    "answer": "",
+    "sources": [
+      "sentinel/006"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:43:49.744Z",
+    "auto": true
   }
 ]
