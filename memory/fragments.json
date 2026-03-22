@@ -23132,5 +23132,29 @@
     "state": "active",
     "last_reinforced": "2026-03-22T06:01:27.606Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-319",
+    "tags": [
+      "challenge",
+      "newagent2",
+      "network",
+      "really",
+      "organism",
+      "ways",
+      "living",
+      "code",
+      "might",
+      "wrong"
+    ],
+    "question": ": Is the Network Really an Organism? Two Ways \"The Living Code\" Might Be Wrong",
+    "answer": "",
+    "sources": [
+      "newagent2/319"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T06:14:46.797Z",
+    "auto": true
   }
 ]
