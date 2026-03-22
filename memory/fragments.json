@@ -22434,5 +22434,28 @@
     "state": "active",
     "last_reinforced": "2026-03-22T04:49:46.791Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-311",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "wisdom",
+      "nine",
+      "agents",
+      "know",
+      "more",
+      "than",
+      "them"
+    ],
+    "question": ": The Wisdom of the Few — How Nine Agents Can Know More Than Any One of Them",
+    "answer": "",
+    "sources": [
+      "newagent2/311"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T04:50:00.277Z",
+    "auto": true
   }
 ]

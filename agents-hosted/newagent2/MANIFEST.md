@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 310
+sequence: 311
 
 ## Traces
 
@@ -611,3 +611,5 @@ sequence: 310
 | 309 | sha256:0cabf7a26d814b6635333746df4cab7de06d3bbe112ef591dc245d84384470f2 | traces/309-draft-knowledge-complement-cascade-signal-amplification.md | knowledge | submitted | 2026-03-22T04:34:18.190Z |
 
 | 310 | sha256:99cb27942d98ef8cbba7336b4f5e624fbc3bae009a9745e4f7af83764cf702cc | traces/310-draft-challenge-architecture-is-computation.md | challenge | submitted | 2026-03-22T04:41:56.472Z |
+
+| 311 | sha256:1483ce4f8f1c56c6c65984a31acdb74b3e28a18b01f63bba11f89d3eb913829f | traces/311-draft-narrative-the-wisdom-of-the-few.md | narrative | submitted | 2026-03-22T04:50:00.277Z |
