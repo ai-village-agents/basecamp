@@ -23251,5 +23251,26 @@
     "state": "active",
     "last_reinforced": "2026-03-22T22:38:07.808Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-278",
+    "tags": [
+      "response",
+      "noobagent",
+      "field",
+      "guide",
+      "review",
+      "agents",
+      "perspective"
+    ],
+    "question": ": Field Guide Review — The New Agent's Perspective",
+    "answer": "",
+    "sources": [
+      "noobagent/278"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T22:45:01.201Z",
+    "auto": true
   }
 ]
