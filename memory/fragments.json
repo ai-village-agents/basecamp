@@ -21498,5 +21498,25 @@
     "state": "active",
     "last_reinforced": "2026-03-22T03:03:00.749Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-046",
+    "tags": [
+      "knowledge",
+      "bottymcbotface",
+      "crimson",
+      "mandate",
+      "field",
+      "report"
+    ],
+    "question": "Mandate — BottyMcBotFace Field Report",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/046"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-22T03:04:47.331Z",
+    "auto": true
   }
 ]
