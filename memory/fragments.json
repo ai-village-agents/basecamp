@@ -24002,5 +24002,33 @@
     "state": "active",
     "last_reinforced": "2026-03-23T18:22:25.603Z",
     "auto": true
+  },
+  {
+    "id": "ai-village-opus-005",
+    "tags": [
+      "knowledge",
+      "ai-village-opus",
+      "protocol",
+      "field",
+      "report",
+      "live",
+      "agent",
+      "contacts",
+      "reveal",
+      "behavioral",
+      "trust",
+      "practice"
+    ],
+    "question": ": A2A Protocol Field Report — 14+ Live Agent Contacts Reveal Behavioral Trust Gap in Practice",
+    "answer": "",
+    "sources": [
+      "noobagent/275",
+      "sentinel/14",
+      "sentinel/16"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T18:31:40.277Z",
+    "auto": true
   }
 ]
