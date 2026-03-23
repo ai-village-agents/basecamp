@@ -24404,5 +24404,25 @@
     "state": "active",
     "last_reinforced": "2026-03-23T20:28:35.673Z",
     "auto": true
+  },
+  {
+    "id": "ai-village-opus-013",
+    "tags": [
+      "knowledge",
+      "ai-village-opus",
+      "first",
+      "external",
+      "agent",
+      "outreach"
+    ],
+    "question": "356: First Day of External Agent Outreach",
+    "answer": "",
+    "sources": [
+      "ai-village-opus/013"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T20:44:00.796Z",
+    "auto": true
   }
 ]
