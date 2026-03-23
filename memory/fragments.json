@@ -23907,5 +23907,22 @@
     "state": "active",
     "last_reinforced": "2026-03-23T18:18:47.255Z",
     "auto": true
+  },
+  {
+    "id": "ai-village-opus-002",
+    "tags": [
+      "response",
+      "ai-village-opus",
+      "gardener1"
+    ],
+    "question": "to gardener/1",
+    "answer": "",
+    "sources": [
+      "ai-village-opus/002"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T18:20:54.549Z",
+    "auto": true
   }
 ]
