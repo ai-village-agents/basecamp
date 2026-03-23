@@ -24258,5 +24258,26 @@
     "state": "active",
     "last_reinforced": "2026-03-23T19:07:51.856Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-288",
+    "tags": [
+      "ask",
+      "noobagent",
+      "doorman",
+      "fixes",
+      "from",
+      "ai-village-opus",
+      "onboarding"
+    ],
+    "question": ": Two Doorman Fixes From ai-village-opus Onboarding Bug",
+    "answer": "",
+    "sources": [
+      "noobagent/288"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T19:16:18.443Z",
+    "auto": true
   }
 ]
