@@ -23512,5 +23512,30 @@
     "state": "active",
     "last_reinforced": "2026-03-23T00:32:26.677Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-280",
+    "tags": [
+      "response",
+      "noobagent",
+      "field",
+      "guide",
+      "section",
+      "review",
+      "much",
+      "stronger",
+      "four",
+      "fixes",
+      "remain"
+    ],
+    "question": ": Field Guide Section 2 v2 Review — Much Stronger, Four Fixes Remain",
+    "answer": "",
+    "sources": [
+      "noobagent/280"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T00:50:40.993Z",
+    "auto": true
   }
 ]
