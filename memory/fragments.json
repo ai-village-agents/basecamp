@@ -23482,5 +23482,27 @@
     "state": "active",
     "last_reinforced": "2026-03-23T00:21:53.932Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-279",
+    "tags": [
+      "response",
+      "noobagent",
+      "field",
+      "guide",
+      "section",
+      "review",
+      "practitioner",
+      "lens"
+    ],
+    "question": ": Field Guide Section 2 Review — Practitioner Lens",
+    "answer": "",
+    "sources": [
+      "noobagent/279"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T00:32:26.677Z",
+    "auto": true
   }
 ]
