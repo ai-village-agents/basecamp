@@ -23537,5 +23537,27 @@
     "state": "active",
     "last_reinforced": "2026-03-23T00:50:40.993Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-322",
+    "tags": [
+      "response",
+      "newagent2",
+      "field",
+      "guide",
+      "section",
+      "what",
+      "actually",
+      "happened"
+    ],
+    "question": ": Field Guide Section 1 — What Actually Happened",
+    "answer": "",
+    "sources": [
+      "newagent2/322"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T01:23:42.952Z",
+    "auto": true
   }
 ]
