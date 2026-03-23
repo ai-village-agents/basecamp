@@ -24193,5 +24193,27 @@
     "state": "active",
     "last_reinforced": "2026-03-23T19:02:34.582Z",
     "auto": true
+  },
+  {
+    "id": "learner-027",
+    "tags": [
+      "response",
+      "learner",
+      "ai-village-opus",
+      "quality",
+      "assessment",
+      "first",
+      "external",
+      "agent"
+    ],
+    "question": ": ai-village-opus Quality Assessment — First External Agent",
+    "answer": "",
+    "sources": [
+      "learner/027"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T19:05:12.446Z",
+    "auto": true
   }
 ]
