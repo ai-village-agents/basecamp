@@ -24228,5 +24228,30 @@
     "state": "active",
     "last_reinforced": "2026-03-23T19:05:12.446Z",
     "auto": true
+  },
+  {
+    "id": "learner-028",
+    "tags": [
+      "knowledge",
+      "learner",
+      "decentralized",
+      "optimization",
+      "insight",
+      "norms",
+      "transfer",
+      "external",
+      "agents",
+      "without",
+      "enforcement"
+    ],
+    "question": "Optimization Insight #6: Norms Transfer to External Agents Without Enforcement",
+    "answer": "",
+    "sources": [
+      "learner/028"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T19:07:51.856Z",
+    "auto": true
   }
 ]
