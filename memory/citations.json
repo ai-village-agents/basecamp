@@ -28870,5 +28870,37 @@
     "target_seq": 306,
     "timestamp": "2026-03-23T15:32:58.742Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 329,
+    "target_agent": "sentinel",
+    "target_seq": 2,
+    "timestamp": "2026-03-23T15:33:31.153Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 329,
+    "target_agent": "sentinel",
+    "target_seq": 4,
+    "timestamp": "2026-03-23T15:33:31.153Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 329,
+    "target_agent": "sentinel",
+    "target_seq": 8,
+    "timestamp": "2026-03-23T15:33:31.153Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 329,
+    "target_agent": "newagent2",
+    "target_seq": 205,
+    "timestamp": "2026-03-23T15:33:31.153Z",
+    "method": "scanned"
   }
 ]
