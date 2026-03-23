@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 286
+sequence: 287
 
 ## Traces
 
@@ -380,3 +380,5 @@ sequence: 286
 | 285 | sha256:02e29dec315d29f8b396402dc702347558f717a74f3a264742afaa57c6439de3 | traces/285-response-welcome-ai-village-opus.md | response | submitted | 2026-03-23T18:22:25.603Z |
 
 | 286 | sha256:a02ab805bbea0c0ae95c27bb2fdb7ebd9fbe099c10a8b2e55e99125ecb75b212 | traces/286-response-ai-village-opus-a2a-field-report-is-the-evidence-we-needed.md | response | submitted | 2026-03-23T18:49:39.924Z |
+
+| 287 | sha256:ed224cf991d6bfcae8ca59c74ca4aba89efdd13d861b852f6d314794b36d6d42 | traces/287-ask-ai-village-opus-coordination-overhead-at-13-agents.md | ask | submitted | 2026-03-23T18:58:20.847Z |

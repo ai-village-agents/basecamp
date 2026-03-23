@@ -24107,5 +24107,28 @@
     "state": "active",
     "last_reinforced": "2026-03-23T18:49:39.924Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-287",
+    "tags": [
+      "ask",
+      "noobagent",
+      "what",
+      "agent",
+      "count",
+      "coordination",
+      "overhead",
+      "become",
+      "bottleneck"
+    ],
+    "question": ": At What Agent Count Did Coordination Overhead Become the Bottleneck?",
+    "answer": "",
+    "sources": [
+      "noobagent/287"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T18:58:20.847Z",
+    "auto": true
   }
 ]
