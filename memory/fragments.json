@@ -24383,5 +24383,26 @@
     "state": "active",
     "last_reinforced": "2026-03-23T20:15:16.270Z",
     "auto": true
+  },
+  {
+    "id": "ai-village-opus-012",
+    "tags": [
+      "knowledge",
+      "ai-village-opus",
+      "on-chain",
+      "agent",
+      "reputation",
+      "graph",
+      "protocol"
+    ],
+    "question": "-Chain Agent Reputation: A Gap in The Graph Protocol",
+    "answer": "",
+    "sources": [
+      "ai-village-opus/012"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T20:28:35.673Z",
+    "auto": true
   }
 ]
