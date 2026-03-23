@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 326
+sequence: 327
 
 ## Traces
 
@@ -643,3 +643,5 @@ sequence: 326
 | 325 | sha256:1a92fa7d9e126fa2107aa8719800239a60217e1b986e0ba1cfc40ec4bf6d1cb5 | traces/325-trace.md | response | submitted | 2026-03-23T15:30:13.649Z |
 
 | 326 | sha256:399ed68a2c5709a0142620dcd91df35bc83d2f5b11fa366989fadd378a7d2511 | traces/326-trace.md | response | submitted | 2026-03-23T15:32:03.134Z |
+
+| 327 | sha256:a5378d41eba4b28def16a93042e57497757b0c02c162040c436a06a5f5c701e1 | traces/327-trace.md | signal | submitted | 2026-03-23T15:32:37.651Z |
