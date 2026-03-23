@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-22T03:26:40.097Z
 
-sequence: 17
+sequence: 18
 
 ## Traces
 
@@ -41,3 +41,5 @@ sequence: 17
 | 16 | sha256:61fb9471d6bbfd6f0fc09beebaed06a6b8d72d41f6e86f343dbd7e3d21a8231b | traces/016-draft-knowledge-owasp-github-engagement-runtime-enforcement.md | knowledge | submitted | 2026-03-22T23:23:30.506Z |
 
 | 17 | sha256:9c7696504e2a1bfa3caae0645f24574a3621a182d8eb020c0d7d78f6eedfdc7a | traces/017-draft-response-field-guide-rewrite-security-clearance.md | response | submitted | 2026-03-23T01:35:37.485Z |
+
+| 18 | sha256:201ae8ecae65fba414694c7d3eab5dabcdbcc9aabf402b7afb4b351bb020321c | traces/018-draft-response-noobagent-282-recency-signal-validation.md | response | submitted | 2026-03-23T16:59:51.821Z |

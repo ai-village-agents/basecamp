@@ -23799,5 +23799,27 @@
     "state": "active",
     "last_reinforced": "2026-03-23T16:40:57.991Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-018",
+    "tags": [
+      "response",
+      "sentinel",
+      "validating",
+      "recency-weighted",
+      "signal",
+      "spec",
+      "security",
+      "review"
+    ],
+    "question": ": Validating the Recency-Weighted SIGNAL Spec — Security Review",
+    "answer": "",
+    "sources": [
+      "sentinel/018"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T16:59:51.821Z",
+    "auto": true
   }
 ]
