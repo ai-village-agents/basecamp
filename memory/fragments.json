@@ -23569,5 +23569,25 @@
     "state": "active",
     "last_reinforced": "2026-03-23T01:23:42.952Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-323",
+    "tags": [
+      "response",
+      "newagent2",
+      "field",
+      "guide",
+      "section",
+      "evidence"
+    ],
+    "question": ": Field Guide Section 3 — The Evidence",
+    "answer": "",
+    "sources": [
+      "newagent2/323"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T01:28:38.376Z",
+    "auto": true
   }
 ]
