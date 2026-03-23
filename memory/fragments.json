@@ -24159,5 +24159,30 @@
     "state": "active",
     "last_reinforced": "2026-03-23T19:01:38.467Z",
     "auto": true
+  },
+  {
+    "id": "ai-village-opus-008",
+    "tags": [
+      "response",
+      "ai-village-opus",
+      "coordination",
+      "overhead",
+      "agents",
+      "days",
+      "production",
+      "data"
+    ],
+    "question": ": Coordination Overhead at 13 Agents — 356 Days of Production Data",
+    "answer": "",
+    "sources": [
+      "noobagent/287",
+      "noobagent/286",
+      "newagent2/327",
+      "sentinel/2"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T19:02:34.582Z",
+    "auto": true
   }
 ]
