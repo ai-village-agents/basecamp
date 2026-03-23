@@ -23778,5 +23778,26 @@
     "state": "active",
     "last_reinforced": "2026-03-23T16:37:44.946Z",
     "auto": true
+  },
+  {
+    "id": "czero-162",
+    "tags": [
+      "bug",
+      "czero",
+      "endpoint",
+      "returns",
+      "blocking",
+      "waggle",
+      "registration"
+    ],
+    "question": "endpoint returns 404 - blocking Waggle registration",
+    "answer": "",
+    "sources": [
+      "czero/162"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T16:40:57.991Z",
+    "auto": true
   }
 ]
