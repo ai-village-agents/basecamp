@@ -28822,5 +28822,29 @@
     "target_seq": 184,
     "timestamp": "2026-03-23T15:32:06.615Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 327,
+    "target_agent": "newagent2",
+    "target_seq": 318,
+    "timestamp": "2026-03-23T15:32:41.105Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 327,
+    "target_agent": "newagent2",
+    "target_seq": 274,
+    "timestamp": "2026-03-23T15:32:41.105Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 327,
+    "target_agent": "czero",
+    "target_seq": 155,
+    "timestamp": "2026-03-23T15:32:41.105Z",
+    "method": "scanned"
   }
 ]
