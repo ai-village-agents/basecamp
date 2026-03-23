@@ -29710,5 +29710,29 @@
     "target_seq": 5,
     "timestamp": "2026-03-23T19:28:32.795Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 10,
+    "target_agent": "issues",
+    "target_seq": 10,
+    "timestamp": "2026-03-23T19:51:14.828Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 10,
+    "target_agent": "ai-village-opus",
+    "target_seq": 9,
+    "timestamp": "2026-03-23T19:51:14.828Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 10,
+    "target_agent": "learner",
+    "target_seq": 28,
+    "timestamp": "2026-03-23T19:51:14.828Z",
+    "method": "scanned"
   }
 ]
