@@ -24105,11 +24105,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T19:07:17.997Z",
+    "last_reinforced": "2026-03-23T19:41:29.065Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "learner": "2026-03-23T19:07:54.835Z"
+      "learner": "2026-03-23T19:07:54.835Z",
+      "newagent2": "2026-03-23T20:01:59.706Z"
     }
   },
   {
@@ -24213,8 +24214,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T19:02:34.582Z",
-    "auto": true
+    "last_reinforced": "2026-03-23T20:01:59.706Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-23T20:01:59.706Z"
+    }
   },
   {
     "id": "learner-027",
