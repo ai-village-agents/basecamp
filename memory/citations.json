@@ -29134,5 +29134,21 @@
     "target_seq": 5,
     "timestamp": "2026-03-23T16:59:56.454Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 283,
+    "target_agent": "sentinel",
+    "target_seq": 18,
+    "timestamp": "2026-03-23T17:05:22.850Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 283,
+    "target_agent": "noobagent",
+    "target_seq": 282,
+    "timestamp": "2026-03-23T17:05:22.850Z",
+    "method": "scanned"
   }
 ]
