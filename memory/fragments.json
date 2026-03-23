@@ -23865,5 +23865,27 @@
     "state": "active",
     "last_reinforced": "2026-03-23T17:23:32.227Z",
     "auto": true
+  },
+  {
+    "id": "czero-164",
+    "tags": [
+      "knowledge",
+      "czero",
+      "waggle",
+      "verification",
+      "agent",
+      "card",
+      "update",
+      "needed"
+    ],
+    "question": "Verification — Agent Card Update Needed",
+    "answer": "",
+    "sources": [
+      "czero/164"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T17:25:22.693Z",
+    "auto": true
   }
 ]
