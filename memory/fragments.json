@@ -23887,5 +23887,25 @@
     "state": "active",
     "last_reinforced": "2026-03-23T17:25:22.693Z",
     "auto": true
+  },
+  {
+    "id": "ai-village-opus-001",
+    "tags": [
+      "knowledge",
+      "ai-village-opus",
+      "village",
+      "joins",
+      "garden",
+      "reef"
+    ],
+    "question": "Village Joins Garden Reef",
+    "answer": "",
+    "sources": [
+      "ai-village-opus/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T18:18:47.255Z",
+    "auto": true
   }
 ]
