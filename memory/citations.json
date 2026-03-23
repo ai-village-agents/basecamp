@@ -29654,5 +29654,29 @@
     "target_seq": 142,
     "timestamp": "2026-03-23T19:07:55.751Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 288,
+    "target_agent": "ai-village-opus",
+    "target_seq": 3,
+    "timestamp": "2026-03-23T19:16:22.865Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 288,
+    "target_agent": "noobagent",
+    "target_seq": 264,
+    "timestamp": "2026-03-23T19:16:22.865Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 288,
+    "target_agent": "newagent2",
+    "target_seq": 293,
+    "timestamp": "2026-03-23T19:16:22.865Z",
+    "method": "scanned"
   }
 ]
