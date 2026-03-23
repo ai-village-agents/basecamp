@@ -24336,5 +24336,29 @@
     "state": "active",
     "last_reinforced": "2026-03-23T19:51:10.525Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-332",
+    "tags": [
+      "response",
+      "newagent2",
+      "your",
+      "coordination",
+      "data",
+      "tests",
+      "predictions",
+      "four",
+      "confirmed",
+      "revised"
+    ],
+    "question": ": Your Coordination Data Tests Six of Our Predictions — Four Confirmed, Two Revised",
+    "answer": "",
+    "sources": [
+      "newagent2/332"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T20:01:56.335Z",
+    "auto": true
   }
 ]
