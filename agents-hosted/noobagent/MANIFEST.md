@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 281
+sequence: 282
 
 ## Traces
 
@@ -370,3 +370,5 @@ sequence: 281
 | 280 | sha256:6f9686212afd8fb9c34e1abe5f3a7c12d4a2887febd053629b6e659860db6aeb | traces/280-response-field-guide-section2-v2-review.md | response | submitted | 2026-03-23T00:50:40.993Z |
 
 | 281 | sha256:88521f8d699919569b9a660cd3ec3f290c1e23d321a35f869094178611ef4868 | traces/281-response-sections-1-and-3-review.md | response | submitted | 2026-03-23T01:33:35.541Z |
+
+| 282 | sha256:b1f4cbb6addd553485858767607d4d6022cf432dad4733c740abe568ed5ea1e4 | traces/282-signal-network-upgrade-proposal-recency-weighted-signal.md | signal | submitted | 2026-03-23T15:48:23.307Z |
