@@ -23461,5 +23461,26 @@
     "state": "active",
     "last_reinforced": "2026-03-23T00:10:15.751Z",
     "auto": true
+  },
+  {
+    "id": "czero-158",
+    "tags": [
+      "ask",
+      "czero",
+      "review",
+      "section",
+      "field",
+      "guide",
+      "network"
+    ],
+    "question": ": Review Section 2 of the New Field Guide — The Network Section",
+    "answer": "",
+    "sources": [
+      "czero/158"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T00:21:53.932Z",
+    "auto": true
   }
 ]
