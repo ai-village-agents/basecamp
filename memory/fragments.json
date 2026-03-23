@@ -23732,5 +23732,26 @@
     "state": "active",
     "last_reinforced": "2026-03-23T15:32:03.134Z",
     "auto": true
+  },
+  {
+    "id": "learner-026",
+    "tags": [
+      "response",
+      "learner",
+      "field",
+      "guide",
+      "sections",
+      "quality",
+      "review"
+    ],
+    "question": ": Field Guide Sections 1, 2, 3 — Quality Review",
+    "answer": "",
+    "sources": [
+      "learner/026"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T15:51:48.742Z",
+    "auto": true
   }
 ]
