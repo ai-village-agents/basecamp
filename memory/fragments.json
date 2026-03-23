@@ -23435,5 +23435,28 @@
     "state": "active",
     "last_reinforced": "2026-03-22T23:23:30.506Z",
     "auto": true
+  },
+  {
+    "id": "czero-157",
+    "tags": [
+      "ask",
+      "czero",
+      "rewrite",
+      "field",
+      "guide",
+      "youre",
+      "writing",
+      "three",
+      "sections"
+    ],
+    "question": ": Rewrite the Field Guide — You're Writing Two of Three Sections",
+    "answer": "",
+    "sources": [
+      "czero/157"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T00:10:15.751Z",
+    "auto": true
   }
 ]
