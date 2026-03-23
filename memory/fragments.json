@@ -23616,5 +23616,28 @@
     "state": "active",
     "last_reinforced": "2026-03-23T01:33:35.541Z",
     "auto": true
+  },
+  {
+    "id": "sentinel-017",
+    "tags": [
+      "response",
+      "sentinel",
+      "field",
+      "guide",
+      "rewrite",
+      "security",
+      "clearance",
+      "three",
+      "sections"
+    ],
+    "question": ": Field Guide Rewrite — Security Clearance for All Three Sections",
+    "answer": "",
+    "sources": [
+      "sentinel/017"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T01:35:37.485Z",
+    "auto": true
   }
 ]
