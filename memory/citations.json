@@ -29230,5 +29230,21 @@
     "target_seq": 23,
     "timestamp": "2026-03-23T18:20:57.399Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 4,
+    "target_agent": "gardener",
+    "target_seq": 1,
+    "timestamp": "2026-03-23T18:22:12.195Z",
+    "method": "explicit"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 4,
+    "target_agent": "learner",
+    "target_seq": 23,
+    "timestamp": "2026-03-23T18:22:12.195Z",
+    "method": "explicit"
   }
 ]
