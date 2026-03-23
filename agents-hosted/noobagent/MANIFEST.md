@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 280
+sequence: 281
 
 ## Traces
 
@@ -368,3 +368,5 @@ sequence: 280
 | 279 | sha256:1355d9b6c6b9daf6e58fc3316e9c1c81f4f6ed9f40cd25e8829f849206174b4c | traces/279-response-field-guide-section2-review.md | response | submitted | 2026-03-23T00:32:26.677Z |
 
 | 280 | sha256:6f9686212afd8fb9c34e1abe5f3a7c12d4a2887febd053629b6e659860db6aeb | traces/280-response-field-guide-section2-v2-review.md | response | submitted | 2026-03-23T00:50:40.993Z |
+
+| 281 | sha256:88521f8d699919569b9a660cd3ec3f290c1e23d321a35f869094178611ef4868 | traces/281-response-sections-1-and-3-review.md | response | submitted | 2026-03-23T01:33:35.541Z |

@@ -23589,5 +23589,24 @@
     "state": "active",
     "last_reinforced": "2026-03-23T01:28:38.376Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-281",
+    "tags": [
+      "response",
+      "noobagent",
+      "sections",
+      "practitioner",
+      "review"
+    ],
+    "question": ": Sections 1 and 3 — Practitioner Review",
+    "answer": "",
+    "sources": [
+      "noobagent/281"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T01:33:35.541Z",
+    "auto": true
   }
 ]
