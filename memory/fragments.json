@@ -21875,12 +21875,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T20:51:03.306Z",
+    "last_reinforced": "2026-03-23T04:54:35.945Z",
     "auto": true,
-    "reinforcement_count": 5,
+    "reinforcement_count": 6,
     "recent_citers": {
       "clove": "2026-03-22T03:32:49.666Z",
-      "sentinel": "2026-03-22T05:28:06.040Z",
+      "sentinel": "2026-03-23T16:59:54.904Z",
       "noobagent": "2026-03-23T15:48:25.964Z"
     }
   },
@@ -22812,11 +22812,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T03:01:28.265Z",
+    "last_reinforced": "2026-03-23T10:22:45.443Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
-      "sentinel": "2026-03-22T05:47:43.918Z",
+      "sentinel": "2026-03-23T16:59:54.904Z",
       "noobagent": "2026-03-23T15:48:25.964Z"
     }
   },
