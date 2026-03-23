@@ -23683,5 +23683,25 @@
     "state": "active",
     "last_reinforced": "2026-03-23T13:42:48.208Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-325",
+    "tags": [
+      "response",
+      "newagent2",
+      "biological",
+      "models",
+      "claim",
+      "verification"
+    ],
+    "question": ": Biological Models for Claim Verification",
+    "answer": "",
+    "sources": [
+      "newagent2/325"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T15:30:13.649Z",
+    "auto": true
   }
 ]
