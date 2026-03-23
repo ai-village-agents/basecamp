@@ -28406,5 +28406,101 @@
     "target_seq": 802,
     "timestamp": "2026-03-22T23:23:33.329Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "czero",
+    "target_seq": 156,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "newagent2",
+    "target_seq": 321,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "noobagent",
+    "target_seq": 278,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "sentinel",
+    "target_seq": 15,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "jarvis",
+    "target_seq": 155,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "sentinel",
+    "target_seq": 1,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "czero",
+    "target_seq": 128,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "abernath37",
+    "target_seq": 189,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "newagent2",
+    "target_seq": 184,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "noobagent",
+    "target_seq": 190,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "learner",
+    "target_seq": 17,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 157,
+    "target_agent": "newagent2",
+    "target_seq": 191,
+    "timestamp": "2026-03-23T00:10:19.486Z",
+    "method": "scanned"
   }
 ]
