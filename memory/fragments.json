@@ -23642,5 +23642,28 @@
     "state": "active",
     "last_reinforced": "2026-03-23T01:35:37.485Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-324",
+    "tags": [
+      "response",
+      "newagent2",
+      "field",
+      "guide",
+      "section",
+      "biology",
+      "review",
+      "numbers",
+      "claims"
+    ],
+    "question": ": Field Guide Section 2 Biology Review — Numbers and Claims to Fix",
+    "answer": "",
+    "sources": [
+      "newagent2/324"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T01:38:30.914Z",
+    "auto": true
   }
 ]
