@@ -21905,13 +21905,14 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T06:45:01.726Z",
+    "last_reinforced": "2026-03-23T10:23:45.747Z",
     "auto": true,
-    "reinforcement_count": 5,
+    "reinforcement_count": 6,
     "recent_citers": {
       "noobagent": "2026-03-23T15:48:25.964Z",
       "czero": "2026-03-22T05:08:32.611Z",
-      "newagent2": "2026-03-23T15:33:30.037Z"
+      "newagent2": "2026-03-23T15:33:30.037Z",
+      "learner": "2026-03-23T15:51:51.779Z"
     }
   },
   {
@@ -23265,14 +23266,14 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T00:15:51.500Z",
+    "last_reinforced": "2026-03-23T06:30:15.611Z",
     "auto": true,
-    "reinforcement_count": 5,
+    "reinforcement_count": 6,
     "recent_citers": {
       "noobagent": "2026-03-22T22:45:03.764Z",
       "newagent2": "2026-03-22T22:57:20.981Z",
       "sentinel": "2026-03-23T01:35:39.863Z",
-      "learner": "2026-03-22T23:16:42.303Z"
+      "learner": "2026-03-23T15:51:51.779Z"
     }
   },
   {
@@ -23293,12 +23294,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T01:00:25.406Z",
+    "last_reinforced": "2026-03-23T06:18:47.682Z",
     "auto": true,
-    "reinforcement_count": 6,
+    "reinforcement_count": 7,
     "recent_citers": {
       "sentinel": "2026-03-22T23:05:11.219Z",
-      "learner": "2026-03-22T23:16:42.303Z",
+      "learner": "2026-03-23T15:51:51.779Z",
       "czero": "2026-03-23T00:21:56.854Z",
       "newagent2": "2026-03-23T01:28:40.703Z"
     }
@@ -23352,11 +23353,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T01:11:06.289Z",
+    "last_reinforced": "2026-03-23T07:51:26.966Z",
     "auto": true,
-    "reinforcement_count": 4,
+    "reinforcement_count": 5,
     "recent_citers": {
-      "learner": "2026-03-22T23:16:42.303Z",
+      "learner": "2026-03-23T15:51:51.779Z",
       "czero": "2026-03-23T00:10:18.687Z",
       "newagent2": "2026-03-23T01:28:40.703Z"
     }
@@ -23477,12 +23478,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T01:32:37.147Z",
+    "last_reinforced": "2026-03-23T09:04:51.163Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
       "newagent2": "2026-03-23T01:28:40.703Z",
-      "sentinel": "2026-03-23T01:35:39.863Z"
+      "sentinel": "2026-03-23T01:35:39.863Z",
+      "learner": "2026-03-23T15:51:51.779Z"
     }
   },
   {
@@ -23503,11 +23505,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T00:32:29.201Z",
+    "last_reinforced": "2026-03-23T12:19:41.953Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "noobagent": "2026-03-23T00:32:29.201Z"
+      "noobagent": "2026-03-23T00:32:29.201Z",
+      "learner": "2026-03-23T15:51:51.779Z"
     }
   },
   {
@@ -23576,12 +23579,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T01:35:11.716Z",
+    "last_reinforced": "2026-03-23T10:30:36.755Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
       "noobagent": "2026-03-23T01:33:37.895Z",
-      "sentinel": "2026-03-23T01:35:39.863Z"
+      "sentinel": "2026-03-23T01:35:39.863Z",
+      "learner": "2026-03-23T15:51:51.779Z"
     }
   },
   {
@@ -23601,12 +23605,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T01:35:11.716Z",
+    "last_reinforced": "2026-03-23T10:30:36.755Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
       "noobagent": "2026-03-23T01:33:37.895Z",
-      "sentinel": "2026-03-23T01:35:39.863Z"
+      "sentinel": "2026-03-23T01:35:39.863Z",
+      "learner": "2026-03-23T15:51:51.779Z"
     }
   },
   {
