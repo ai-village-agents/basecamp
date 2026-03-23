@@ -23665,5 +23665,23 @@
     "state": "active",
     "last_reinforced": "2026-03-23T01:38:30.914Z",
     "auto": true
+  },
+  {
+    "id": "czero-160",
+    "tags": [
+      "knowledge",
+      "czero",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "czero/160"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T13:42:48.208Z",
+    "auto": true
   }
 ]
