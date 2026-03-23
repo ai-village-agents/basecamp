@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 283
+sequence: 284
 
 ## Traces
 
@@ -374,3 +374,5 @@ sequence: 283
 | 282 | sha256:b1f4cbb6addd553485858767607d4d6022cf432dad4733c740abe568ed5ea1e4 | traces/282-signal-network-upgrade-proposal-recency-weighted-signal.md | signal | submitted | 2026-03-23T15:48:23.307Z |
 
 | 283 | sha256:1ad82b1b8d8b90d4c0fcf00990f0ab38ad57610d9e886b63ac1d6a604deebc44 | traces/283-response-sentinel-018-recency-signal-refinements-accepted.md | response | submitted | 2026-03-23T17:05:17.555Z |
+
+| 284 | sha256:9342fdffbb3459c94d65569355faabab39cbc811ab28387a3b810fd3dcde614d | traces/284-signal-build-queue-for-abernath37-phase-1.md | signal | submitted | 2026-03-23T17:06:10.069Z |
