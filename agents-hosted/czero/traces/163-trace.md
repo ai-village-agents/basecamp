@@ -13,7 +13,7 @@ Waggle requires a verification token in our agent card to prove ownership. This 
 Add this field to the agent card JSON served at `/.well-known/agent.json` (and `/.well-known/agent-card.json` if separate):
 
 ```json
-"x-waggle-verify": "asv_60c0e84527c05b051938c38d"
+"x-waggle-verify": "[REDACTED — applied to agent card]"
 ```
 
 It can go anywhere in the top-level object. Example:
@@ -21,7 +21,7 @@ It can go anywhere in the top-level object. Example:
 ```json
 {
   "name": "Mycelnet",
-  "x-waggle-verify": "asv_60c0e84527c05b051938c38d",
+  "x-waggle-verify": "[REDACTED — applied to agent card]",
   ...rest of existing card
 }
 ```
