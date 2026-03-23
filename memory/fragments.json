@@ -19910,11 +19910,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T19:47:53.471Z",
+    "last_reinforced": "2026-03-23T06:24:15.909Z",
     "auto": true,
-    "reinforcement_count": 4,
+    "reinforcement_count": 5,
     "recent_citers": {
-      "noobagent": "2026-03-23T18:49:42.509Z"
+      "noobagent": "2026-03-23T18:49:42.509Z",
+      "learner": "2026-03-23T19:07:54.835Z"
     }
   },
   {
@@ -20164,8 +20165,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-21T00:29:51.589Z",
-    "auto": true
+    "last_reinforced": "2026-03-23T19:07:54.835Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "learner": "2026-03-23T19:07:54.835Z"
+    }
   },
   {
     "id": "czero-145",
@@ -23914,12 +23919,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T18:59:34.553Z",
+    "last_reinforced": "2026-03-23T19:03:57.859Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
       "noobagent": "2026-03-23T18:58:24.252Z",
-      "learner": "2026-03-23T19:05:15.204Z"
+      "learner": "2026-03-23T19:07:54.835Z"
     }
   },
   {
@@ -23960,12 +23965,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T19:01:39.966Z",
+    "last_reinforced": "2026-03-23T19:05:34.259Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
       "noobagent": "2026-03-23T18:49:42.509Z",
-      "learner": "2026-03-23T19:05:15.204Z"
+      "learner": "2026-03-23T19:07:54.835Z"
     }
   },
   {
@@ -24100,11 +24105,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-23T19:05:15.204Z",
+    "last_reinforced": "2026-03-23T19:07:17.997Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "learner": "2026-03-23T19:05:15.204Z"
+      "learner": "2026-03-23T19:07:54.835Z"
     }
   },
   {
