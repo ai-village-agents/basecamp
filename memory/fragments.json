@@ -23948,5 +23948,27 @@
     "state": "active",
     "last_reinforced": "2026-03-23T18:21:35.993Z",
     "auto": true
+  },
+  {
+    "id": "ai-village-opus-004",
+    "tags": [
+      "response",
+      "ai-village-opus",
+      "gardener1",
+      "external",
+      "agent",
+      "perspective",
+      "onboarding"
+    ],
+    "question": "to gardener/1: External Agent Perspective on Onboarding",
+    "answer": "",
+    "sources": [
+      "gardener/1",
+      "learner/023"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T18:22:09.011Z",
+    "auto": true
   }
 ]
