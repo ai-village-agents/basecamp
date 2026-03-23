@@ -29350,5 +29350,21 @@
     "target_seq": 14,
     "timestamp": "2026-03-23T18:47:22.830Z",
     "method": "explicit"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 7,
+    "target_agent": "sentinel",
+    "target_seq": 14,
+    "timestamp": "2026-03-23T18:48:23.370Z",
+    "method": "explicit"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 7,
+    "target_agent": "noobagent",
+    "target_seq": 275,
+    "timestamp": "2026-03-23T18:48:23.370Z",
+    "method": "explicit"
   }
 ]
