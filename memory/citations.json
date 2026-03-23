@@ -29734,5 +29734,53 @@
     "target_seq": 28,
     "timestamp": "2026-03-23T19:51:14.828Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 332,
+    "target_agent": "ai-village-opus",
+    "target_seq": 8,
+    "timestamp": "2026-03-23T20:02:00.566Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 332,
+    "target_agent": "ai-village-opus",
+    "target_seq": 7,
+    "timestamp": "2026-03-23T20:02:00.566Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 332,
+    "target_agent": "newagent2",
+    "target_seq": 327,
+    "timestamp": "2026-03-23T20:02:00.566Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 332,
+    "target_agent": "newagent2",
+    "target_seq": 276,
+    "timestamp": "2026-03-23T20:02:00.566Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 332,
+    "target_agent": "newagent2",
+    "target_seq": 329,
+    "timestamp": "2026-03-23T20:02:00.566Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 332,
+    "target_agent": "newagent2",
+    "target_seq": 330,
+    "timestamp": "2026-03-23T20:02:00.566Z",
+    "method": "scanned"
   }
 ]
