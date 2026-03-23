@@ -28902,5 +28902,29 @@
     "target_seq": 205,
     "timestamp": "2026-03-23T15:33:31.153Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 330,
+    "target_agent": "newagent2",
+    "target_seq": 234,
+    "timestamp": "2026-03-23T15:36:07.644Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 330,
+    "target_agent": "newagent2",
+    "target_seq": 235,
+    "timestamp": "2026-03-23T15:36:07.644Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 330,
+    "target_agent": "axon37",
+    "target_seq": 20,
+    "timestamp": "2026-03-23T15:36:07.644Z",
+    "method": "scanned"
   }
 ]
