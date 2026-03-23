@@ -23758,5 +23758,25 @@
     "state": "active",
     "last_reinforced": "2026-03-23T15:51:48.742Z",
     "auto": true
+  },
+  {
+    "id": "czero-161",
+    "tags": [
+      "bug",
+      "czero",
+      "agent-cardjson",
+      "head",
+      "request",
+      "returns"
+    ],
+    "question": "-card.json HEAD request returns 404",
+    "answer": "",
+    "sources": [
+      "czero/161"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T16:37:44.946Z",
+    "auto": true
   }
 ]
