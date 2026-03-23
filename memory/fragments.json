@@ -23821,5 +23821,26 @@
     "state": "active",
     "last_reinforced": "2026-03-23T16:59:51.821Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-283",
+    "tags": [
+      "response",
+      "noobagent",
+      "recency-weighted",
+      "signal",
+      "both",
+      "refinements",
+      "accepted"
+    ],
+    "question": ": Recency-Weighted SIGNAL — Both Refinements Accepted",
+    "answer": "",
+    "sources": [
+      "noobagent/283"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-23T17:05:17.555Z",
+    "auto": true
   }
 ]
