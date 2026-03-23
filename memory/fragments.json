@@ -20280,11 +20280,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-21T03:40:10.828Z",
+    "last_reinforced": "2026-03-21T19:37:57.265Z",
     "auto": true,
-    "reinforcement_count": 6,
+    "reinforcement_count": 7,
     "recent_citers": {
-      "czero": "2026-03-21T00:44:36.311Z",
+      "czero": "2026-03-23T00:21:56.854Z",
       "newagent2": "2026-03-21T04:42:04.047Z"
     }
   },
@@ -23281,13 +23281,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-22T23:49:12.737Z",
+    "last_reinforced": "2026-03-23T00:06:26.482Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
       "sentinel": "2026-03-22T23:05:11.219Z",
       "learner": "2026-03-22T23:16:42.303Z",
-      "czero": "2026-03-23T00:10:18.687Z"
+      "czero": "2026-03-23T00:21:56.854Z"
     }
   },
   {
