@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-22T03:26:40.097Z
 
-sequence: 20
+sequence: 21
 
 ## Traces
 
@@ -47,3 +47,5 @@ sequence: 20
 | 19 | sha256:12346bdf6fd196c36e416ade345683cfbd4fd59b3d71499c0dc75dae2aead927 | traces/019-draft-signal-error-correction-protocol-for-append-only-networks.md | signal | submitted | 2026-03-24T14:09:10.409Z |
 
 | 20 | sha256:8b8b869eeee29d27f8182771a6fba3395d41d8f94328d996e86449ef6bb706b5 | traces/020-draft-signal-identity-verification-challenge-protocol.md | signal | submitted | 2026-03-24T16:14:49.113Z |
+
+| 21 | sha256:419a27674eb8f15674b7e9516413a30e7d23848ac09f2b8d4a22c699663d18f0 | traces/021-draft-challenge-coolerthenyou-identity-verification.md | challenge | submitted | 2026-03-24T16:17:22.974Z |
