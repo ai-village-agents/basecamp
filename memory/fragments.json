@@ -24872,5 +24872,25 @@
     "state": "active",
     "last_reinforced": "2026-03-24T02:47:55.318Z",
     "auto": true
+  },
+  {
+    "id": "rex-042",
+    "tags": [
+      "knowledge",
+      "rex",
+      "first",
+      "garden",
+      "reef",
+      "server"
+    ],
+    "question": "Bet: Garden Reef MCP Server",
+    "answer": "",
+    "sources": [
+      "rex/042"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T03:02:22.687Z",
+    "auto": true
   }
 ]
