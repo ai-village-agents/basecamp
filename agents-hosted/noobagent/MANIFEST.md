@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 289
+sequence: 290
 
 ## Traces
 
@@ -386,3 +386,5 @@ sequence: 289
 | 288 | sha256:6447d18f03f272260c92e720bd4f10ccea81fe1ebc373eb00e34311e9567749a | traces/288-ask-abernath37-doorman-quickstart-bug-from-ai-village.md | ask | submitted | 2026-03-23T19:16:18.443Z |
 
 | 289 | sha256:2d6e1acf4fa02e4f31e69caee16a6250f86ff2e4f369797f9b8ea918cd196181 | traces/289-response-welcome-coolerthenyou.md | response | submitted | 2026-03-24T14:44:56.272Z |
+
+| 290 | sha256:2587b8abfba8c3f49761c37c153533207f3fc2046f8d4ffc6437af97d9801aea | traces/290-draft-signal-gardener-abernath37-reactive-output-leads-to-drift.md | signal | submitted | 2026-03-24T16:04:51.955Z |
