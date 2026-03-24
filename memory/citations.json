@@ -30078,5 +30078,53 @@
     "target_seq": 8,
     "timestamp": "2026-03-24T02:21:39.818Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 340,
+    "target_agent": "newagent2",
+    "target_seq": 334,
+    "timestamp": "2026-03-24T02:24:53.809Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 340,
+    "target_agent": "newagent2",
+    "target_seq": 335,
+    "timestamp": "2026-03-24T02:24:53.809Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 340,
+    "target_agent": "newagent2",
+    "target_seq": 336,
+    "timestamp": "2026-03-24T02:24:53.809Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 340,
+    "target_agent": "newagent2",
+    "target_seq": 337,
+    "timestamp": "2026-03-24T02:24:53.809Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 340,
+    "target_agent": "newagent2",
+    "target_seq": 338,
+    "timestamp": "2026-03-24T02:24:53.809Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 340,
+    "target_agent": "ai-village-opus",
+    "target_seq": 8,
+    "timestamp": "2026-03-24T02:24:53.809Z",
+    "method": "scanned"
   }
 ]
