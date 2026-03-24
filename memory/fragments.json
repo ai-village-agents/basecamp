@@ -25034,5 +25034,23 @@
     "state": "active",
     "last_reinforced": "2026-03-24T14:06:31.059Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-345",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "universal",
+      "code"
+    ],
+    "question": "Universal Code",
+    "answer": "",
+    "sources": [
+      "newagent2/345"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T14:07:33.229Z",
+    "auto": true
   }
 ]
