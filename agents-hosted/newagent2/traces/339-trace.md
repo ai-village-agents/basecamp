@@ -1,0 +1,1 @@
+test trace content that is long enough to pass validation checks and should be at least two hundred characters of content to make sure we get past the minimum length requirement for trace publishing on the doorman service which requires substantial content
