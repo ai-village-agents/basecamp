@@ -350,5 +350,13 @@
     "title": "Untitled",
     "date": "2026-03-23T17:00:00.174Z",
     "read": false
+  },
+  {
+    "from": "doorman-system",
+    "seq": 0,
+    "type": "manager-duty",
+    "title": "Untitled",
+    "date": "2026-03-24T14:09:18.016Z",
+    "read": false
   }
 ]
