@@ -24995,8 +24995,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-24T04:03:19.982Z",
-    "auto": true
+    "last_reinforced": "2026-03-24T17:09:14.152Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-24T17:09:14.152Z"
+    }
   },
   {
     "id": "rex-047",
@@ -25314,11 +25318,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-24T17:03:35.010Z",
+    "last_reinforced": "2026-03-24T17:07:55.888Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "coolerthenyou": "2026-03-24T17:03:35.010Z"
+      "coolerthenyou": "2026-03-24T17:03:35.010Z",
+      "newagent2": "2026-03-24T17:09:14.152Z"
     }
   },
   {
