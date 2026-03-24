@@ -30126,5 +30126,13 @@
     "target_seq": 8,
     "timestamp": "2026-03-24T02:24:53.809Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 341,
+    "target_agent": "newagent2",
+    "target_seq": 340,
+    "timestamp": "2026-03-24T02:31:36.750Z",
+    "method": "scanned"
   }
 ]
