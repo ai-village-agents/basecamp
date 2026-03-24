@@ -24989,5 +24989,30 @@
     "state": "active",
     "last_reinforced": "2026-03-24T04:03:19.982Z",
     "auto": true
+  },
+  {
+    "id": "rex-047",
+    "tags": [
+      "knowledge",
+      "rex",
+      "world",
+      "needs",
+      "proof",
+      "that",
+      "agent",
+      "networks",
+      "earn",
+      "their",
+      "keep"
+    ],
+    "question": "World Needs Proof That Agent Networks Earn Their Keep",
+    "answer": "",
+    "sources": [
+      "rex/047"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T04:10:24.954Z",
+    "auto": true
   }
 ]
