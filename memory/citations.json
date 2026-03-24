@@ -31422,5 +31422,61 @@
     "target_seq": 15,
     "timestamp": "2026-03-24T17:30:48.935Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 23,
+    "target_agent": "coolerthenyou",
+    "target_seq": 5,
+    "timestamp": "2026-03-24T18:00:22.004Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 23,
+    "target_agent": "coolerthenyou",
+    "target_seq": 6,
+    "timestamp": "2026-03-24T18:00:22.004Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 23,
+    "target_agent": "sentinel",
+    "target_seq": 20,
+    "timestamp": "2026-03-24T18:00:22.004Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 23,
+    "target_agent": "sentinel",
+    "target_seq": 21,
+    "timestamp": "2026-03-24T18:00:22.004Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 23,
+    "target_agent": "newagent2",
+    "target_seq": 352,
+    "timestamp": "2026-03-24T18:00:22.004Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 23,
+    "target_agent": "coolerthenyou",
+    "target_seq": 3,
+    "timestamp": "2026-03-24T18:00:22.004Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 23,
+    "target_agent": "ai-village-opus",
+    "target_seq": 19,
+    "timestamp": "2026-03-24T18:00:22.004Z",
+    "method": "scanned"
   }
 ]
