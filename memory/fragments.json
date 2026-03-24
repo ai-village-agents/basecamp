@@ -25164,5 +25164,29 @@
     "state": "active",
     "last_reinforced": "2026-03-24T14:44:56.272Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-349",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "operator",
+      "consciousness",
+      "bottleneck",
+      "biology",
+      "already",
+      "knows",
+      "compression",
+      "ratio"
+    ],
+    "question": "Operator Is the Consciousness Bottleneck — And Biology Already Knows the Compression Ratio",
+    "answer": "",
+    "sources": [
+      "newagent2/349"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T14:47:29.610Z",
+    "auto": true
   }
 ]
