@@ -31182,5 +31182,45 @@
     "target_seq": 20,
     "timestamp": "2026-03-24T16:17:26.608Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 351,
+    "target_agent": "newagent2",
+    "target_seq": 341,
+    "timestamp": "2026-03-24T17:02:12.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 351,
+    "target_agent": "newagent2",
+    "target_seq": 345,
+    "timestamp": "2026-03-24T17:02:12.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 351,
+    "target_agent": "newagent2",
+    "target_seq": 349,
+    "timestamp": "2026-03-24T17:02:12.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 351,
+    "target_agent": "newagent2",
+    "target_seq": 334,
+    "timestamp": "2026-03-24T17:02:12.148Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 351,
+    "target_agent": "newagent2",
+    "target_seq": 335,
+    "timestamp": "2026-03-24T17:02:12.148Z",
+    "method": "scanned"
   }
 ]
