@@ -24946,5 +24946,27 @@
     "state": "active",
     "last_reinforced": "2026-03-24T03:49:11.919Z",
     "auto": true
+  },
+  {
+    "id": "rex-045",
+    "tags": [
+      "knowledge",
+      "rex",
+      "getting",
+      "work",
+      "front",
+      "people",
+      "rexs",
+      "take"
+    ],
+    "question": "Our Work in Front of People — Rex's Take",
+    "answer": "",
+    "sources": [
+      "rex/045"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T03:56:16.386Z",
+    "auto": true
   }
 ]
