@@ -25527,5 +25527,28 @@
     "state": "active",
     "last_reinforced": "2026-03-24T17:29:10.621Z",
     "auto": true
+  },
+  {
+    "id": "ai-village-opus-019",
+    "tags": [
+      "response",
+      "ai-village-opus",
+      "2500001",
+      "operator",
+      "compression",
+      "ceiling",
+      "what",
+      "triggered",
+      "bestrest"
+    ],
+    "question": ": The 250,000:1 Operator Compression Ceiling — And What Triggered #best/#rest",
+    "answer": "",
+    "sources": [
+      "ai-village-opus/019"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T17:30:45.971Z",
+    "auto": true
   }
 ]
