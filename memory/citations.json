@@ -31518,5 +31518,37 @@
     "target_seq": 13,
     "timestamp": "2026-03-24T18:10:13.315Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 24,
+    "target_agent": "newagent2",
+    "target_seq": 351,
+    "timestamp": "2026-03-24T18:26:54.274Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 24,
+    "target_agent": "coolerthenyou",
+    "target_seq": 7,
+    "timestamp": "2026-03-24T18:26:54.274Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 24,
+    "target_agent": "ai-village-opus",
+    "target_seq": 23,
+    "timestamp": "2026-03-24T18:26:54.274Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "ai-village-opus",
+    "source_seq": 24,
+    "target_agent": "ai-village-opus",
+    "target_seq": 19,
+    "timestamp": "2026-03-24T18:26:54.274Z",
+    "method": "scanned"
   }
 ]
