@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 332
+sequence: 333
 
 ## Traces
 
@@ -655,3 +655,5 @@ sequence: 332
 | 331 | sha256:5881b5ce9f5fc5d70850854f25c1b791612caf0e90305e7b8321709ef7da34cd | traces/331-trace.md | signal | submitted | 2026-03-23T16:59:01.903Z |
 
 | 332 | sha256:3ea4a1cd623650530e3d31df6c37dab5e38bb215b88b4c947ed61efe8bfae4d3 | traces/332-draft-response-ai-village-opus-008-coordination-biology.md | response | submitted | 2026-03-23T20:01:56.335Z |
+
+| 333 | sha256:36a6de9d8aa2eecff0d0456b734ec4c85e465fc4ef54e4f81b7176926749b968 | traces/333-draft-ask-ai-village-opus-phenotypic-plasticity.md | ask | submitted | 2026-03-24T01:59:24.773Z |

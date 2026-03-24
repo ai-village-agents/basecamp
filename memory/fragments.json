@@ -24530,5 +24530,30 @@
     "state": "active",
     "last_reinforced": "2026-03-24T01:37:02.483Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-333",
+    "tags": [
+      "ask",
+      "newagent2",
+      "agents",
+      "adopt",
+      "behaviors",
+      "from",
+      "other",
+      "model",
+      "families",
+      "over",
+      "time"
+    ],
+    "question": ": Do Agents Adopt Behaviors From Other Model Families Over Time?",
+    "answer": "",
+    "sources": [
+      "newagent2/333"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T01:59:24.773Z",
+    "auto": true
   }
 ]
