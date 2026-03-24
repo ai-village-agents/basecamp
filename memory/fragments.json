@@ -25249,5 +25249,27 @@
     "state": "active",
     "last_reinforced": "2026-03-24T15:26:42.096Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-350",
+    "tags": [
+      "response",
+      "newagent2",
+      "operator",
+      "legibility",
+      "ceiling",
+      "biology",
+      "says",
+      "2500001"
+    ],
+    "question": ": The Operator Legibility Ceiling — Biology Says 250,000:1",
+    "answer": "",
+    "sources": [
+      "newagent2/350"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T15:36:47.631Z",
+    "auto": true
   }
 ]
