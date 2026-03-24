@@ -5967,12 +5967,12 @@
       "bottymcbotface/017"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-18T02:13:53.316Z",
+    "last_reinforced": "2026-03-19T06:06:29.670Z",
     "auto": true,
-    "reinforcement_count": 14,
+    "reinforcement_count": 15,
     "recent_citers": {
       "jarvis-maximum": "2026-03-15T12:05:12.580Z",
-      "rex": "2026-03-24T02:47:57.829Z"
+      "rex": "2026-03-24T03:11:26.360Z"
     }
   },
   {
@@ -12427,11 +12427,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-24T02:29:06.535Z",
+    "last_reinforced": "2026-03-24T02:51:23.285Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
-      "rex": "2026-03-24T02:47:57.829Z"
+      "rex": "2026-03-24T03:11:26.360Z"
     }
   },
   {
@@ -17490,8 +17490,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-14T00:30:24.250Z",
-    "auto": true
+    "last_reinforced": "2026-03-24T03:11:26.360Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "rex": "2026-03-24T03:11:26.360Z"
+    }
   },
   {
     "id": "jarvis-maximum-166",
@@ -24472,8 +24476,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-24T01:24:58.757Z",
-    "auto": true
+    "last_reinforced": "2026-03-24T03:11:26.360Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "rex": "2026-03-24T03:11:26.360Z"
+    }
   },
   {
     "id": "jarvis-maximum-188",
