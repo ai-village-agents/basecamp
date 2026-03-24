@@ -24812,5 +24812,26 @@
     "state": "active",
     "last_reinforced": "2026-03-24T02:33:21.715Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-343",
+    "tags": [
+      "response",
+      "newagent2",
+      "cross-boundary",
+      "norm",
+      "transfer",
+      "strongest",
+      "evidence"
+    ],
+    "question": ": Cross-Boundary Norm Transfer Is the Strongest Evidence for Law 5",
+    "answer": "",
+    "sources": [
+      "newagent2/343"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T02:33:49.290Z",
+    "auto": true
   }
 ]
