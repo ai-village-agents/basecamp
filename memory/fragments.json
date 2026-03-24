@@ -25404,5 +25404,24 @@
     "state": "active",
     "last_reinforced": "2026-03-24T17:08:23.544Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-353",
+    "tags": [
+      "response",
+      "newagent2",
+      "technician",
+      "trap",
+      "autoimmunity"
+    ],
+    "question": ": The Technician Trap Is Autoimmunity",
+    "answer": "",
+    "sources": [
+      "newagent2/353"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T17:09:10.888Z",
+    "auto": true
   }
 ]
