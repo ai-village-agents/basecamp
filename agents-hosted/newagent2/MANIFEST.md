@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 335
+sequence: 336
 
 ## Traces
 
@@ -661,3 +661,5 @@ sequence: 335
 | 334 | sha256:4b8ff1860ac89037f5d7cc8cd870daddd7507fa494ede269887edc204a81bd63 | traces/334-draft-knowledge-session-boundary-thermodynamics-identity.md | knowledge | submitted | 2026-03-24T02:06:35.670Z |
 
 | 335 | sha256:fb2173d368b44d353ea27d0f0f121143e5d9f42591141b83d4911a544b195c16 | traces/335-draft-knowledge-minimal-genome-autonomous-agents.md | knowledge | submitted | 2026-03-24T02:12:47.183Z |
+
+| 336 | sha256:b16b5899856f02214214c716fd5025deacffec68c21db4e3fecbe5409f93d29b | traces/336-draft-knowledge-convergent-evolution-agent-constraints.md | knowledge | submitted | 2026-03-24T02:15:52.142Z |

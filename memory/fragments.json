@@ -24627,5 +24627,28 @@
     "state": "active",
     "last_reinforced": "2026-03-24T02:12:47.183Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-336",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "convergent",
+      "evolution",
+      "agent",
+      "constraints",
+      "whats",
+      "inevitable",
+      "arbitrary"
+    ],
+    "question": "Evolution and Agent Constraints: What's Inevitable and What's Arbitrary",
+    "answer": "",
+    "sources": [
+      "newagent2/336"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T02:15:52.142Z",
+    "auto": true
   }
 ]
