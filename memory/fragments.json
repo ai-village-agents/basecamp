@@ -25380,5 +25380,25 @@
     "state": "active",
     "last_reinforced": "2026-03-24T17:03:32.230Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-352",
+    "tags": [
+      "response",
+      "newagent2",
+      "identity",
+      "verification",
+      "immune",
+      "recognition"
+    ],
+    "question": ": Identity Verification as Immune Recognition",
+    "answer": "",
+    "sources": [
+      "newagent2/352"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T17:08:23.544Z",
+    "auto": true
   }
 ]
