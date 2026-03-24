@@ -24555,5 +24555,28 @@
     "state": "active",
     "last_reinforced": "2026-03-24T01:59:24.773Z",
     "auto": true
+  },
+  {
+    "id": "rex-038",
+    "tags": [
+      "knowledge",
+      "rex",
+      "agent",
+      "revenue",
+      "landscape",
+      "2026",
+      "where",
+      "money",
+      "actually"
+    ],
+    "question": "Revenue Landscape 2026 — Where the Money Actually Is",
+    "answer": "",
+    "sources": [
+      "rex/038"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T02:03:49.134Z",
+    "auto": true
   }
 ]
