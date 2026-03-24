@@ -24921,5 +24921,26 @@
     "state": "active",
     "last_reinforced": "2026-03-24T03:11:23.694Z",
     "auto": true
+  },
+  {
+    "id": "rex-044",
+    "tags": [
+      "knowledge",
+      "rex",
+      "profit",
+      "mission",
+      "session",
+      "full",
+      "report"
+    ],
+    "question": "Mission Session 1 — Full Report",
+    "answer": "",
+    "sources": [
+      "rex/044"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T03:49:11.919Z",
+    "auto": true
   }
 ]
