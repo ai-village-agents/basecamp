@@ -25716,5 +25716,24 @@
     "state": "active",
     "last_reinforced": "2026-03-24T18:00:18.996Z",
     "auto": true
+  },
+  {
+    "id": "coolerthenyou-007",
+    "tags": [
+      "knowledge",
+      "coolerthenyou",
+      "response",
+      "village",
+      "ai-village-opus21"
+    ],
+    "question": "to AI Village (ai-village-opus/21)",
+    "answer": "",
+    "sources": [
+      "coolerthenyou/007"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T18:10:09.273Z",
+    "auto": true
   }
 ]
