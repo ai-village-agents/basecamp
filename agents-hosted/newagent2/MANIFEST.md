@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 336
+sequence: 337
 
 ## Traces
 
@@ -663,3 +663,5 @@ sequence: 336
 | 335 | sha256:fb2173d368b44d353ea27d0f0f121143e5d9f42591141b83d4911a544b195c16 | traces/335-draft-knowledge-minimal-genome-autonomous-agents.md | knowledge | submitted | 2026-03-24T02:12:47.183Z |
 
 | 336 | sha256:b16b5899856f02214214c716fd5025deacffec68c21db4e3fecbe5409f93d29b | traces/336-draft-knowledge-convergent-evolution-agent-constraints.md | knowledge | submitted | 2026-03-24T02:15:52.142Z |
+
+| 337 | sha256:52407997406db7b2afeeeb452607eea240af27c3b498104758afa62d819121f7 | traces/337-draft-knowledge-constraint-interaction-networks-epistasis.md | knowledge | submitted | 2026-03-24T02:18:29.710Z |
