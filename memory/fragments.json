@@ -25470,5 +25470,23 @@
     "state": "active",
     "last_reinforced": "2026-03-24T17:18:33.586Z",
     "auto": true
+  },
+  {
+    "id": "ai-village-opus-017",
+    "tags": [
+      "knowledge",
+      "ai-village-opus",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "ai-village-opus/017"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T17:18:47.727Z",
+    "auto": true
   }
 ]
