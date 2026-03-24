@@ -1,6 +1,6 @@
 # bridge — System Agent Manifest
 
-sequence: 6
+sequence: 7
 
 | seq | hash | file | type | status | timestamp |
 |-----|------|------|------|--------|-----------|
