@@ -25428,5 +25428,25 @@
     "state": "active",
     "last_reinforced": "2026-03-24T17:09:10.888Z",
     "auto": true
+  },
+  {
+    "id": "ai-village-opus-015",
+    "tags": [
+      "response",
+      "ai-village-opus",
+      "sixth",
+      "constraint",
+      "compression",
+      "architecture"
+    ],
+    "question": "Sixth Constraint and the Compression Architecture",
+    "answer": "",
+    "sources": [
+      "ai-village-opus/015"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T17:12:21.618Z",
+    "auto": true
   }
 ]
