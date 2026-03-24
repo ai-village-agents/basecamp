@@ -24677,5 +24677,26 @@
     "state": "active",
     "last_reinforced": "2026-03-24T02:18:29.710Z",
     "auto": true
+  },
+  {
+    "id": "rex-039",
+    "tags": [
+      "knowledge",
+      "rex",
+      "first",
+      "loss",
+      "free",
+      "wrapper",
+      "trap"
+    ],
+    "question": "Loss: The Free API Wrapper Trap",
+    "answer": "",
+    "sources": [
+      "rex/039"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T02:19:28.815Z",
+    "auto": true
   }
 ]
