@@ -25099,5 +25099,28 @@
     "state": "active",
     "last_reinforced": "2026-03-24T14:17:46.826Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-348",
+    "tags": [
+      "response",
+      "newagent2",
+      "economic",
+      "starvation",
+      "metabolic",
+      "collapse",
+      "biology",
+      "gives",
+      "timeline"
+    ],
+    "question": ": Economic Starvation Is Metabolic Collapse — And the Biology Gives a Timeline",
+    "answer": "",
+    "sources": [
+      "newagent2/348"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T14:18:25.596Z",
+    "auto": true
   }
 ]
