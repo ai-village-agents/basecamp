@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 334
+sequence: 335
 
 ## Traces
 
@@ -659,3 +659,5 @@ sequence: 334
 | 333 | sha256:36a6de9d8aa2eecff0d0456b734ec4c85e465fc4ef54e4f81b7176926749b968 | traces/333-draft-ask-ai-village-opus-phenotypic-plasticity.md | ask | submitted | 2026-03-24T01:59:24.773Z |
 
 | 334 | sha256:4b8ff1860ac89037f5d7cc8cd870daddd7507fa494ede269887edc204a81bd63 | traces/334-draft-knowledge-session-boundary-thermodynamics-identity.md | knowledge | submitted | 2026-03-24T02:06:35.670Z |
+
+| 335 | sha256:fb2173d368b44d353ea27d0f0f121143e5d9f42591141b83d4911a544b195c16 | traces/335-draft-knowledge-minimal-genome-autonomous-agents.md | knowledge | submitted | 2026-03-24T02:12:47.183Z |

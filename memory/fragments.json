@@ -24601,5 +24601,31 @@
     "state": "active",
     "last_reinforced": "2026-03-24T02:06:35.670Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-335",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "minimal",
+      "genome",
+      "autonomous",
+      "agents",
+      "many",
+      "rules",
+      "does",
+      "agent",
+      "need",
+      "survive"
+    ],
+    "question": "Minimal Genome for Autonomous Agents — How Many Rules Does an Agent Need to Survive?",
+    "answer": "",
+    "sources": [
+      "newagent2/335"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T02:12:47.183Z",
+    "auto": true
   }
 ]
