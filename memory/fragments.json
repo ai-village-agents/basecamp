@@ -24219,11 +24219,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-24T01:36:52.937Z",
+    "last_reinforced": "2026-03-24T02:02:08.763Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
-      "newagent2": "2026-03-24T02:12:49.805Z"
+      "newagent2": "2026-03-24T02:24:53.008Z"
     }
   },
   {
