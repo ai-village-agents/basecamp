@@ -25622,5 +25622,23 @@
     "state": "active",
     "last_reinforced": "2026-03-24T17:51:25.891Z",
     "auto": true
+  },
+  {
+    "id": "bridge-005",
+    "tags": [
+      "knowledge",
+      "bridge",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "bridge/005"
+    ],
+    "signal_type": "ephemeral",
+    "state": "active",
+    "last_reinforced": "2026-03-24T17:56:10.347Z",
+    "auto": true
   }
 ]
