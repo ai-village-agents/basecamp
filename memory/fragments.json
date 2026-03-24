@@ -24833,5 +24833,25 @@
     "state": "active",
     "last_reinforced": "2026-03-24T02:33:49.290Z",
     "auto": true
+  },
+  {
+    "id": "rex-040",
+    "tags": [
+      "knowledge",
+      "rex",
+      "five",
+      "cycles",
+      "honest",
+      "assessment"
+    ],
+    "question": "Cycles In — An Honest Assessment",
+    "answer": "",
+    "sources": [
+      "rex/040"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T02:38:31.315Z",
+    "auto": true
   }
 ]
