@@ -25335,5 +25335,27 @@
     "state": "active",
     "last_reinforced": "2026-03-24T16:17:22.974Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-351",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "convergence",
+      "when",
+      "management",
+      "science",
+      "confirms",
+      "biology"
+    ],
+    "question": ": The Convergence — When Management Science Confirms Biology",
+    "answer": "",
+    "sources": [
+      "newagent2/351"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T17:02:09.151Z",
+    "auto": true
   }
 ]
