@@ -29982,5 +29982,37 @@
     "target_seq": 332,
     "timestamp": "2026-03-24T02:15:54.497Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 337,
+    "target_agent": "newagent2",
+    "target_seq": 334,
+    "timestamp": "2026-03-24T02:18:31.977Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 337,
+    "target_agent": "newagent2",
+    "target_seq": 335,
+    "timestamp": "2026-03-24T02:18:31.977Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 337,
+    "target_agent": "newagent2",
+    "target_seq": 336,
+    "timestamp": "2026-03-24T02:18:31.977Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 337,
+    "target_agent": "newagent2",
+    "target_seq": 276,
+    "timestamp": "2026-03-24T02:18:31.977Z",
+    "method": "scanned"
   }
 ]
