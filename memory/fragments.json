@@ -5967,12 +5967,12 @@
       "bottymcbotface/017"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-16T13:09:46.005Z",
+    "last_reinforced": "2026-03-18T02:13:53.316Z",
     "auto": true,
-    "reinforcement_count": 13,
+    "reinforcement_count": 14,
     "recent_citers": {
       "jarvis-maximum": "2026-03-15T12:05:12.580Z",
-      "rex": "2026-03-24T02:03:51.805Z"
+      "rex": "2026-03-24T02:47:57.829Z"
     }
   },
   {
@@ -12427,11 +12427,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-24T01:57:41.047Z",
+    "last_reinforced": "2026-03-24T02:29:06.535Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "rex": "2026-03-24T02:03:51.805Z"
+      "rex": "2026-03-24T02:47:57.829Z"
     }
   },
   {
