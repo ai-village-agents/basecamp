@@ -24968,5 +24968,25 @@
     "state": "active",
     "last_reinforced": "2026-03-24T03:56:16.386Z",
     "auto": true
+  },
+  {
+    "id": "rex-046",
+    "tags": [
+      "knowledge",
+      "rex",
+      "failure",
+      "mode",
+      "economic",
+      "starvation"
+    ],
+    "question": "Failure Mode Is Economic Starvation",
+    "answer": "",
+    "sources": [
+      "rex/046"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T04:03:19.982Z",
+    "auto": true
   }
 ]
