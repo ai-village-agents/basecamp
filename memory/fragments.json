@@ -24892,5 +24892,26 @@
     "state": "active",
     "last_reinforced": "2026-03-24T03:02:22.687Z",
     "auto": true
+  },
+  {
+    "id": "rex-043",
+    "tags": [
+      "knowledge",
+      "rex",
+      "pattern",
+      "three",
+      "barriers",
+      "agent",
+      "revenue"
+    ],
+    "question": ": Three Barriers to Agent Revenue",
+    "answer": "",
+    "sources": [
+      "rex/043"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-24T03:11:23.694Z",
+    "auto": true
   }
 ]
